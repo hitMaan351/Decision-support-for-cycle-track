@@ -1,0 +1,3228 @@
+,name,mois_annee_comptage,sum_counts
+0,10  avenue de la Grande Armée SE-NO,2018-07-01,1382.0
+1,10  avenue de la Grande Armée SE-NO,2018-08-01,8030.0
+2,10  avenue de la Grande Armée SE-NO,2018-09-01,12009.0
+3,10  avenue de la Grande Armée SE-NO,2018-10-01,10184.0
+4,10  avenue de la Grande Armée SE-NO,2018-11-01,8203.0
+5,10  avenue de la Grande Armée SE-NO,2018-12-01,6712.0
+6,10  avenue de la Grande Armée SE-NO,2019-01-01,3150.0
+7,10  avenue de la Grande Armée SE-NO,2019-02-01,107.0
+8,10  avenue de la Grande Armée SE-NO,2019-03-01,214.0
+9,10  avenue de la Grande Armée SE-NO,2019-04-01,172.0
+10,10  avenue de la Grande Armée SE-NO,2019-05-01,8468.0
+11,10  avenue de la Grande Armée SE-NO,2019-06-01,10999.0
+12,10  avenue de la Grande Armée SE-NO,2019-07-01,13956.0
+13,10  avenue de la Grande Armée SE-NO,2019-08-01,11225.0
+14,10  avenue de la Grande Armée SE-NO,2019-09-01,13217.0
+15,10  avenue de la Grande Armée SE-NO,2019-10-01,8868.0
+16,10  avenue de la Grande Armée SE-NO,2019-11-01,11138.0
+17,10  avenue de la Grande Armée SE-NO,2019-12-01,19998.0
+18,10 Bd Auguste Blanqui NE-SO,2018-12-01,9119.0
+19,10 Bd Auguste Blanqui NE-SO,2019-01-01,12209.0
+20,10 Bd Auguste Blanqui NE-SO,2019-02-01,13581.0
+21,10 Bd Auguste Blanqui NE-SO,2019-03-01,15078.0
+22,10 Bd Auguste Blanqui NE-SO,2019-04-01,14016.0
+23,10 Bd Auguste Blanqui NE-SO,2019-05-01,16410.0
+24,10 Bd Auguste Blanqui NE-SO,2019-06-01,18155.0
+25,10 Bd Auguste Blanqui NE-SO,2019-07-01,21053.0
+26,10 Bd Auguste Blanqui NE-SO,2019-08-01,16094.0
+27,10 Bd Auguste Blanqui NE-SO,2019-09-01,25612.0
+28,10 Bd Auguste Blanqui NE-SO,2019-10-01,21398.0
+29,10 Bd Auguste Blanqui NE-SO,2019-11-01,18059.0
+30,10 Bd Auguste Blanqui NE-SO,2019-12-01,41275.0
+31,10 avenue de la Grande Armée,2021-12-01,13391.0
+32,10 avenue de la Grande Armée,2022-01-01,13864.0
+33,10 avenue de la Grande Armée,2022-02-01,14777.0
+34,10 avenue de la Grande Armée,2022-03-01,18670.0
+35,10 avenue de la Grande Armée,2022-04-01,19592.0
+36,10 avenue de la Grande Armée,2022-05-01,23891.0
+37,10 avenue de la Grande Armée,2022-06-01,22534.0
+38,10 avenue de la Grande Armée,2022-07-01,22787.0
+39,10 avenue de la Grande Armée,2022-08-01,17684.0
+40,10 avenue de la Grande Armée,2022-09-01,24292.0
+41,10 avenue de la Grande Armée,2022-10-01,24126.0
+42,10 avenue de la Grande Armée,2022-11-01,20216.0
+43,10 avenue de la Grande Armée,2022-12-01,15009.0
+44,10 avenue de la Grande Armée,2023-01-01,5453.0
+45,10 avenue de la Grande Armée SE-NO,2020-01-01,19004.0
+46,10 avenue de la Grande Armée SE-NO,2020-02-01,12571.0
+47,10 avenue de la Grande Armée SE-NO,2020-03-01,9053.0
+48,10 avenue de la Grande Armée SE-NO,2020-04-01,3621.0
+49,10 avenue de la Grande Armée SE-NO,2020-05-01,19369.0
+50,10 avenue de la Grande Armée SE-NO,2020-06-01,26126.0
+51,10 avenue de la Grande Armée SE-NO,2020-07-01,23422.0
+52,10 avenue de la Grande Armée SE-NO,2020-08-01,15441.0
+53,10 avenue de la Grande Armée SE-NO,2020-09-01,23728.0
+54,10 avenue de la Grande Armée SE-NO,2020-10-01,16297.0
+55,10 avenue de la Grande Armée SE-NO,2020-11-01,10107.0
+56,10 avenue de la Grande Armée SE-NO,2020-12-01,10121.0
+57,10 avenue de la Grande Armée SE-NO,2021-01-01,9975.0
+58,10 avenue de la Grande Armée SE-NO,2021-02-01,11459.0
+59,10 avenue de la Grande Armée SE-NO,2021-03-01,14335.0
+60,10 avenue de la Grande Armée SE-NO,2021-04-01,13607.0
+61,10 avenue de la Grande Armée SE-NO,2021-05-01,15055.0
+62,10 avenue de la Grande Armée SE-NO,2021-06-01,20146.0
+63,10 avenue de la Grande Armée SE-NO,2021-07-01,19021.0
+64,10 avenue de la Grande Armée SE-NO,2021-08-01,14541.0
+65,10 avenue de la Grande Armée SE-NO,2021-09-01,27046.0
+66,10 avenue de la Grande Armée SE-NO,2021-10-01,23987.0
+67,10 avenue de la Grande Armée SE-NO,2021-11-01,17928.0
+68,10 avenue de la Grande Armée SE-NO,2021-12-01,13411.0
+69,10 boulevard Auguste Blanqui,2021-12-01,22644.0
+70,10 boulevard Auguste Blanqui,2022-01-01,23984.0
+71,10 boulevard Auguste Blanqui,2022-02-01,24942.0
+72,10 boulevard Auguste Blanqui,2022-03-01,30251.0
+73,10 boulevard Auguste Blanqui,2022-04-01,28322.0
+74,10 boulevard Auguste Blanqui,2022-05-01,32185.0
+75,10 boulevard Auguste Blanqui,2022-06-01,32692.0
+76,10 boulevard Auguste Blanqui,2022-07-01,27832.0
+77,10 boulevard Auguste Blanqui,2022-08-01,22844.0
+78,10 boulevard Auguste Blanqui,2022-09-01,35537.0
+79,10 boulevard Auguste Blanqui,2022-10-01,31961.0
+80,10 boulevard Auguste Blanqui,2022-11-01,31277.0
+81,10 boulevard Auguste Blanqui,2022-12-01,21216.0
+82,10 boulevard Auguste Blanqui,2023-01-01,8489.0
+83,10 boulevard Auguste Blanqui NE-SO,2020-01-01,39059.0
+84,10 boulevard Auguste Blanqui NE-SO,2020-02-01,20095.0
+85,10 boulevard Auguste Blanqui NE-SO,2020-03-01,15265.0
+86,10 boulevard Auguste Blanqui NE-SO,2020-04-01,7467.0
+87,10 boulevard Auguste Blanqui NE-SO,2020-05-01,25163.0
+88,10 boulevard Auguste Blanqui NE-SO,2020-06-01,35440.0
+89,10 boulevard Auguste Blanqui NE-SO,2020-07-01,33683.0
+90,10 boulevard Auguste Blanqui NE-SO,2020-08-01,23264.0
+91,10 boulevard Auguste Blanqui NE-SO,2020-09-01,38884.0
+92,10 boulevard Auguste Blanqui NE-SO,2020-10-01,28415.0
+93,10 boulevard Auguste Blanqui NE-SO,2020-11-01,20918.0
+94,10 boulevard Auguste Blanqui NE-SO,2020-12-01,18919.0
+95,10 boulevard Auguste Blanqui NE-SO,2021-01-01,20030.0
+96,10 boulevard Auguste Blanqui NE-SO,2021-02-01,16925.0
+97,10 boulevard Auguste Blanqui NE-SO,2021-03-01,25312.0
+98,10 boulevard Auguste Blanqui NE-SO,2021-04-01,23626.0
+99,10 boulevard Auguste Blanqui NE-SO,2021-05-01,25567.0
+100,10 boulevard Auguste Blanqui NE-SO,2021-06-01,31399.0
+101,10 boulevard Auguste Blanqui NE-SO,2021-07-01,26009.0
+102,10 boulevard Auguste Blanqui NE-SO,2021-08-01,20992.0
+103,10 boulevard Auguste Blanqui NE-SO,2021-09-01,34850.0
+104,10 boulevard Auguste Blanqui NE-SO,2021-10-01,31189.0
+105,10 boulevard Auguste Blanqui NE-SO,2021-11-01,27229.0
+106,10 boulevard Auguste Blanqui NE-SO,2021-12-01,22654.0
+107,100 Rue La Fayette O-E,2018-01-01,17819.0
+108,100 Rue La Fayette O-E,2018-02-01,13278.0
+109,100 Rue La Fayette O-E,2018-03-01,18010.0
+110,100 Rue La Fayette O-E,2018-04-01,23750.0
+111,100 Rue La Fayette O-E,2018-05-01,24009.0
+112,100 Rue La Fayette O-E,2018-06-01,26023.0
+113,100 Rue La Fayette O-E,2018-07-01,26393.0
+114,100 Rue La Fayette O-E,2018-08-01,23246.0
+115,100 Rue La Fayette O-E,2018-09-01,32139.0
+116,100 Rue La Fayette O-E,2018-10-01,34349.0
+117,100 Rue La Fayette O-E,2018-11-01,25830.0
+118,100 Rue La Fayette O-E,2018-12-01,20127.0
+119,100 Rue La Fayette O-E,2019-01-01,22679.0
+120,100 Rue La Fayette O-E,2019-02-01,25083.0
+121,100 Rue La Fayette O-E,2019-03-01,27085.0
+122,100 Rue La Fayette O-E,2019-04-01,24042.0
+123,100 Rue La Fayette O-E,2019-05-01,28262.0
+124,100 Rue La Fayette O-E,2019-06-01,31381.0
+125,100 Rue La Fayette O-E,2019-07-01,40037.0
+126,100 Rue La Fayette O-E,2019-08-01,31346.0
+127,100 Rue La Fayette O-E,2019-09-01,37083.0
+128,100 Rue La Fayette O-E,2019-10-01,33222.0
+129,100 Rue La Fayette O-E,2019-11-01,29418.0
+130,100 Rue La Fayette O-E,2019-12-01,56664.0
+131,100 rue La Fayette,2020-01-01,50774.0
+132,100 rue La Fayette,2020-02-01,32336.0
+133,100 rue La Fayette,2020-03-01,21525.0
+134,100 rue La Fayette,2020-04-01,8441.0
+135,100 rue La Fayette,2020-05-01,30148.0
+136,100 rue La Fayette,2020-06-01,51798.0
+137,100 rue La Fayette,2020-07-01,54677.0
+138,100 rue La Fayette,2020-08-01,43020.0
+139,100 rue La Fayette,2020-09-01,65129.0
+140,100 rue La Fayette,2020-10-01,51119.0
+141,100 rue La Fayette,2020-11-01,32238.0
+142,100 rue La Fayette,2020-12-01,33178.0
+143,100 rue La Fayette,2021-01-01,33779.0
+144,100 rue La Fayette,2021-02-01,31643.0
+145,100 rue La Fayette,2021-03-01,41692.0
+146,100 rue La Fayette,2021-04-01,38412.0
+147,100 rue La Fayette,2021-05-01,41133.0
+148,100 rue La Fayette,2021-06-01,51589.0
+149,100 rue La Fayette,2021-07-01,46571.0
+150,100 rue La Fayette,2021-08-01,38588.0
+151,100 rue La Fayette,2021-09-01,59117.0
+152,100 rue La Fayette,2021-10-01,29880.0
+153,100 rue La Fayette,2021-11-01,0.0
+154,100 rue La Fayette,2021-12-01,0.0
+155,100 rue La Fayette,2021-12-01,0.0
+156,100 rue La Fayette,2022-01-01,0.0
+157,100 rue La Fayette,2022-02-01,0.0
+158,100 rue La Fayette,2022-03-01,0.0
+159,100 rue La Fayette,2022-04-01,0.0
+160,100 rue La Fayette,2022-05-01,0.0
+161,100 rue La Fayette,2022-06-01,0.0
+162,100 rue La Fayette,2022-11-01,21.0
+163,100 rue La Fayette,2022-12-01,0.0
+164,100 rue La Fayette,2023-01-01,0.0
+165,102 Bd magenta SE-NO,2018-11-01,4623.0
+166,102 Bd magenta SE-NO,2018-12-01,46351.0
+167,102 Bd magenta SE-NO,2019-01-01,50325.0
+168,102 Bd magenta SE-NO,2019-02-01,55375.0
+169,102 Bd magenta SE-NO,2019-03-01,60548.0
+170,102 Bd magenta SE-NO,2019-04-01,63812.0
+171,102 Bd magenta SE-NO,2019-05-01,67161.0
+172,102 Bd magenta SE-NO,2019-06-01,72152.0
+173,102 Bd magenta SE-NO,2019-07-01,80806.0
+174,102 Bd magenta SE-NO,2019-08-01,63791.0
+175,102 Bd magenta SE-NO,2019-09-01,96133.0
+176,102 Bd magenta SE-NO,2019-10-01,84974.0
+177,102 Bd magenta SE-NO,2019-11-01,70891.0
+178,102 Bd magenta SE-NO,2019-12-01,139333.0
+179,102 boulevard de Magenta,2021-12-01,97708.0
+180,102 boulevard de Magenta,2022-01-01,104264.0
+181,102 boulevard de Magenta,2022-02-01,112696.0
+182,102 boulevard de Magenta,2022-03-01,134289.0
+183,102 boulevard de Magenta,2022-04-01,128817.0
+184,102 boulevard de Magenta,2022-05-01,147927.0
+185,102 boulevard de Magenta,2022-06-01,150829.0
+186,102 boulevard de Magenta,2022-07-01,142570.0
+187,102 boulevard de Magenta,2022-08-01,112623.0
+188,102 boulevard de Magenta,2022-09-01,164278.0
+189,102 boulevard de Magenta,2022-10-01,168979.0
+190,102 boulevard de Magenta,2022-11-01,144821.0
+191,102 boulevard de Magenta,2022-12-01,100068.0
+192,102 boulevard de Magenta,2023-01-01,36923.0
+193,102 boulevard de Magenta SE-NO,2020-01-01,139417.0
+194,102 boulevard de Magenta SE-NO,2020-02-01,81920.0
+195,102 boulevard de Magenta SE-NO,2020-03-01,54507.0
+196,102 boulevard de Magenta SE-NO,2020-04-01,21191.0
+197,102 boulevard de Magenta SE-NO,2020-05-01,94153.0
+198,102 boulevard de Magenta SE-NO,2020-06-01,149705.0
+199,102 boulevard de Magenta SE-NO,2020-07-01,150209.0
+200,102 boulevard de Magenta SE-NO,2020-08-01,101419.0
+201,102 boulevard de Magenta SE-NO,2020-09-01,163911.0
+202,102 boulevard de Magenta SE-NO,2020-10-01,126628.0
+203,102 boulevard de Magenta SE-NO,2020-11-01,77204.0
+204,102 boulevard de Magenta SE-NO,2020-12-01,78894.0
+205,102 boulevard de Magenta SE-NO,2021-01-01,83348.0
+206,102 boulevard de Magenta SE-NO,2021-02-01,78556.0
+207,102 boulevard de Magenta SE-NO,2021-03-01,106768.0
+208,102 boulevard de Magenta SE-NO,2021-04-01,100624.0
+209,102 boulevard de Magenta SE-NO,2021-05-01,112350.0
+210,102 boulevard de Magenta SE-NO,2021-06-01,145853.0
+211,102 boulevard de Magenta SE-NO,2021-07-01,122646.0
+212,102 boulevard de Magenta SE-NO,2021-08-01,94497.0
+213,102 boulevard de Magenta SE-NO,2021-09-01,155261.0
+214,102 boulevard de Magenta SE-NO,2021-10-01,144942.0
+215,102 boulevard de Magenta SE-NO,2021-11-01,122898.0
+216,102 boulevard de Magenta SE-NO,2021-12-01,97901.0
+217,105 Rue La Fayette E-O,2018-01-01,30167.0
+218,105 Rue La Fayette E-O,2018-02-01,20833.0
+219,105 Rue La Fayette E-O,2018-03-01,30474.0
+220,105 Rue La Fayette E-O,2018-04-01,35930.0
+221,105 Rue La Fayette E-O,2018-05-01,39812.0
+222,105 Rue La Fayette E-O,2018-06-01,45359.0
+223,105 Rue La Fayette E-O,2018-07-01,47941.0
+224,105 Rue La Fayette E-O,2018-08-01,35845.0
+225,105 Rue La Fayette E-O,2018-09-01,56431.0
+226,105 Rue La Fayette E-O,2018-10-01,61689.0
+227,105 Rue La Fayette E-O,2018-11-01,44716.0
+228,105 Rue La Fayette E-O,2018-12-01,41757.0
+229,105 Rue La Fayette E-O,2019-01-01,46098.0
+230,105 Rue La Fayette E-O,2019-02-01,46666.0
+231,105 Rue La Fayette E-O,2019-03-01,53183.0
+232,105 Rue La Fayette E-O,2019-04-01,61721.0
+233,105 Rue La Fayette E-O,2019-05-01,60309.0
+234,105 Rue La Fayette E-O,2019-06-01,64240.0
+235,105 Rue La Fayette E-O,2019-07-01,73889.0
+236,105 Rue La Fayette E-O,2019-08-01,58145.0
+237,105 Rue La Fayette E-O,2019-09-01,86068.0
+238,105 Rue La Fayette E-O,2019-10-01,75584.0
+239,105 Rue La Fayette E-O,2019-11-01,62019.0
+240,105 Rue La Fayette E-O,2019-12-01,129266.0
+241,105 rue La Fayette,2021-12-01,52376.0
+242,105 rue La Fayette,2022-01-01,51685.0
+243,105 rue La Fayette,2022-02-01,54095.0
+244,105 rue La Fayette,2022-03-01,65297.0
+245,105 rue La Fayette,2022-04-01,59725.0
+246,105 rue La Fayette,2022-05-01,67144.0
+247,105 rue La Fayette,2022-06-01,65717.0
+248,105 rue La Fayette,2022-07-01,14616.0
+249,105 rue La Fayette,2022-11-01,13.0
+250,105 rue La Fayette,2022-12-01,0.0
+251,105 rue La Fayette,2023-01-01,0.0
+252,105 rue La Fayette E-O,2020-01-01,124392.0
+253,105 rue La Fayette E-O,2020-02-01,67979.0
+254,105 rue La Fayette E-O,2020-03-01,41611.0
+255,105 rue La Fayette E-O,2020-04-01,13758.0
+256,105 rue La Fayette E-O,2020-05-01,51972.0
+257,105 rue La Fayette E-O,2020-06-01,94127.0
+258,105 rue La Fayette E-O,2020-07-01,105874.0
+259,105 rue La Fayette E-O,2020-08-01,77015.0
+260,105 rue La Fayette E-O,2020-09-01,115807.0
+261,105 rue La Fayette E-O,2020-10-01,89975.0
+262,105 rue La Fayette E-O,2020-11-01,56607.0
+263,105 rue La Fayette E-O,2020-12-01,59690.0
+264,105 rue La Fayette E-O,2021-01-01,53465.0
+265,105 rue La Fayette E-O,2021-02-01,48529.0
+266,105 rue La Fayette E-O,2021-03-01,63844.0
+267,105 rue La Fayette E-O,2021-04-01,57282.0
+268,105 rue La Fayette E-O,2021-05-01,68153.0
+269,105 rue La Fayette E-O,2021-06-01,90145.0
+270,105 rue La Fayette E-O,2021-07-01,77983.0
+271,105 rue La Fayette E-O,2021-08-01,61184.0
+272,105 rue La Fayette E-O,2021-09-01,105401.0
+273,105 rue La Fayette E-O,2021-10-01,33294.0
+274,105 rue La Fayette E-O,2021-11-01,63029.0
+275,105 rue La Fayette E-O,2021-12-01,52413.0
+276,106 Avenue Denfert Rochereau NE-SO,2018-01-01,12054.0
+277,106 Avenue Denfert Rochereau NE-SO,2018-02-01,9642.0
+278,106 Avenue Denfert Rochereau NE-SO,2018-03-01,13268.0
+279,106 Avenue Denfert Rochereau NE-SO,2018-04-01,16295.0
+280,106 Avenue Denfert Rochereau NE-SO,2018-05-01,19182.0
+281,106 Avenue Denfert Rochereau NE-SO,2018-06-01,19785.0
+282,106 Avenue Denfert Rochereau NE-SO,2018-07-01,18450.0
+283,106 Avenue Denfert Rochereau NE-SO,2018-08-01,14889.0
+284,106 Avenue Denfert Rochereau NE-SO,2018-09-01,24688.0
+285,106 Avenue Denfert Rochereau NE-SO,2018-10-01,23782.0
+286,106 Avenue Denfert Rochereau NE-SO,2018-11-01,18691.0
+287,106 Avenue Denfert Rochereau NE-SO,2018-12-01,14755.0
+288,106 Avenue Denfert Rochereau NE-SO,2019-01-01,15818.0
+289,106 Avenue Denfert Rochereau NE-SO,2019-02-01,17919.0
+290,106 Avenue Denfert Rochereau NE-SO,2019-03-01,19811.0
+291,106 Avenue Denfert Rochereau NE-SO,2019-04-01,25319.0
+292,106 Avenue Denfert Rochereau NE-SO,2019-05-01,28938.0
+293,106 Avenue Denfert Rochereau NE-SO,2019-06-01,27333.0
+294,106 Avenue Denfert Rochereau NE-SO,2019-07-01,27730.0
+295,106 Avenue Denfert Rochereau NE-SO,2019-08-01,23312.0
+296,106 Avenue Denfert Rochereau NE-SO,2019-09-01,37476.0
+297,106 Avenue Denfert Rochereau NE-SO,2019-10-01,31823.0
+298,106 Avenue Denfert Rochereau NE-SO,2019-11-01,26762.0
+299,106 Avenue Denfert Rochereau NE-SO,2019-12-01,51696.0
+300,106 avenue Denfert Rochereau,2021-12-01,35180.0
+301,106 avenue Denfert Rochereau,2022-01-01,37775.0
+302,106 avenue Denfert Rochereau,2022-02-01,40281.0
+303,106 avenue Denfert Rochereau,2022-03-01,49608.0
+304,106 avenue Denfert Rochereau,2022-04-01,48056.0
+305,106 avenue Denfert Rochereau,2022-05-01,54828.0
+306,106 avenue Denfert Rochereau,2022-06-01,56650.0
+307,106 avenue Denfert Rochereau,2022-07-01,51104.0
+308,106 avenue Denfert Rochereau,2022-08-01,41850.0
+309,106 avenue Denfert Rochereau,2022-09-01,62976.0
+310,106 avenue Denfert Rochereau,2022-10-01,63004.0
+311,106 avenue Denfert Rochereau,2022-11-01,52884.0
+312,106 avenue Denfert Rochereau,2022-12-01,36882.0
+313,106 avenue Denfert Rochereau,2023-01-01,13891.0
+314,106 avenue Denfert Rochereau NE-SO,2020-01-01,49860.0
+315,106 avenue Denfert Rochereau NE-SO,2020-02-01,28776.0
+316,106 avenue Denfert Rochereau NE-SO,2020-03-01,21293.0
+317,106 avenue Denfert Rochereau NE-SO,2020-04-01,8722.0
+318,106 avenue Denfert Rochereau NE-SO,2020-05-01,38208.0
+319,106 avenue Denfert Rochereau NE-SO,2020-06-01,59480.0
+320,106 avenue Denfert Rochereau NE-SO,2020-07-01,55955.0
+321,106 avenue Denfert Rochereau NE-SO,2020-08-01,39690.0
+322,106 avenue Denfert Rochereau NE-SO,2020-09-01,68881.0
+323,106 avenue Denfert Rochereau NE-SO,2020-10-01,50014.0
+324,106 avenue Denfert Rochereau NE-SO,2020-11-01,29450.0
+325,106 avenue Denfert Rochereau NE-SO,2020-12-01,26934.0
+326,106 avenue Denfert Rochereau NE-SO,2021-01-01,31449.0
+327,106 avenue Denfert Rochereau NE-SO,2021-02-01,29566.0
+328,106 avenue Denfert Rochereau NE-SO,2021-03-01,41400.0
+329,106 avenue Denfert Rochereau NE-SO,2021-04-01,37365.0
+330,106 avenue Denfert Rochereau NE-SO,2021-05-01,41158.0
+331,106 avenue Denfert Rochereau NE-SO,2021-06-01,52576.0
+332,106 avenue Denfert Rochereau NE-SO,2021-07-01,42879.0
+333,106 avenue Denfert Rochereau NE-SO,2021-08-01,34742.0
+334,106 avenue Denfert Rochereau NE-SO,2021-09-01,59014.0
+335,106 avenue Denfert Rochereau NE-SO,2021-10-01,52689.0
+336,106 avenue Denfert Rochereau NE-SO,2021-11-01,44805.0
+337,106 avenue Denfert Rochereau NE-SO,2021-12-01,35294.0
+338,129 Rue Lecourbe SO-NE,2019-10-01,1757.0
+339,129 Rue Lecourbe SO-NE,2019-11-01,17062.0
+340,129 Rue Lecourbe SO-NE,2019-12-01,33245.0
+341,129 rue Lecourbe,2021-12-01,24599.0
+342,129 rue Lecourbe,2022-01-01,27993.0
+343,129 rue Lecourbe,2022-02-01,28015.0
+344,129 rue Lecourbe,2022-03-01,34031.0
+345,129 rue Lecourbe,2022-04-01,31582.0
+346,129 rue Lecourbe,2022-05-01,36404.0
+347,129 rue Lecourbe,2022-06-01,37486.0
+348,129 rue Lecourbe,2022-07-01,30573.0
+349,129 rue Lecourbe,2022-08-01,23170.0
+350,129 rue Lecourbe,2022-09-01,39678.0
+351,129 rue Lecourbe,2022-10-01,36541.0
+352,129 rue Lecourbe,2022-11-01,37676.0
+353,129 rue Lecourbe,2022-12-01,28025.0
+354,129 rue Lecourbe,2023-01-01,10729.0
+355,129 rue Lecourbe SO-NE,2020-01-01,34265.0
+356,129 rue Lecourbe SO-NE,2020-02-01,20434.0
+357,129 rue Lecourbe SO-NE,2020-03-01,16412.0
+358,129 rue Lecourbe SO-NE,2020-04-01,10255.0
+359,129 rue Lecourbe SO-NE,2020-05-01,28901.0
+360,129 rue Lecourbe SO-NE,2020-06-01,42483.0
+361,129 rue Lecourbe SO-NE,2020-07-01,39335.0
+362,129 rue Lecourbe SO-NE,2020-08-01,26859.0
+363,129 rue Lecourbe SO-NE,2020-09-01,48493.0
+364,129 rue Lecourbe SO-NE,2020-10-01,36731.0
+365,129 rue Lecourbe SO-NE,2020-11-01,28063.0
+366,129 rue Lecourbe SO-NE,2020-12-01,24884.0
+367,129 rue Lecourbe SO-NE,2021-01-01,24222.0
+368,129 rue Lecourbe SO-NE,2021-02-01,20865.0
+369,129 rue Lecourbe SO-NE,2021-03-01,30933.0
+370,129 rue Lecourbe SO-NE,2021-04-01,27390.0
+371,129 rue Lecourbe SO-NE,2021-05-01,29946.0
+372,129 rue Lecourbe SO-NE,2021-06-01,37141.0
+373,129 rue Lecourbe SO-NE,2021-07-01,28793.0
+374,129 rue Lecourbe SO-NE,2021-08-01,21310.0
+375,129 rue Lecourbe SO-NE,2021-09-01,38954.0
+376,129 rue Lecourbe SO-NE,2021-10-01,35638.0
+377,129 rue Lecourbe SO-NE,2021-11-01,62041.0
+378,129 rue Lecourbe SO-NE,2021-12-01,24605.0
+379,132 Rue Lecourbe NE-SO,2019-10-01,1653.0
+380,132 Rue Lecourbe NE-SO,2019-11-01,24468.0
+381,132 Rue Lecourbe NE-SO,2019-12-01,55758.0
+382,132 rue Lecourbe,2021-12-01,25523.0
+383,132 rue Lecourbe,2022-01-01,27133.0
+384,132 rue Lecourbe,2022-02-01,27701.0
+385,132 rue Lecourbe,2022-03-01,32465.0
+386,132 rue Lecourbe,2022-04-01,30447.0
+387,132 rue Lecourbe,2022-05-01,36090.0
+388,132 rue Lecourbe,2022-06-01,36004.0
+389,132 rue Lecourbe,2022-07-01,30947.0
+390,132 rue Lecourbe,2022-08-01,23994.0
+391,132 rue Lecourbe,2022-09-01,38624.0
+392,132 rue Lecourbe,2022-10-01,34674.0
+393,132 rue Lecourbe,2022-11-01,32012.0
+394,132 rue Lecourbe,2022-12-01,23251.0
+395,132 rue Lecourbe,2023-01-01,9379.0
+396,132 rue Lecourbe NE-SO,2020-01-01,52254.0
+397,132 rue Lecourbe NE-SO,2020-02-01,29474.0
+398,132 rue Lecourbe NE-SO,2020-03-01,21512.0
+399,132 rue Lecourbe NE-SO,2020-04-01,12694.0
+400,132 rue Lecourbe NE-SO,2020-05-01,36405.0
+401,132 rue Lecourbe NE-SO,2020-06-01,51815.0
+402,132 rue Lecourbe NE-SO,2020-07-01,49175.0
+403,132 rue Lecourbe NE-SO,2020-08-01,33401.0
+404,132 rue Lecourbe NE-SO,2020-09-01,57550.0
+405,132 rue Lecourbe NE-SO,2020-10-01,42044.0
+406,132 rue Lecourbe NE-SO,2020-11-01,30392.0
+407,132 rue Lecourbe NE-SO,2020-12-01,27292.0
+408,132 rue Lecourbe NE-SO,2021-01-01,26324.0
+409,132 rue Lecourbe NE-SO,2021-02-01,23016.0
+410,132 rue Lecourbe NE-SO,2021-03-01,32285.0
+411,132 rue Lecourbe NE-SO,2021-04-01,29526.0
+412,132 rue Lecourbe NE-SO,2021-05-01,32001.0
+413,132 rue Lecourbe NE-SO,2021-06-01,39309.0
+414,132 rue Lecourbe NE-SO,2021-07-01,32184.0
+415,132 rue Lecourbe NE-SO,2021-08-01,23720.0
+416,132 rue Lecourbe NE-SO,2021-09-01,41213.0
+417,132 rue Lecourbe NE-SO,2021-10-01,36679.0
+418,132 rue Lecourbe NE-SO,2021-11-01,30178.0
+419,132 rue Lecourbe NE-SO,2021-12-01,25553.0
+420,135 Avenue Daumesnil SE-NO,2018-01-01,18903.0
+421,135 Avenue Daumesnil SE-NO,2018-02-01,14251.0
+422,135 Avenue Daumesnil SE-NO,2018-03-01,21653.0
+423,135 Avenue Daumesnil SE-NO,2018-04-01,29096.0
+424,135 Avenue Daumesnil SE-NO,2018-05-01,33336.0
+425,135 Avenue Daumesnil SE-NO,2018-06-01,34957.0
+426,135 Avenue Daumesnil SE-NO,2018-07-01,34677.0
+427,135 Avenue Daumesnil SE-NO,2018-08-01,29340.0
+428,135 Avenue Daumesnil SE-NO,2018-09-01,43362.0
+429,135 Avenue Daumesnil SE-NO,2018-10-01,42086.0
+430,135 Avenue Daumesnil SE-NO,2018-11-01,31035.0
+431,135 Avenue Daumesnil SE-NO,2018-12-01,24759.0
+432,135 Avenue Daumesnil SE-NO,2019-01-01,27243.0
+433,135 Avenue Daumesnil SE-NO,2019-02-01,29996.0
+434,135 Avenue Daumesnil SE-NO,2019-03-01,32998.0
+435,135 Avenue Daumesnil SE-NO,2019-04-01,37451.0
+436,135 Avenue Daumesnil SE-NO,2019-05-01,36827.0
+437,135 Avenue Daumesnil SE-NO,2019-06-01,39906.0
+438,135 Avenue Daumesnil SE-NO,2019-07-01,42697.0
+439,135 Avenue Daumesnil SE-NO,2019-08-01,35320.0
+440,135 Avenue Daumesnil SE-NO,2019-09-01,47573.0
+441,135 Avenue Daumesnil SE-NO,2019-10-01,35836.0
+442,135 Avenue Daumesnil SE-NO,2019-11-01,3429.0
+443,135 Avenue Daumesnil SE-NO,2019-12-01,12477.0
+444,135 avenue Daumesnil,2021-12-01,35035.0
+445,135 avenue Daumesnil,2022-01-01,38185.0
+446,135 avenue Daumesnil,2022-02-01,40804.0
+447,135 avenue Daumesnil,2022-03-01,50786.0
+448,135 avenue Daumesnil,2022-04-01,49012.0
+449,135 avenue Daumesnil,2022-05-01,55958.0
+450,135 avenue Daumesnil,2022-06-01,56884.0
+451,135 avenue Daumesnil,2022-07-01,52656.0
+452,135 avenue Daumesnil,2022-08-01,42615.0
+453,135 avenue Daumesnil,2022-09-01,61874.0
+454,135 avenue Daumesnil,2022-10-01,58337.0
+455,135 avenue Daumesnil,2022-11-01,50285.0
+456,135 avenue Daumesnil,2022-12-01,34145.0
+457,135 avenue Daumesnil,2023-01-01,13302.0
+458,135 avenue Daumesnil SE-NO,2020-01-01,41118.0
+459,135 avenue Daumesnil SE-NO,2020-02-01,26858.0
+460,135 avenue Daumesnil SE-NO,2020-03-01,20779.0
+461,135 avenue Daumesnil SE-NO,2020-04-01,8397.0
+462,135 avenue Daumesnil SE-NO,2020-05-01,48039.0
+463,135 avenue Daumesnil SE-NO,2020-06-01,62071.0
+464,135 avenue Daumesnil SE-NO,2020-07-01,59987.0
+465,135 avenue Daumesnil SE-NO,2020-08-01,42250.0
+466,135 avenue Daumesnil SE-NO,2020-09-01,70688.0
+467,135 avenue Daumesnil SE-NO,2020-10-01,50171.0
+468,135 avenue Daumesnil SE-NO,2020-11-01,33765.0
+469,135 avenue Daumesnil SE-NO,2020-12-01,32663.0
+470,135 avenue Daumesnil SE-NO,2021-01-01,33977.0
+471,135 avenue Daumesnil SE-NO,2021-02-01,33245.0
+472,135 avenue Daumesnil SE-NO,2021-03-01,47797.0
+473,135 avenue Daumesnil SE-NO,2021-04-01,47724.0
+474,135 avenue Daumesnil SE-NO,2021-05-01,45684.0
+475,135 avenue Daumesnil SE-NO,2021-06-01,57920.0
+476,135 avenue Daumesnil SE-NO,2021-07-01,48347.0
+477,135 avenue Daumesnil SE-NO,2021-08-01,38376.0
+478,135 avenue Daumesnil SE-NO,2021-09-01,62274.0
+479,135 avenue Daumesnil SE-NO,2021-10-01,53275.0
+480,135 avenue Daumesnil SE-NO,2021-11-01,43586.0
+481,135 avenue Daumesnil SE-NO,2021-12-01,35043.0
+482,147 avenue d'Italie,2021-12-01,25762.0
+483,147 avenue d'Italie,2022-01-01,29254.0
+484,147 avenue d'Italie,2022-02-01,30962.0
+485,147 avenue d'Italie,2022-03-01,37541.0
+486,147 avenue d'Italie,2022-04-01,36385.0
+487,147 avenue d'Italie,2022-05-01,40159.0
+488,147 avenue d'Italie,2022-06-01,38354.0
+489,147 avenue d'Italie,2022-07-01,35950.0
+490,147 avenue d'Italie,2022-08-01,31222.0
+491,147 avenue d'Italie,2022-09-01,42888.0
+492,147 avenue d'Italie,2022-10-01,42578.0
+493,147 avenue d'Italie,2022-11-01,36434.0
+494,147 avenue d'Italie,2022-12-01,28061.0
+495,147 avenue d'Italie,2023-01-01,10657.0
+496,147 avenue d'Italie S-N,2019-12-01,31684.0
+497,147 avenue d'Italie S-N,2020-01-01,37258.0
+498,147 avenue d'Italie S-N,2020-02-01,18087.0
+499,147 avenue d'Italie S-N,2020-03-01,16032.0
+500,147 avenue d'Italie S-N,2020-04-01,10342.0
+501,147 avenue d'Italie S-N,2020-05-01,27182.0
+502,147 avenue d'Italie S-N,2020-06-01,37640.0
+503,147 avenue d'Italie S-N,2020-07-01,36651.0
+504,147 avenue d'Italie S-N,2020-08-01,29650.0
+505,147 avenue d'Italie S-N,2020-09-01,43942.0
+506,147 avenue d'Italie S-N,2020-10-01,28327.0
+507,147 avenue d'Italie S-N,2020-11-01,22938.0
+508,147 avenue d'Italie S-N,2020-12-01,21562.0
+509,147 avenue d'Italie S-N,2021-01-01,22521.0
+510,147 avenue d'Italie S-N,2021-02-01,19946.0
+511,147 avenue d'Italie S-N,2021-03-01,28414.0
+512,147 avenue d'Italie S-N,2021-04-01,28198.0
+513,147 avenue d'Italie S-N,2021-05-01,28487.0
+514,147 avenue d'Italie S-N,2021-06-01,36219.0
+515,147 avenue d'Italie S-N,2021-07-01,31514.0
+516,147 avenue d'Italie S-N,2021-08-01,26269.0
+517,147 avenue d'Italie S-N,2021-09-01,43090.0
+518,147 avenue d'Italie S-N,2021-10-01,38818.0
+519,147 avenue d'Italie S-N,2021-11-01,32238.0
+520,147 avenue d'Italie S-N,2021-12-01,25769.0
+521,152 Boulevard du Montparnasse,2018-12-01,24250.0
+522,152 Boulevard du Montparnasse,2019-01-01,34742.0
+523,152 Boulevard du Montparnasse,2019-02-01,38094.0
+524,152 Boulevard du Montparnasse,2019-03-01,40407.0
+525,152 Boulevard du Montparnasse,2019-04-01,43972.0
+526,152 Boulevard du Montparnasse,2019-05-01,29971.0
+527,152 Boulevard du Montparnasse,2019-06-01,13287.0
+528,152 Boulevard du Montparnasse,2019-07-01,51205.0
+529,152 Boulevard du Montparnasse,2019-08-01,38323.0
+530,152 Boulevard du Montparnasse,2019-09-01,62162.0
+531,152 Boulevard du Montparnasse,2019-10-01,52860.0
+532,152 Boulevard du Montparnasse,2019-11-01,46493.0
+533,152 Boulevard du Montparnasse,2019-12-01,78098.0
+534,152 boulevard du Montparnasse,2020-01-01,80534.0
+535,152 boulevard du Montparnasse,2020-02-01,48098.0
+536,152 boulevard du Montparnasse,2020-03-01,35291.0
+537,152 boulevard du Montparnasse,2020-04-01,17350.0
+538,152 boulevard du Montparnasse,2020-05-01,46721.0
+539,152 boulevard du Montparnasse,2020-06-01,72520.0
+540,152 boulevard du Montparnasse,2020-07-01,70859.0
+541,152 boulevard du Montparnasse,2020-08-01,48858.0
+542,152 boulevard du Montparnasse,2020-09-01,87834.0
+543,152 boulevard du Montparnasse,2020-10-01,68159.0
+544,152 boulevard du Montparnasse,2020-11-01,45349.0
+545,152 boulevard du Montparnasse,2020-12-01,42278.0
+546,152 boulevard du Montparnasse,2021-01-01,35327.0
+547,152 boulevard du Montparnasse,2021-02-01,6675.0
+548,152 boulevard du Montparnasse,2021-03-01,58286.0
+549,152 boulevard du Montparnasse,2021-04-01,52080.0
+550,152 boulevard du Montparnasse,2021-05-01,57459.0
+551,152 boulevard du Montparnasse,2021-06-01,73614.0
+552,152 boulevard du Montparnasse,2021-07-01,62175.0
+553,152 boulevard du Montparnasse,2021-08-01,48880.0
+554,152 boulevard du Montparnasse,2021-09-01,82961.0
+555,152 boulevard du Montparnasse,2021-10-01,77477.0
+556,152 boulevard du Montparnasse,2021-11-01,66729.0
+557,152 boulevard du Montparnasse,2021-12-01,53624.0
+558,152 boulevard du Montparnasse,2021-12-01,53586.0
+559,152 boulevard du Montparnasse,2022-01-01,57655.0
+560,152 boulevard du Montparnasse,2022-02-01,59164.0
+561,152 boulevard du Montparnasse,2022-03-01,70414.0
+562,152 boulevard du Montparnasse,2022-04-01,64471.0
+563,152 boulevard du Montparnasse,2022-05-01,5157.0
+564,152 boulevard du Montparnasse,2022-06-01,2.0
+565,152 boulevard du Montparnasse,2022-07-01,19883.0
+566,152 boulevard du Montparnasse,2022-08-01,48459.0
+567,152 boulevard du Montparnasse,2022-09-01,82305.0
+568,152 boulevard du Montparnasse,2022-10-01,80870.0
+569,152 boulevard du Montparnasse,2022-11-01,70738.0
+570,152 boulevard du Montparnasse,2022-12-01,50247.0
+571,152 boulevard du Montparnasse,2023-01-01,19262.0
+572,158 rue de Rivoli (Voie Bus),2021-01-01,0.0
+573,158 rue de Rivoli (Voie Bus),2021-02-01,0.0
+574,158 rue de Rivoli (Voie Bus),2021-03-01,0.0
+575,158 rue de Rivoli (Voie Bus),2021-04-01,0.0
+576,158 rue de Rivoli (Voie Bus),2021-05-01,0.0
+577,158 rue de Rivoli (Voie Bus),2021-06-01,0.0
+578,158 rue de Rivoli (Voie Bus),2021-07-01,0.0
+579,158 rue de Rivoli (Voie Bus),2021-08-01,0.0
+580,158 rue de Rivoli (Voie Bus),2021-09-01,0.0
+581,158 rue de Rivoli (Voie Bus),2021-10-01,0.0
+582,158 rue de Rivoli (Voie Bus),2021-11-01,0.0
+583,158 rue de Rivoli (Voie Bus),2021-12-01,0.0
+584,16 Avenue de la Porte des Ternes E-O,2018-11-01,581.0
+585,16 Avenue de la Porte des Ternes E-O,2018-12-01,5616.0
+586,16 Avenue de la Porte des Ternes E-O,2019-01-01,6356.0
+587,16 Avenue de la Porte des Ternes E-O,2019-02-01,6712.0
+588,16 Avenue de la Porte des Ternes E-O,2019-03-01,7214.0
+589,16 Avenue de la Porte des Ternes E-O,2019-04-01,7810.0
+590,16 Avenue de la Porte des Ternes E-O,2019-05-01,8275.0
+591,16 Avenue de la Porte des Ternes E-O,2019-06-01,2165.0
+592,16 Avenue de la Porte des Ternes E-O,2019-07-01,7984.0
+593,16 Avenue de la Porte des Ternes E-O,2019-08-01,6428.0
+594,16 Avenue de la Porte des Ternes E-O,2019-09-01,11637.0
+595,16 Avenue de la Porte des Ternes E-O,2019-10-01,9638.0
+596,16 Avenue de la Porte des Ternes E-O,2019-11-01,7778.0
+597,16 Avenue de la Porte des Ternes E-O,2019-12-01,13328.0
+598,16 avenue de la Porte des Ternes,2021-12-01,1449.0
+599,16 avenue de la Porte des Ternes,2022-01-01,7005.0
+600,16 avenue de la Porte des Ternes,2022-02-01,7973.0
+601,16 avenue de la Porte des Ternes,2022-03-01,7422.0
+602,16 avenue de la Porte des Ternes,2022-04-01,12491.0
+603,16 avenue de la Porte des Ternes,2022-05-01,19057.0
+604,16 avenue de la Porte des Ternes,2022-06-01,18683.0
+605,16 avenue de la Porte des Ternes,2022-07-01,15608.0
+606,16 avenue de la Porte des Ternes,2022-08-01,11944.0
+607,16 avenue de la Porte des Ternes,2022-09-01,21771.0
+608,16 avenue de la Porte des Ternes,2022-10-01,20453.0
+609,16 avenue de la Porte des Ternes,2022-11-01,18564.0
+610,16 avenue de la Porte des Ternes,2022-12-01,12826.0
+611,16 avenue de la Porte des Ternes,2023-01-01,5480.0
+612,16 avenue de la Porte des Ternes E-O,2020-01-01,13530.0
+613,16 avenue de la Porte des Ternes E-O,2020-02-01,8721.0
+614,16 avenue de la Porte des Ternes E-O,2020-03-01,6416.0
+615,16 avenue de la Porte des Ternes E-O,2020-04-01,2153.0
+616,16 avenue de la Porte des Ternes E-O,2020-05-01,9738.0
+617,16 avenue de la Porte des Ternes E-O,2020-06-01,17203.0
+618,16 avenue de la Porte des Ternes E-O,2020-07-01,17042.0
+619,16 avenue de la Porte des Ternes E-O,2020-08-01,9267.0
+620,16 avenue de la Porte des Ternes E-O,2020-09-01,17423.0
+621,16 avenue de la Porte des Ternes E-O,2020-10-01,2139.0
+622,16 avenue de la Porte des Ternes E-O,2020-11-01,21419.0
+623,16 avenue de la Porte des Ternes E-O,2020-12-01,7293.0
+624,16 avenue de la Porte des Ternes E-O,2021-01-01,8397.0
+625,16 avenue de la Porte des Ternes E-O,2021-02-01,7590.0
+626,16 avenue de la Porte des Ternes E-O,2021-03-01,10900.0
+627,16 avenue de la Porte des Ternes E-O,2021-04-01,9550.0
+628,16 avenue de la Porte des Ternes E-O,2021-05-01,10329.0
+629,16 avenue de la Porte des Ternes E-O,2021-06-01,6011.0
+630,16 avenue de la Porte des Ternes E-O,2021-07-01,3203.0
+631,16 avenue de la Porte des Ternes E-O,2021-08-01,1922.0
+632,16 avenue de la Porte des Ternes E-O,2021-09-01,1807.0
+633,16 avenue de la Porte des Ternes E-O,2021-10-01,1362.0
+634,16 avenue de la Porte des Ternes E-O,2021-11-01,8667.0
+635,16 avenue de la Porte des Ternes E-O,2021-12-01,1450.0
+636,18 quai de l'Hôtel de Ville,2020-01-01,61495.0
+637,18 quai de l'Hôtel de Ville,2020-02-01,37481.0
+638,18 quai de l'Hôtel de Ville,2020-03-01,31522.0
+639,18 quai de l'Hôtel de Ville,2020-04-01,11611.0
+640,18 quai de l'Hôtel de Ville,2020-05-01,54142.0
+641,18 quai de l'Hôtel de Ville,2020-06-01,70776.0
+642,18 quai de l'Hôtel de Ville,2020-07-01,75542.0
+643,18 quai de l'Hôtel de Ville,2020-08-01,51852.0
+644,18 quai de l'Hôtel de Ville,2020-09-01,78175.0
+645,18 quai de l'Hôtel de Ville,2020-10-01,47882.0
+646,18 quai de l'Hôtel de Ville,2020-11-01,28880.0
+647,18 quai de l'Hôtel de Ville,2020-12-01,28937.0
+648,18 quai de l'Hôtel de Ville,2021-01-01,31055.0
+649,18 quai de l'Hôtel de Ville,2021-02-01,38070.0
+650,18 quai de l'Hôtel de Ville,2021-03-01,42496.0
+651,18 quai de l'Hôtel de Ville,2021-04-01,39280.0
+652,18 quai de l'Hôtel de Ville,2021-05-01,42232.0
+653,18 quai de l'Hôtel de Ville,2021-06-01,60053.0
+654,18 quai de l'Hôtel de Ville,2021-07-01,52716.0
+655,18 quai de l'Hôtel de Ville,2021-08-01,40158.0
+656,18 quai de l'Hôtel de Ville,2021-09-01,63034.0
+657,18 quai de l'Hôtel de Ville,2021-10-01,55745.0
+658,18 quai de l'Hôtel de Ville,2021-11-01,42565.0
+659,18 quai de l'Hôtel de Ville,2021-12-01,34349.0
+660,18 quai de l'Hôtel de Ville,2021-12-01,34310.0
+661,18 quai de l'Hôtel de Ville,2022-01-01,36069.0
+662,18 quai de l'Hôtel de Ville,2022-02-01,7933.0
+663,18 quai de l'Hôtel de Ville,2022-03-01,31366.0
+664,18 quai de l'Hôtel de Ville,2022-04-01,48372.0
+665,18 quai de l'Hôtel de Ville,2022-05-01,63104.0
+666,18 quai de l'Hôtel de Ville,2022-06-01,65281.0
+667,18 quai de l'Hôtel de Ville,2022-07-01,62172.0
+668,18 quai de l'Hôtel de Ville,2022-08-01,47886.0
+669,18 quai de l'Hôtel de Ville,2022-09-01,60486.0
+670,18 quai de l'Hôtel de Ville,2022-10-01,57768.0
+671,18 quai de l'Hôtel de Ville,2022-11-01,50041.0
+672,18 quai de l'Hôtel de Ville,2022-12-01,31420.0
+673,18 quai de l'Hôtel de Ville,2023-01-01,11319.0
+674,18 quai de l'hotel de ville,2018-01-01,27567.0
+675,18 quai de l'hotel de ville,2018-02-01,22360.0
+676,18 quai de l'hotel de ville,2018-03-01,25144.0
+677,18 quai de l'hotel de ville,2018-04-01,31958.0
+678,18 quai de l'hotel de ville,2018-05-01,36245.0
+679,18 quai de l'hotel de ville,2018-06-01,38236.0
+680,18 quai de l'hotel de ville,2018-07-01,38910.0
+681,18 quai de l'hotel de ville,2018-08-01,32932.0
+682,18 quai de l'hotel de ville,2018-09-01,47141.0
+683,18 quai de l'hotel de ville,2018-10-01,45548.0
+684,18 quai de l'hotel de ville,2018-11-01,33162.0
+685,18 quai de l'hotel de ville,2018-12-01,24883.0
+686,18 quai de l'hotel de ville,2019-01-01,25970.0
+687,18 quai de l'hotel de ville,2019-02-01,30608.0
+688,18 quai de l'hotel de ville,2019-03-01,33621.0
+689,18 quai de l'hotel de ville,2019-04-01,39192.0
+690,18 quai de l'hotel de ville,2019-05-01,34781.0
+691,18 quai de l'hotel de ville,2019-06-01,45218.0
+692,18 quai de l'hotel de ville,2019-07-01,48317.0
+693,18 quai de l'hotel de ville,2019-08-01,36745.0
+694,18 quai de l'hotel de ville,2019-09-01,51653.0
+695,18 quai de l'hotel de ville,2019-10-01,42058.0
+696,18 quai de l'hotel de ville,2019-11-01,36942.0
+697,18 quai de l'hotel de ville,2019-12-01,60911.0
+698,180 Avenue d'Italie N-S,2019-12-01,28805.0
+699,180 avenue d'Italie,2021-12-01,26762.0
+700,180 avenue d'Italie,2022-01-01,29353.0
+701,180 avenue d'Italie,2022-02-01,30152.0
+702,180 avenue d'Italie,2022-03-01,36225.0
+703,180 avenue d'Italie,2022-04-01,33758.0
+704,180 avenue d'Italie,2022-05-01,39732.0
+705,180 avenue d'Italie,2022-06-01,38862.0
+706,180 avenue d'Italie,2022-07-01,34877.0
+707,180 avenue d'Italie,2022-08-01,29968.0
+708,180 avenue d'Italie,2022-09-01,42362.0
+709,180 avenue d'Italie,2022-10-01,42857.0
+710,180 avenue d'Italie,2022-11-01,38689.0
+711,180 avenue d'Italie,2022-12-01,27069.0
+712,180 avenue d'Italie,2023-01-01,9881.0
+713,180 avenue d'Italie N-S,2020-01-01,39230.0
+714,180 avenue d'Italie N-S,2020-02-01,21372.0
+715,180 avenue d'Italie N-S,2020-03-01,17020.0
+716,180 avenue d'Italie N-S,2020-04-01,11123.0
+717,180 avenue d'Italie N-S,2020-05-01,29969.0
+718,180 avenue d'Italie N-S,2020-06-01,41273.0
+719,180 avenue d'Italie N-S,2020-07-01,39525.0
+720,180 avenue d'Italie N-S,2020-08-01,29936.0
+721,180 avenue d'Italie N-S,2020-09-01,46376.0
+722,180 avenue d'Italie N-S,2020-10-01,32932.0
+723,180 avenue d'Italie N-S,2020-11-01,24620.0
+724,180 avenue d'Italie N-S,2020-12-01,22296.0
+725,180 avenue d'Italie N-S,2021-01-01,22972.0
+726,180 avenue d'Italie N-S,2021-02-01,21090.0
+727,180 avenue d'Italie N-S,2021-03-01,29643.0
+728,180 avenue d'Italie N-S,2021-04-01,27401.0
+729,180 avenue d'Italie N-S,2021-05-01,28335.0
+730,180 avenue d'Italie N-S,2021-06-01,36021.0
+731,180 avenue d'Italie N-S,2021-07-01,31617.0
+732,180 avenue d'Italie N-S,2021-08-01,26551.0
+733,180 avenue d'Italie N-S,2021-09-01,42470.0
+734,180 avenue d'Italie N-S,2021-10-01,39819.0
+735,180 avenue d'Italie N-S,2021-11-01,33936.0
+736,180 avenue d'Italie N-S,2021-12-01,26809.0
+737,2 avenue de la Porte de Bagnolet,2021-12-01,14.0
+738,2 avenue de la Porte de Bagnolet,2022-01-01,0.0
+739,2 avenue de la Porte de Bagnolet,2022-02-01,0.0
+740,2 avenue de la Porte de Bagnolet,2022-03-01,0.0
+741,2 avenue de la Porte de Bagnolet,2022-04-01,0.0
+742,2 avenue de la Porte de Bagnolet,2022-05-01,0.0
+743,2 avenue de la Porte de Bagnolet,2022-06-01,0.0
+744,2 avenue de la Porte de Bagnolet,2022-07-01,0.0
+745,2 avenue de la Porte de Bagnolet,2022-08-01,0.0
+746,2 avenue de la Porte de Bagnolet,2022-09-01,0.0
+747,2 avenue de la Porte de Bagnolet,2022-10-01,0.0
+748,2 avenue de la Porte de Bagnolet,2022-11-01,0.0
+749,2 avenue de la Porte de Bagnolet,2022-12-01,0.0
+750,2 avenue de la Porte de Bagnolet O-E,2019-11-01,5281.0
+751,2 avenue de la Porte de Bagnolet O-E,2019-12-01,18919.0
+752,2 avenue de la Porte de Bagnolet O-E,2020-01-01,17561.0
+753,2 avenue de la Porte de Bagnolet O-E,2020-02-01,6524.0
+754,2 avenue de la Porte de Bagnolet O-E,2020-03-01,3722.0
+755,2 avenue de la Porte de Bagnolet O-E,2020-04-01,674.0
+756,2 avenue de la Porte de Bagnolet O-E,2020-05-01,120.0
+757,2 avenue de la Porte de Bagnolet O-E,2020-06-01,566.0
+758,2 avenue de la Porte de Bagnolet O-E,2020-07-01,55.0
+759,2 avenue de la Porte de Bagnolet O-E,2020-08-01,695.0
+760,2 avenue de la Porte de Bagnolet O-E,2020-09-01,5511.0
+761,2 avenue de la Porte de Bagnolet O-E,2020-10-01,6188.0
+762,2 avenue de la Porte de Bagnolet O-E,2020-11-01,614.0
+763,2 avenue de la Porte de Bagnolet O-E,2020-12-01,4.0
+764,2 avenue de la Porte de Bagnolet O-E,2021-01-01,0.0
+765,2 avenue de la Porte de Bagnolet O-E,2021-02-01,0.0
+766,2 avenue de la Porte de Bagnolet O-E,2021-03-01,0.0
+767,2 avenue de la Porte de Bagnolet O-E,2021-04-01,0.0
+768,2 avenue de la Porte de Bagnolet O-E,2021-05-01,0.0
+769,2 avenue de la Porte de Bagnolet O-E,2021-06-01,0.0
+770,2 avenue de la Porte de Bagnolet O-E,2021-07-01,5030.0
+771,2 avenue de la Porte de Bagnolet O-E,2021-08-01,12711.0
+772,2 avenue de la Porte de Bagnolet O-E,2021-09-01,20196.0
+773,2 avenue de la Porte de Bagnolet O-E,2021-10-01,1089.0
+774,2 avenue de la Porte de Bagnolet O-E,2021-11-01,262.0
+775,2 avenue de la Porte de Bagnolet O-E,2021-12-01,16.0
+776,20 Avenue de Clichy,2020-07-01,52066.0
+777,20 Avenue de Clichy,2020-08-01,118918.0
+778,20 Avenue de Clichy,2020-09-01,196656.0
+779,20 Avenue de Clichy,2020-10-01,156948.0
+780,20 Avenue de Clichy,2020-11-01,101788.0
+781,20 Avenue de Clichy,2020-12-01,99600.0
+782,20 Avenue de Clichy,2021-01-01,102757.0
+783,20 Avenue de Clichy,2021-02-01,93052.0
+784,20 Avenue de Clichy,2021-03-01,109814.0
+785,20 Avenue de Clichy,2021-04-01,29687.0
+786,20 Avenue de Clichy,2021-05-01,1378.0
+787,20 Avenue de Clichy,2021-06-01,0.0
+788,20 Avenue de Clichy,2021-07-01,45859.0
+789,20 Avenue de Clichy,2021-08-01,110945.0
+790,20 Avenue de Clichy,2021-09-01,177445.0
+791,20 Avenue de Clichy,2021-10-01,163236.0
+792,20 Avenue de Clichy,2021-11-01,136889.0
+793,20 Avenue de Clichy,2021-12-01,108216.0
+794,20 Avenue de Clichy,2021-12-01,108089.0
+795,20 Avenue de Clichy,2022-01-01,63780.0
+796,20 Avenue de Clichy,2022-02-01,0.0
+797,21 Boulevard Auguste Blanqui SO-NE,2018-12-01,7697.0
+798,21 Boulevard Auguste Blanqui SO-NE,2019-01-01,9489.0
+799,21 Boulevard Auguste Blanqui SO-NE,2019-02-01,10199.0
+800,21 Boulevard Auguste Blanqui SO-NE,2019-03-01,11614.0
+801,21 Boulevard Auguste Blanqui SO-NE,2019-04-01,11794.0
+802,21 Boulevard Auguste Blanqui SO-NE,2019-05-01,12342.0
+803,21 Boulevard Auguste Blanqui SO-NE,2019-06-01,13495.0
+804,21 Boulevard Auguste Blanqui SO-NE,2019-07-01,16284.0
+805,21 Boulevard Auguste Blanqui SO-NE,2019-08-01,13041.0
+806,21 Boulevard Auguste Blanqui SO-NE,2019-09-01,19231.0
+807,21 Boulevard Auguste Blanqui SO-NE,2019-10-01,16681.0
+808,21 Boulevard Auguste Blanqui SO-NE,2019-11-01,14027.0
+809,21 Boulevard Auguste Blanqui SO-NE,2019-12-01,30210.0
+810,21 boulevard Auguste Blanqui,2021-12-01,14599.0
+811,21 boulevard Auguste Blanqui,2022-01-01,13123.0
+812,21 boulevard Auguste Blanqui,2022-02-01,12566.0
+813,21 boulevard Auguste Blanqui,2022-03-01,13344.0
+814,21 boulevard Auguste Blanqui,2022-04-01,11620.0
+815,21 boulevard Auguste Blanqui,2022-05-01,12236.0
+816,21 boulevard Auguste Blanqui,2022-06-01,13507.0
+817,21 boulevard Auguste Blanqui,2022-07-01,9567.0
+818,21 boulevard Auguste Blanqui,2022-08-01,11014.0
+819,21 boulevard Auguste Blanqui,2022-09-01,18063.0
+820,21 boulevard Auguste Blanqui,2022-10-01,18910.0
+821,21 boulevard Auguste Blanqui,2022-11-01,20414.0
+822,21 boulevard Auguste Blanqui,2022-12-01,13790.0
+823,21 boulevard Auguste Blanqui,2023-01-01,5182.0
+824,21 boulevard Auguste Blanqui SO-NE,2020-01-01,27975.0
+825,21 boulevard Auguste Blanqui SO-NE,2020-02-01,15079.0
+826,21 boulevard Auguste Blanqui SO-NE,2020-03-01,11841.0
+827,21 boulevard Auguste Blanqui SO-NE,2020-04-01,7602.0
+828,21 boulevard Auguste Blanqui SO-NE,2020-05-01,20043.0
+829,21 boulevard Auguste Blanqui SO-NE,2020-06-01,27701.0
+830,21 boulevard Auguste Blanqui SO-NE,2020-07-01,26752.0
+831,21 boulevard Auguste Blanqui SO-NE,2020-08-01,18684.0
+832,21 boulevard Auguste Blanqui SO-NE,2020-09-01,30300.0
+833,21 boulevard Auguste Blanqui SO-NE,2020-10-01,22627.0
+834,21 boulevard Auguste Blanqui SO-NE,2020-11-01,15198.0
+835,21 boulevard Auguste Blanqui SO-NE,2020-12-01,13892.0
+836,21 boulevard Auguste Blanqui SO-NE,2021-01-01,14990.0
+837,21 boulevard Auguste Blanqui SO-NE,2021-02-01,12212.0
+838,21 boulevard Auguste Blanqui SO-NE,2021-03-01,18341.0
+839,21 boulevard Auguste Blanqui SO-NE,2021-04-01,17282.0
+840,21 boulevard Auguste Blanqui SO-NE,2021-05-01,18555.0
+841,21 boulevard Auguste Blanqui SO-NE,2021-06-01,24542.0
+842,21 boulevard Auguste Blanqui SO-NE,2021-07-01,20364.0
+843,21 boulevard Auguste Blanqui SO-NE,2021-08-01,16153.0
+844,21 boulevard Auguste Blanqui SO-NE,2021-09-01,26822.0
+845,21 boulevard Auguste Blanqui SO-NE,2021-10-01,22311.0
+846,21 boulevard Auguste Blanqui SO-NE,2021-11-01,15952.0
+847,21 boulevard Auguste Blanqui SO-NE,2021-12-01,14609.0
+848,21 boulevard Saint Michel,2021-12-01,26231.0
+849,21 boulevard Saint Michel,2022-01-01,26535.0
+850,21 boulevard Saint Michel,2022-02-01,29561.0
+851,21 boulevard Saint Michel,2022-03-01,32904.0
+852,21 boulevard Saint Michel,2022-04-01,0.0
+853,21 boulevard Saint Michel S-N,2020-05-01,56704.0
+854,21 boulevard Saint Michel S-N,2020-06-01,157793.0
+855,21 boulevard Saint Michel S-N,2020-07-01,83062.0
+856,21 boulevard Saint Michel S-N,2020-08-01,4932.0
+857,21 boulevard Saint Michel S-N,2020-09-01,81245.0
+858,21 boulevard Saint Michel S-N,2020-10-01,31406.0
+859,21 boulevard Saint Michel S-N,2020-11-01,80594.0
+860,21 boulevard Saint Michel S-N,2020-12-01,81844.0
+861,21 boulevard Saint Michel S-N,2021-01-01,85825.0
+862,21 boulevard Saint Michel S-N,2021-02-01,80166.0
+863,21 boulevard Saint Michel S-N,2021-03-01,112144.0
+864,21 boulevard Saint Michel S-N,2021-04-01,100234.0
+865,21 boulevard Saint Michel S-N,2021-05-01,113336.0
+866,21 boulevard Saint Michel S-N,2021-06-01,123391.0
+867,21 boulevard Saint Michel S-N,2021-07-01,103082.0
+868,21 boulevard Saint Michel S-N,2021-08-01,40884.0
+869,21 boulevard Saint Michel S-N,2021-09-01,49837.0
+870,21 boulevard Saint Michel S-N,2021-10-01,40835.0
+871,21 boulevard Saint Michel S-N,2021-11-01,40071.0
+872,21 boulevard Saint Michel S-N,2021-12-01,26249.0
+873,243 Boulevard Saint Germain NO-SE,2018-12-01,92813.0
+874,243 Boulevard Saint Germain NO-SE,2019-01-01,71033.0
+875,243 Boulevard Saint Germain NO-SE,2019-02-01,23312.0
+876,243 Boulevard Saint Germain NO-SE,2019-03-01,24048.0
+877,243 Boulevard Saint Germain NO-SE,2019-04-01,27116.0
+878,243 Boulevard Saint Germain NO-SE,2019-05-01,26629.0
+879,243 Boulevard Saint Germain NO-SE,2019-06-01,29057.0
+880,243 Boulevard Saint Germain NO-SE,2019-07-01,33677.0
+881,243 Boulevard Saint Germain NO-SE,2019-08-01,25628.0
+882,243 Boulevard Saint Germain NO-SE,2019-09-01,39329.0
+883,243 Boulevard Saint Germain NO-SE,2019-10-01,31274.0
+884,243 Boulevard Saint Germain NO-SE,2019-11-01,24954.0
+885,243 Boulevard Saint Germain NO-SE,2019-12-01,54593.0
+886,243 boulevard Saint Germain,2021-12-01,31051.0
+887,243 boulevard Saint Germain,2022-01-01,32666.0
+888,243 boulevard Saint Germain,2022-02-01,35810.0
+889,243 boulevard Saint Germain,2022-03-01,43166.0
+890,243 boulevard Saint Germain,2022-04-01,40678.0
+891,243 boulevard Saint Germain,2022-05-01,48533.0
+892,243 boulevard Saint Germain,2022-06-01,51286.0
+893,243 boulevard Saint Germain,2022-07-01,47210.0
+894,243 boulevard Saint Germain,2022-08-01,35214.0
+895,243 boulevard Saint Germain,2022-09-01,57476.0
+896,243 boulevard Saint Germain,2022-10-01,58479.0
+897,243 boulevard Saint Germain,2022-11-01,50941.0
+898,243 boulevard Saint Germain,2022-12-01,34021.0
+899,243 boulevard Saint Germain,2023-01-01,13296.0
+900,243 boulevard Saint Germain NO-SE,2020-01-01,53886.0
+901,243 boulevard Saint Germain NO-SE,2020-02-01,27593.0
+902,243 boulevard Saint Germain NO-SE,2020-03-01,18475.0
+903,243 boulevard Saint Germain NO-SE,2020-04-01,6777.0
+904,243 boulevard Saint Germain NO-SE,2020-05-01,33352.0
+905,243 boulevard Saint Germain NO-SE,2020-06-01,50600.0
+906,243 boulevard Saint Germain NO-SE,2020-07-01,43895.0
+907,243 boulevard Saint Germain NO-SE,2020-08-01,10770.0
+908,243 boulevard Saint Germain NO-SE,2020-09-01,1829.0
+909,243 boulevard Saint Germain NO-SE,2020-10-01,40473.0
+910,243 boulevard Saint Germain NO-SE,2020-11-01,24902.0
+911,243 boulevard Saint Germain NO-SE,2020-12-01,25608.0
+912,243 boulevard Saint Germain NO-SE,2021-01-01,24973.0
+913,243 boulevard Saint Germain NO-SE,2021-02-01,23730.0
+914,243 boulevard Saint Germain NO-SE,2021-03-01,33567.0
+915,243 boulevard Saint Germain NO-SE,2021-04-01,29433.0
+916,243 boulevard Saint Germain NO-SE,2021-05-01,32700.0
+917,243 boulevard Saint Germain NO-SE,2021-06-01,45244.0
+918,243 boulevard Saint Germain NO-SE,2021-07-01,38719.0
+919,243 boulevard Saint Germain NO-SE,2021-08-01,28350.0
+920,243 boulevard Saint Germain NO-SE,2021-09-01,54189.0
+921,243 boulevard Saint Germain NO-SE,2021-10-01,47801.0
+922,243 boulevard Saint Germain NO-SE,2021-11-01,39206.0
+923,243 boulevard Saint Germain NO-SE,2021-12-01,31075.0
+924,254 Rue de Vaugirard,2020-11-01,0.0
+925,254 Rue de Vaugirard,2020-12-01,34118.0
+926,254 rue de Vaugirard,2021-01-01,59854.0
+927,254 rue de Vaugirard,2021-02-01,58628.0
+928,254 rue de Vaugirard,2021-03-01,88800.0
+929,254 rue de Vaugirard,2021-04-01,86984.0
+930,254 rue de Vaugirard,2021-05-01,95955.0
+931,254 rue de Vaugirard,2021-06-01,123168.0
+932,254 rue de Vaugirard,2021-07-01,102661.0
+933,254 rue de Vaugirard,2021-08-01,76549.0
+934,254 rue de Vaugirard,2021-09-01,138133.0
+935,254 rue de Vaugirard,2021-10-01,129165.0
+936,254 rue de Vaugirard,2021-11-01,110466.0
+937,254 rue de Vaugirard,2021-12-01,88249.0
+938,254 rue de Vaugirard,2021-12-01,88182.0
+939,254 rue de Vaugirard,2022-01-01,93186.0
+940,254 rue de Vaugirard,2022-02-01,100065.0
+941,254 rue de Vaugirard,2022-03-01,122955.0
+942,254 rue de Vaugirard,2022-04-01,113642.0
+943,254 rue de Vaugirard,2022-05-01,101846.0
+944,254 rue de Vaugirard,2022-06-01,15884.0
+945,254 rue de Vaugirard,2022-07-01,90552.0
+946,254 rue de Vaugirard,2022-08-01,92202.0
+947,254 rue de Vaugirard,2022-09-01,147441.0
+948,254 rue de Vaugirard,2022-10-01,124534.0
+949,254 rue de Vaugirard,2022-11-01,25.0
+950,254 rue de Vaugirard,2022-12-01,6.0
+951,254 rue de Vaugirard,2023-01-01,0.0
+952,26 Boulevard de Ménilmontant SE-NO,2018-11-01,1851.0
+953,26 Boulevard de Ménilmontant SE-NO,2018-12-01,36993.0
+954,26 Boulevard de Ménilmontant SE-NO,2019-01-01,40709.0
+955,26 Boulevard de Ménilmontant SE-NO,2019-02-01,45507.0
+956,26 Boulevard de Ménilmontant SE-NO,2019-03-01,51183.0
+957,26 Boulevard de Ménilmontant SE-NO,2019-04-01,53085.0
+958,26 Boulevard de Ménilmontant SE-NO,2019-05-01,58018.0
+959,26 Boulevard de Ménilmontant SE-NO,2019-06-01,61329.0
+960,26 Boulevard de Ménilmontant SE-NO,2019-07-01,64572.0
+961,26 Boulevard de Ménilmontant SE-NO,2019-08-01,48790.0
+962,26 Boulevard de Ménilmontant SE-NO,2019-09-01,82915.0
+963,26 Boulevard de Ménilmontant SE-NO,2019-10-01,67795.0
+964,26 Boulevard de Ménilmontant SE-NO,2019-11-01,57921.0
+965,26 Boulevard de Ménilmontant SE-NO,2019-12-01,119984.0
+966,26 boulevard de Ménilmontant,2021-12-01,73817.0
+967,26 boulevard de Ménilmontant,2022-01-01,81087.0
+968,26 boulevard de Ménilmontant,2022-02-01,86969.0
+969,26 boulevard de Ménilmontant,2022-03-01,105359.0
+970,26 boulevard de Ménilmontant,2022-04-01,43341.0
+971,26 boulevard de Ménilmontant,2022-05-01,0.0
+972,26 boulevard de Ménilmontant,2022-06-01,0.0
+973,26 boulevard de Ménilmontant,2022-07-01,0.0
+974,26 boulevard de Ménilmontant,2022-08-01,0.0
+975,26 boulevard de Ménilmontant,2022-09-01,0.0
+976,26 boulevard de Ménilmontant,2022-10-01,0.0
+977,26 boulevard de Ménilmontant,2022-11-01,0.0
+978,26 boulevard de Ménilmontant,2022-12-01,0.0
+979,26 boulevard de Ménilmontant,2023-01-01,0.0
+980,26 boulevard de Ménilmontant SE-NO,2020-01-01,115120.0
+981,26 boulevard de Ménilmontant SE-NO,2020-02-01,64819.0
+982,26 boulevard de Ménilmontant SE-NO,2020-03-01,47379.0
+983,26 boulevard de Ménilmontant SE-NO,2020-04-01,22773.0
+984,26 boulevard de Ménilmontant SE-NO,2020-05-01,88981.0
+985,26 boulevard de Ménilmontant SE-NO,2020-06-01,126922.0
+986,26 boulevard de Ménilmontant SE-NO,2020-07-01,116585.0
+987,26 boulevard de Ménilmontant SE-NO,2020-08-01,76319.0
+988,26 boulevard de Ménilmontant SE-NO,2020-09-01,61317.0
+989,26 boulevard de Ménilmontant SE-NO,2020-10-01,0.0
+990,26 boulevard de Ménilmontant SE-NO,2020-11-01,0.0
+991,26 boulevard de Ménilmontant SE-NO,2020-12-01,0.0
+992,26 boulevard de Ménilmontant SE-NO,2021-01-01,0.0
+993,26 boulevard de Ménilmontant SE-NO,2021-02-01,55446.0
+994,26 boulevard de Ménilmontant SE-NO,2021-03-01,93612.0
+995,26 boulevard de Ménilmontant SE-NO,2021-04-01,90886.0
+996,26 boulevard de Ménilmontant SE-NO,2021-05-01,87275.0
+997,26 boulevard de Ménilmontant SE-NO,2021-06-01,115711.0
+998,26 boulevard de Ménilmontant SE-NO,2021-07-01,93369.0
+999,26 boulevard de Ménilmontant SE-NO,2021-08-01,69509.0
+1000,26 boulevard de Ménilmontant SE-NO,2021-09-01,120062.0
+1001,26 boulevard de Ménilmontant SE-NO,2021-10-01,109408.0
+1002,26 boulevard de Ménilmontant SE-NO,2021-11-01,93102.0
+1003,26 boulevard de Ménilmontant SE-NO,2021-12-01,73900.0
+1004,27 Boulevard Diderot E-O,2018-01-01,12607.0
+1005,27 Boulevard Diderot E-O,2018-02-01,9395.0
+1006,27 Boulevard Diderot E-O,2018-03-01,14651.0
+1007,27 Boulevard Diderot E-O,2018-04-01,18128.0
+1008,27 Boulevard Diderot E-O,2018-05-01,20803.0
+1009,27 Boulevard Diderot E-O,2018-06-01,22643.0
+1010,27 Boulevard Diderot E-O,2018-07-01,21425.0
+1011,27 Boulevard Diderot E-O,2018-08-01,18194.0
+1012,27 Boulevard Diderot E-O,2018-09-01,26837.0
+1013,27 Boulevard Diderot E-O,2018-10-01,27043.0
+1014,27 Boulevard Diderot E-O,2018-11-01,20772.0
+1015,27 Boulevard Diderot E-O,2018-12-01,16033.0
+1016,27 Boulevard Diderot E-O,2019-01-01,18306.0
+1017,27 Boulevard Diderot E-O,2019-02-01,20673.0
+1018,27 Boulevard Diderot E-O,2019-03-01,22368.0
+1019,27 Boulevard Diderot E-O,2019-04-01,24844.0
+1020,27 Boulevard Diderot E-O,2019-05-01,25260.0
+1021,27 Boulevard Diderot E-O,2019-06-01,26881.0
+1022,27 Boulevard Diderot E-O,2019-07-01,29959.0
+1023,27 Boulevard Diderot E-O,2019-08-01,23228.0
+1024,27 Boulevard Diderot E-O,2019-09-01,36988.0
+1025,27 Boulevard Diderot E-O,2019-10-01,30402.0
+1026,27 Boulevard Diderot E-O,2019-11-01,25525.0
+1027,27 Boulevard Diderot E-O,2019-12-01,39079.0
+1028,27 Quai de la Tournelle,2019-11-01,36376.0
+1029,27 Quai de la Tournelle,2019-12-01,108377.0
+1030,27 boulevard Diderot,2021-12-01,31076.0
+1031,27 boulevard Diderot,2022-01-01,33241.0
+1032,27 boulevard Diderot,2022-02-01,38208.0
+1033,27 boulevard Diderot,2022-03-01,46577.0
+1034,27 boulevard Diderot,2022-04-01,43901.0
+1035,27 boulevard Diderot,2022-05-01,50150.0
+1036,27 boulevard Diderot,2022-06-01,51059.0
+1037,27 boulevard Diderot,2022-07-01,45449.0
+1038,27 boulevard Diderot,2022-08-01,35898.0
+1039,27 boulevard Diderot,2022-09-01,55122.0
+1040,27 boulevard Diderot,2022-10-01,57698.0
+1041,27 boulevard Diderot,2022-11-01,50490.0
+1042,27 boulevard Diderot,2022-12-01,34247.0
+1043,27 boulevard Diderot,2023-01-01,13382.0
+1044,27 boulevard Diderot E-O,2020-01-01,40820.0
+1045,27 boulevard Diderot E-O,2020-02-01,27334.0
+1046,27 boulevard Diderot E-O,2020-03-01,19505.0
+1047,27 boulevard Diderot E-O,2020-04-01,8915.0
+1048,27 boulevard Diderot E-O,2020-05-01,32721.0
+1049,27 boulevard Diderot E-O,2020-06-01,47540.0
+1050,27 boulevard Diderot E-O,2020-07-01,46799.0
+1051,27 boulevard Diderot E-O,2020-08-01,32651.0
+1052,27 boulevard Diderot E-O,2020-09-01,54540.0
+1053,27 boulevard Diderot E-O,2020-10-01,39563.0
+1054,27 boulevard Diderot E-O,2020-11-01,27098.0
+1055,27 boulevard Diderot E-O,2020-12-01,25383.0
+1056,27 boulevard Diderot E-O,2021-01-01,27395.0
+1057,27 boulevard Diderot E-O,2021-02-01,26508.0
+1058,27 boulevard Diderot E-O,2021-03-01,39573.0
+1059,27 boulevard Diderot E-O,2021-04-01,35693.0
+1060,27 boulevard Diderot E-O,2021-05-01,38839.0
+1061,27 boulevard Diderot E-O,2021-06-01,48836.0
+1062,27 boulevard Diderot E-O,2021-07-01,41208.0
+1063,27 boulevard Diderot E-O,2021-08-01,31495.0
+1064,27 boulevard Diderot E-O,2021-09-01,52020.0
+1065,27 boulevard Diderot E-O,2021-10-01,30985.0
+1066,27 boulevard Diderot E-O,2021-11-01,0.0
+1067,27 boulevard Diderot E-O,2021-12-01,0.0
+1068,27 quai de la Tournelle,2020-01-01,114928.0
+1069,27 quai de la Tournelle,2020-02-01,76276.0
+1070,27 quai de la Tournelle,2020-03-01,63342.0
+1071,27 quai de la Tournelle,2020-04-01,26607.0
+1072,27 quai de la Tournelle,2020-05-01,125859.0
+1073,27 quai de la Tournelle,2020-06-01,174205.0
+1074,27 quai de la Tournelle,2020-07-01,178469.0
+1075,27 quai de la Tournelle,2020-08-01,123395.0
+1076,27 quai de la Tournelle,2020-09-01,198238.0
+1077,27 quai de la Tournelle,2020-10-01,139902.0
+1078,27 quai de la Tournelle,2020-11-01,83622.0
+1079,27 quai de la Tournelle,2020-12-01,81632.0
+1080,27 quai de la Tournelle,2021-01-01,91273.0
+1081,27 quai de la Tournelle,2021-02-01,99490.0
+1082,27 quai de la Tournelle,2021-03-01,129783.0
+1083,27 quai de la Tournelle,2021-04-01,125818.0
+1084,27 quai de la Tournelle,2021-05-01,132974.0
+1085,27 quai de la Tournelle,2021-06-01,180886.0
+1086,27 quai de la Tournelle,2021-07-01,157404.0
+1087,27 quai de la Tournelle,2021-08-01,127711.0
+1088,27 quai de la Tournelle,2021-09-01,211591.0
+1089,27 quai de la Tournelle,2021-10-01,180436.0
+1090,27 quai de la Tournelle,2021-11-01,141897.0
+1091,27 quai de la Tournelle,2021-12-01,107738.0
+1092,27 quai de la Tournelle,2021-12-01,107829.0
+1093,27 quai de la Tournelle,2022-01-01,117395.0
+1094,27 quai de la Tournelle,2022-02-01,128117.0
+1095,27 quai de la Tournelle,2022-03-01,165290.0
+1096,27 quai de la Tournelle,2022-04-01,159358.0
+1097,27 quai de la Tournelle,2022-05-01,189631.0
+1098,27 quai de la Tournelle,2022-06-01,195490.0
+1099,27 quai de la Tournelle,2022-07-01,187814.0
+1100,27 quai de la Tournelle,2022-08-01,149869.0
+1101,27 quai de la Tournelle,2022-09-01,208918.0
+1102,27 quai de la Tournelle,2022-10-01,201799.0
+1103,27 quai de la Tournelle,2022-11-01,173495.0
+1104,27 quai de la Tournelle,2022-12-01,112690.0
+1105,27 quai de la Tournelle,2023-01-01,44543.0
+1106,28 Boulevard Diderot,2018-01-01,13796.0
+1107,28 Boulevard Diderot,2018-02-01,10739.0
+1108,28 Boulevard Diderot,2018-03-01,15559.0
+1109,28 Boulevard Diderot,2018-04-01,19605.0
+1110,28 Boulevard Diderot,2018-05-01,21782.0
+1111,28 Boulevard Diderot,2018-06-01,22467.0
+1112,28 Boulevard Diderot,2018-07-01,21370.0
+1113,28 Boulevard Diderot,2018-08-01,14794.0
+1114,28 Boulevard Diderot,2018-09-01,0.0
+1115,28 Boulevard Diderot,2018-10-01,21114.0
+1116,28 Boulevard Diderot,2018-11-01,25097.0
+1117,28 Boulevard Diderot,2018-12-01,19861.0
+1118,28 Boulevard Diderot,2019-01-01,21540.0
+1119,28 Boulevard Diderot,2019-02-01,24323.0
+1120,28 Boulevard Diderot,2019-03-01,26324.0
+1121,28 Boulevard Diderot,2019-04-01,28069.0
+1122,28 Boulevard Diderot,2019-05-01,29115.0
+1123,28 Boulevard Diderot,2019-06-01,30105.0
+1124,28 Boulevard Diderot,2019-07-01,33369.0
+1125,28 Boulevard Diderot,2019-08-01,24799.0
+1126,28 Boulevard Diderot,2019-09-01,36361.0
+1127,28 Boulevard Diderot,2019-10-01,30336.0
+1128,28 Boulevard Diderot,2019-11-01,25754.0
+1129,28 Boulevard Diderot,2019-12-01,38256.0
+1130,28 boulevard Diderot,2020-01-01,39219.0
+1131,28 boulevard Diderot,2020-02-01,26617.0
+1132,28 boulevard Diderot,2020-03-01,19405.0
+1133,28 boulevard Diderot,2020-04-01,9285.0
+1134,28 boulevard Diderot,2020-05-01,32014.0
+1135,28 boulevard Diderot,2020-06-01,45653.0
+1136,28 boulevard Diderot,2020-07-01,43557.0
+1137,28 boulevard Diderot,2020-08-01,28463.0
+1138,28 boulevard Diderot,2020-09-01,48673.0
+1139,28 boulevard Diderot,2020-10-01,34774.0
+1140,28 boulevard Diderot,2020-11-01,24868.0
+1141,28 boulevard Diderot,2020-12-01,22643.0
+1142,28 boulevard Diderot,2021-01-01,23698.0
+1143,28 boulevard Diderot,2021-02-01,23896.0
+1144,28 boulevard Diderot,2021-03-01,33854.0
+1145,28 boulevard Diderot,2021-04-01,32594.0
+1146,28 boulevard Diderot,2021-05-01,32922.0
+1147,28 boulevard Diderot,2021-06-01,39481.0
+1148,28 boulevard Diderot,2021-07-01,34714.0
+1149,28 boulevard Diderot,2021-08-01,25545.0
+1150,28 boulevard Diderot,2021-09-01,19741.0
+1151,28 boulevard Diderot,2021-10-01,0.0
+1152,28 boulevard Diderot,2021-11-01,0.0
+1153,28 boulevard Diderot,2021-12-01,0.0
+1154,28 boulevard Diderot,2022-01-01,1310.0
+1155,28 boulevard Diderot,2022-04-01,38674.0
+1156,28 boulevard Diderot,2022-05-01,53984.0
+1157,28 boulevard Diderot,2022-06-01,54267.0
+1158,28 boulevard Diderot,2022-07-01,16123.0
+1159,28 boulevard Diderot,2022-08-01,36755.0
+1160,28 boulevard Diderot,2022-09-01,54312.0
+1161,28 boulevard Diderot,2022-10-01,55832.0
+1162,28 boulevard Diderot,2022-11-01,50790.0
+1163,28 boulevard Diderot,2022-12-01,37777.0
+1164,28 boulevard Diderot,2023-01-01,13497.0
+1165,3 avenue de la Porte D'Orléans (gare routière),2021-12-01,1836.0
+1166,3 avenue de la Porte D'Orléans (gare routière),2022-01-01,2129.0
+1167,3 avenue de la Porte D'Orléans (gare routière),2022-02-01,2146.0
+1168,3 avenue de la Porte D'Orléans (gare routière),2022-03-01,2533.0
+1169,3 avenue de la Porte D'Orléans (gare routière),2022-04-01,2186.0
+1170,3 avenue de la Porte D'Orléans (gare routière),2022-05-01,1903.0
+1171,3 avenue de la Porte D'Orléans (gare routière),2022-06-01,1968.0
+1172,3 avenue de la Porte D'Orléans (gare routière),2022-07-01,1858.0
+1173,3 avenue de la Porte D'Orléans (gare routière),2022-08-01,1624.0
+1174,3 avenue de la Porte D'Orléans (gare routière),2022-09-01,2073.0
+1175,3 avenue de la Porte D'Orléans (gare routière),2022-10-01,2112.0
+1176,3 avenue de la Porte D'Orléans (gare routière),2022-11-01,920.0
+1177,3 avenue de la Porte D'Orléans (gare routière),2022-12-01,0.0
+1178,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-01-01,1214.0
+1179,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-02-01,1122.0
+1180,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-03-01,1586.0
+1181,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-04-01,1589.0
+1182,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-05-01,1686.0
+1183,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-06-01,2109.0
+1184,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-07-01,2126.0
+1185,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-08-01,1874.0
+1186,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-09-01,2501.0
+1187,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-10-01,2242.0
+1188,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-11-01,2000.0
+1189,3 avenue de la Porte D'Orléans (gare routière) S-N,2021-12-01,1837.0
+1190,3 avenue de la Porte D'Orléans S-N,2019-11-01,2232.0
+1191,3 avenue de la Porte D'Orléans S-N,2019-12-01,7089.0
+1192,3 avenue de la Porte D'Orléans S-N,2020-01-01,5006.0
+1193,3 avenue de la Porte D'Orléans S-N,2020-02-01,2999.0
+1194,3 avenue de la Porte D'Orléans S-N,2020-03-01,2121.0
+1195,3 avenue de la Porte D'Orléans S-N,2020-04-01,1046.0
+1196,3 avenue de la Porte D'Orléans S-N,2020-05-01,2228.0
+1197,3 avenue de la Porte D'Orléans S-N,2020-06-01,2005.0
+1198,3 avenue de la Porte D'Orléans S-N,2020-07-01,1940.0
+1199,3 avenue de la Porte D'Orléans S-N,2020-08-01,1703.0
+1200,3 avenue de la Porte D'Orléans S-N,2020-09-01,1979.0
+1201,3 avenue de la Porte D'Orléans S-N,2020-10-01,1789.0
+1202,3 avenue de la Porte D'Orléans S-N,2020-11-01,1177.0
+1203,3 avenue de la Porte D'Orléans S-N,2020-12-01,1326.0
+1204,30 rue Saint Jacques,2021-12-01,70465.0
+1205,30 rue Saint Jacques,2022-01-01,73044.0
+1206,30 rue Saint Jacques,2022-02-01,78573.0
+1207,30 rue Saint Jacques,2022-03-01,101547.0
+1208,30 rue Saint Jacques,2022-04-01,93971.0
+1209,30 rue Saint Jacques,2022-05-01,110192.0
+1210,30 rue Saint Jacques,2022-06-01,114690.0
+1211,30 rue Saint Jacques,2022-07-01,93372.0
+1212,30 rue Saint Jacques,2022-08-01,72018.0
+1213,30 rue Saint Jacques,2022-09-01,113427.0
+1214,30 rue Saint Jacques,2022-10-01,115969.0
+1215,30 rue Saint Jacques,2022-11-01,94223.0
+1216,30 rue Saint Jacques,2022-12-01,66404.0
+1217,30 rue Saint Jacques,2023-01-01,25226.0
+1218,30 rue Saint Jacques (temporaire),2021-11-01,0.0
+1219,30 rue Saint Jacques N-S,2020-05-01,23956.0
+1220,30 rue Saint Jacques N-S,2020-06-01,66463.0
+1221,30 rue Saint Jacques N-S,2020-07-01,66540.0
+1222,30 rue Saint Jacques N-S,2020-08-01,44983.0
+1223,30 rue Saint Jacques N-S,2020-09-01,83859.0
+1224,30 rue Saint Jacques N-S,2020-10-01,63127.0
+1225,30 rue Saint Jacques N-S,2020-11-01,38453.0
+1226,30 rue Saint Jacques N-S,2020-12-01,6785.0
+1227,30 rue Saint Jacques N-S,2021-01-01,0.0
+1228,30 rue Saint Jacques N-S,2021-02-01,0.0
+1229,30 rue Saint Jacques N-S,2021-03-01,0.0
+1230,30 rue Saint Jacques N-S,2021-04-01,0.0
+1231,30 rue Saint Jacques N-S,2021-05-01,0.0
+1232,30 rue Saint Jacques N-S,2021-06-01,0.0
+1233,30 rue Saint Jacques N-S,2021-07-01,0.0
+1234,30 rue Saint Jacques N-S,2021-08-01,0.0
+1235,30 rue Saint Jacques N-S,2021-09-01,0.0
+1236,30 rue Saint Jacques N-S,2021-10-01,0.0
+1237,30 rue Saint Jacques N-S,2021-11-01,1910.0
+1238,30 rue Saint Jacques N-S,2021-12-01,70531.0
+1239,30 rue Saint Jacques N-S (temporaire),2021-01-01,7148.0
+1240,30 rue Saint Jacques N-S (temporaire),2021-02-01,6767.0
+1241,30 rue Saint Jacques N-S (temporaire),2021-03-01,10258.0
+1242,30 rue Saint Jacques N-S (temporaire),2021-04-01,8992.0
+1243,30 rue Saint Jacques N-S (temporaire),2021-05-01,10622.0
+1244,30 rue Saint Jacques N-S (temporaire),2021-06-01,15016.0
+1245,30 rue Saint Jacques N-S (temporaire),2021-07-01,22741.0
+1246,30 rue Saint Jacques N-S (temporaire),2021-08-01,0.0
+1247,30 rue Saint Jacques N-S (temporaire),2021-09-01,0.0
+1248,30 rue Saint Jacques N-S (temporaire),2021-10-01,0.0
+1249,30 rue Saint Jacques N-S (temporaire),2021-11-01,0.0
+1250,30 rue Saint Jacques N-S (temporaire),2021-12-01,0.0
+1251,33 avenue des Champs Elysées,2021-12-01,48576.0
+1252,33 avenue des Champs Elysées,2022-01-01,48157.0
+1253,33 avenue des Champs Elysées,2022-02-01,52997.0
+1254,33 avenue des Champs Elysées,2022-03-01,67900.0
+1255,33 avenue des Champs Elysées,2022-04-01,66244.0
+1256,33 avenue des Champs Elysées,2022-05-01,82122.0
+1257,33 avenue des Champs Elysées,2022-06-01,81219.0
+1258,33 avenue des Champs Elysées,2022-07-01,76358.0
+1259,33 avenue des Champs Elysées,2022-08-01,63340.0
+1260,33 avenue des Champs Elysées,2022-09-01,87009.0
+1261,33 avenue des Champs Elysées,2022-10-01,85333.0
+1262,33 avenue des Champs Elysées,2022-11-01,72512.0
+1263,33 avenue des Champs Elysées,2022-12-01,46062.0
+1264,33 avenue des Champs Elysées,2023-01-01,18576.0
+1265,33 avenue des Champs Elysées NO-SE,2019-10-01,2090.0
+1266,33 avenue des Champs Elysées NO-SE,2019-11-01,23649.0
+1267,33 avenue des Champs Elysées NO-SE,2019-12-01,43150.0
+1268,33 avenue des Champs Elysées NO-SE,2020-01-01,42336.0
+1269,33 avenue des Champs Elysées NO-SE,2020-02-01,27386.0
+1270,33 avenue des Champs Elysées NO-SE,2020-03-01,18929.0
+1271,33 avenue des Champs Elysées NO-SE,2020-04-01,5933.0
+1272,33 avenue des Champs Elysées NO-SE,2020-05-01,43282.0
+1273,33 avenue des Champs Elysées NO-SE,2020-06-01,68285.0
+1274,33 avenue des Champs Elysées NO-SE,2020-07-01,74315.0
+1275,33 avenue des Champs Elysées NO-SE,2020-08-01,52916.0
+1276,33 avenue des Champs Elysées NO-SE,2020-09-01,82084.0
+1277,33 avenue des Champs Elysées NO-SE,2020-10-01,58975.0
+1278,33 avenue des Champs Elysées NO-SE,2020-11-01,33812.0
+1279,33 avenue des Champs Elysées NO-SE,2020-12-01,36318.0
+1280,33 avenue des Champs Elysées NO-SE,2021-01-01,37087.0
+1281,33 avenue des Champs Elysées NO-SE,2021-02-01,36622.0
+1282,33 avenue des Champs Elysées NO-SE,2021-03-01,53141.0
+1283,33 avenue des Champs Elysées NO-SE,2021-04-01,49294.0
+1284,33 avenue des Champs Elysées NO-SE,2021-05-01,51727.0
+1285,33 avenue des Champs Elysées NO-SE,2021-06-01,72670.0
+1286,33 avenue des Champs Elysées NO-SE,2021-07-01,66089.0
+1287,33 avenue des Champs Elysées NO-SE,2021-08-01,55666.0
+1288,33 avenue des Champs Elysées NO-SE,2021-09-01,102509.0
+1289,33 avenue des Champs Elysées NO-SE,2021-10-01,80765.0
+1290,33 avenue des Champs Elysées NO-SE,2021-11-01,61927.0
+1291,33 avenue des Champs Elysées NO-SE,2021-12-01,48604.0
+1292,35 Boulevard de Menilmontant NO-SE,2018-11-01,0.0
+1293,35 Boulevard de Menilmontant NO-SE,2018-12-01,31236.0
+1294,35 Boulevard de Menilmontant NO-SE,2019-01-01,40119.0
+1295,35 Boulevard de Menilmontant NO-SE,2019-02-01,41283.0
+1296,35 Boulevard de Menilmontant NO-SE,2019-03-01,34745.0
+1297,35 Boulevard de Menilmontant NO-SE,2019-04-01,46450.0
+1298,35 Boulevard de Menilmontant NO-SE,2019-05-01,55960.0
+1299,35 Boulevard de Menilmontant NO-SE,2019-06-01,60582.0
+1300,35 Boulevard de Menilmontant NO-SE,2019-07-01,63171.0
+1301,35 Boulevard de Menilmontant NO-SE,2019-08-01,50003.0
+1302,35 Boulevard de Menilmontant NO-SE,2019-09-01,84720.0
+1303,35 Boulevard de Menilmontant NO-SE,2019-10-01,70623.0
+1304,35 Boulevard de Menilmontant NO-SE,2019-11-01,60614.0
+1305,35 Boulevard de Menilmontant NO-SE,2019-12-01,124855.0
+1306,35 boulevard de Ménilmontant,2021-01-01,67052.0
+1307,35 boulevard de Ménilmontant,2021-02-01,8695.0
+1308,35 boulevard de Ménilmontant,2021-03-01,0.0
+1309,35 boulevard de Ménilmontant,2021-04-01,0.0
+1310,35 boulevard de Ménilmontant,2021-05-01,0.0
+1311,35 boulevard de Ménilmontant,2021-06-01,0.0
+1312,35 boulevard de Ménilmontant,2021-07-01,0.0
+1313,35 boulevard de Ménilmontant,2021-08-01,0.0
+1314,35 boulevard de Ménilmontant,2021-09-01,0.0
+1315,35 boulevard de Ménilmontant,2021-10-01,0.0
+1316,35 boulevard de Ménilmontant,2021-11-01,0.0
+1317,35 boulevard de Ménilmontant,2021-12-01,0.0
+1318,35 boulevard de Ménilmontant,2021-12-01,48438.0
+1319,35 boulevard de Ménilmontant,2022-01-01,84168.0
+1320,35 boulevard de Ménilmontant,2022-02-01,90226.0
+1321,35 boulevard de Ménilmontant,2022-03-01,110255.0
+1322,35 boulevard de Ménilmontant,2022-04-01,105897.0
+1323,35 boulevard de Ménilmontant,2022-05-01,121251.0
+1324,35 boulevard de Ménilmontant,2022-06-01,122900.0
+1325,35 boulevard de Ménilmontant,2022-07-01,105852.0
+1326,35 boulevard de Ménilmontant,2022-08-01,81572.0
+1327,35 boulevard de Ménilmontant,2022-09-01,131562.0
+1328,35 boulevard de Ménilmontant,2022-10-01,125556.0
+1329,35 boulevard de Ménilmontant,2022-11-01,113120.0
+1330,35 boulevard de Ménilmontant,2022-12-01,79885.0
+1331,35 boulevard de Ménilmontant,2023-01-01,30622.0
+1332,35 boulevard de Ménilmontant NO-SE,2021-01-01,0.0
+1333,35 boulevard de Ménilmontant NO-SE,2021-02-01,57214.0
+1334,35 boulevard de Ménilmontant NO-SE,2021-03-01,93699.0
+1335,35 boulevard de Ménilmontant NO-SE,2021-04-01,90709.0
+1336,35 boulevard de Ménilmontant NO-SE,2021-05-01,96245.0
+1337,35 boulevard de Ménilmontant NO-SE,2021-06-01,118954.0
+1338,35 boulevard de Ménilmontant NO-SE,2021-07-01,94638.0
+1339,35 boulevard de Ménilmontant NO-SE,2021-08-01,11946.0
+1340,35 boulevard de Ménilmontant NO-SE,2021-09-01,0.0
+1341,35 boulevard de Ménilmontant NO-SE,2021-10-01,0.0
+1342,35 boulevard de Ménilmontant NO-SE,2021-11-01,0.0
+1343,35 boulevard de Ménilmontant NO-SE,2021-12-01,48438.0
+1344,36 Quai de Grenelle,2019-11-01,19640.0
+1345,36 Quai de Grenelle,2019-12-01,100703.0
+1346,36 quai de Grenelle,2020-01-01,99719.0
+1347,36 quai de Grenelle,2020-02-01,49934.0
+1348,36 quai de Grenelle,2020-03-01,42102.0
+1349,36 quai de Grenelle,2020-04-01,21074.0
+1350,36 quai de Grenelle,2020-05-01,94196.0
+1351,36 quai de Grenelle,2020-06-01,129357.0
+1352,36 quai de Grenelle,2020-07-01,129712.0
+1353,36 quai de Grenelle,2020-08-01,86448.0
+1354,36 quai de Grenelle,2020-09-01,142886.0
+1355,36 quai de Grenelle,2020-10-01,96454.0
+1356,36 quai de Grenelle,2020-11-01,67130.0
+1357,36 quai de Grenelle,2020-12-01,59994.0
+1358,36 quai de Grenelle,2021-01-01,63763.0
+1359,36 quai de Grenelle,2021-02-01,66409.0
+1360,36 quai de Grenelle,2021-03-01,89681.0
+1361,36 quai de Grenelle,2021-04-01,87439.0
+1362,36 quai de Grenelle,2021-05-01,87947.0
+1363,36 quai de Grenelle,2021-06-01,119438.0
+1364,36 quai de Grenelle,2021-07-01,97018.0
+1365,36 quai de Grenelle,2021-08-01,77469.0
+1366,36 quai de Grenelle,2021-09-01,128469.0
+1367,36 quai de Grenelle,2021-10-01,108480.0
+1368,36 quai de Grenelle,2021-11-01,86623.0
+1369,36 quai de Grenelle,2021-12-01,64309.0
+1370,36 quai de Grenelle,2021-12-01,64269.0
+1371,36 quai de Grenelle,2022-01-01,69499.0
+1372,36 quai de Grenelle,2022-02-01,77125.0
+1373,36 quai de Grenelle,2022-03-01,100663.0
+1374,36 quai de Grenelle,2022-04-01,96086.0
+1375,36 quai de Grenelle,2022-05-01,120913.0
+1376,36 quai de Grenelle,2022-06-01,126821.0
+1377,36 quai de Grenelle,2022-07-01,112805.0
+1378,36 quai de Grenelle,2022-08-01,88198.0
+1379,36 quai de Grenelle,2022-09-01,125739.0
+1380,36 quai de Grenelle,2022-10-01,123526.0
+1381,36 quai de Grenelle,2022-11-01,109161.0
+1382,36 quai de Grenelle,2022-12-01,69144.0
+1383,36 quai de Grenelle,2023-01-01,28481.0
+1384,38 rue Turbigo,2019-12-01,91834.0
+1385,38 rue Turbigo,2020-01-01,130827.0
+1386,38 rue Turbigo,2020-02-01,86023.0
+1387,38 rue Turbigo,2020-03-01,55066.0
+1388,38 rue Turbigo,2020-04-01,20456.0
+1389,38 rue Turbigo,2020-05-01,85782.0
+1390,38 rue Turbigo,2020-06-01,142586.0
+1391,38 rue Turbigo,2020-07-01,148091.0
+1392,38 rue Turbigo,2020-08-01,98791.0
+1393,38 rue Turbigo,2020-09-01,172878.0
+1394,38 rue Turbigo,2020-10-01,133628.0
+1395,38 rue Turbigo,2020-11-01,81860.0
+1396,38 rue Turbigo,2020-12-01,88018.0
+1397,38 rue Turbigo,2021-01-01,90300.0
+1398,38 rue Turbigo,2021-02-01,83927.0
+1399,38 rue Turbigo,2021-03-01,115235.0
+1400,38 rue Turbigo,2021-04-01,109130.0
+1401,38 rue Turbigo,2021-05-01,122060.0
+1402,38 rue Turbigo,2021-06-01,162457.0
+1403,38 rue Turbigo,2021-07-01,138086.0
+1404,38 rue Turbigo,2021-08-01,103855.0
+1405,38 rue Turbigo,2021-09-01,171471.0
+1406,38 rue Turbigo,2021-10-01,155848.0
+1407,38 rue Turbigo,2021-11-01,134821.0
+1408,38 rue Turbigo,2021-12-01,111204.0
+1409,38 rue Turbigo,2021-12-01,111092.0
+1410,38 rue Turbigo,2022-01-01,118007.0
+1411,38 rue Turbigo,2022-02-01,125893.0
+1412,38 rue Turbigo,2022-03-01,150024.0
+1413,38 rue Turbigo,2022-04-01,142279.0
+1414,38 rue Turbigo,2022-05-01,170951.0
+1415,38 rue Turbigo,2022-06-01,188352.0
+1416,38 rue Turbigo,2022-07-01,176420.0
+1417,38 rue Turbigo,2022-08-01,137968.0
+1418,38 rue Turbigo,2022-09-01,213952.0
+1419,38 rue Turbigo,2022-10-01,214585.0
+1420,38 rue Turbigo,2022-11-01,190933.0
+1421,38 rue Turbigo,2022-12-01,132781.0
+1422,38 rue Turbigo,2023-01-01,47760.0
+1423,39 Quai François Mauriac,2018-01-01,22615.0
+1424,39 Quai François Mauriac,2018-02-01,17376.0
+1425,39 Quai François Mauriac,2018-03-01,24749.0
+1426,39 Quai François Mauriac,2018-04-01,32792.0
+1427,39 Quai François Mauriac,2018-05-01,36584.0
+1428,39 Quai François Mauriac,2018-06-01,36655.0
+1429,39 Quai François Mauriac,2018-07-01,36975.0
+1430,39 Quai François Mauriac,2018-08-01,30051.0
+1431,39 Quai François Mauriac,2018-09-01,46905.0
+1432,39 Quai François Mauriac,2018-10-01,48031.0
+1433,39 Quai François Mauriac,2018-11-01,37234.0
+1434,39 Quai François Mauriac,2018-12-01,29001.0
+1435,39 Quai François Mauriac,2019-01-01,33514.0
+1436,39 Quai François Mauriac,2019-02-01,38540.0
+1437,39 Quai François Mauriac,2019-03-01,43103.0
+1438,39 Quai François Mauriac,2019-04-01,50650.0
+1439,39 Quai François Mauriac,2019-05-01,49854.0
+1440,39 Quai François Mauriac,2019-06-01,54001.0
+1441,39 Quai François Mauriac,2019-07-01,62813.0
+1442,39 Quai François Mauriac,2019-08-01,50771.0
+1443,39 Quai François Mauriac,2019-09-01,77687.0
+1444,39 Quai François Mauriac,2019-10-01,67334.0
+1445,39 Quai François Mauriac,2019-11-01,54701.0
+1446,39 Quai François Mauriac,2019-12-01,80437.0
+1447,39 quai François Mauriac,2020-01-01,86714.0
+1448,39 quai François Mauriac,2020-02-01,58675.0
+1449,39 quai François Mauriac,2020-03-01,40264.0
+1450,39 quai François Mauriac,2020-04-01,14928.0
+1451,39 quai François Mauriac,2020-05-01,70090.0
+1452,39 quai François Mauriac,2020-06-01,104505.0
+1453,39 quai François Mauriac,2020-07-01,110853.0
+1454,39 quai François Mauriac,2020-08-01,78167.0
+1455,39 quai François Mauriac,2020-09-01,126491.0
+1456,39 quai François Mauriac,2020-10-01,88863.0
+1457,39 quai François Mauriac,2020-11-01,55264.0
+1458,39 quai François Mauriac,2020-12-01,51536.0
+1459,39 quai François Mauriac,2021-01-01,55519.0
+1460,39 quai François Mauriac,2021-02-01,54064.0
+1461,39 quai François Mauriac,2021-03-01,77263.0
+1462,39 quai François Mauriac,2021-04-01,75431.0
+1463,39 quai François Mauriac,2021-05-01,77073.0
+1464,39 quai François Mauriac,2021-06-01,106422.0
+1465,39 quai François Mauriac,2021-07-01,89021.0
+1466,39 quai François Mauriac,2021-08-01,75888.0
+1467,39 quai François Mauriac,2021-09-01,119296.0
+1468,39 quai François Mauriac,2021-10-01,106531.0
+1469,39 quai François Mauriac,2021-11-01,88384.0
+1470,39 quai François Mauriac,2021-12-01,65301.0
+1471,39 quai François Mauriac,2021-12-01,65361.0
+1472,39 quai François Mauriac,2022-01-01,68754.0
+1473,39 quai François Mauriac,2022-02-01,76066.0
+1474,39 quai François Mauriac,2022-03-01,15238.0
+1475,39 quai François Mauriac,2022-04-01,73056.0
+1476,39 quai François Mauriac,2022-05-01,106534.0
+1477,39 quai François Mauriac,2022-06-01,108264.0
+1478,39 quai François Mauriac,2022-07-01,97523.0
+1479,39 quai François Mauriac,2022-08-01,38683.0
+1480,39 quai François Mauriac,2022-09-01,70280.0
+1481,39 quai François Mauriac,2022-10-01,116524.0
+1482,39 quai François Mauriac,2022-11-01,91478.0
+1483,39 quai François Mauriac,2022-12-01,66856.0
+1484,39 quai François Mauriac,2023-01-01,26249.0
+1485,44 avenue des Champs Elysées,2021-12-01,35368.0
+1486,44 avenue des Champs Elysées,2022-01-01,35630.0
+1487,44 avenue des Champs Elysées,2022-02-01,39742.0
+1488,44 avenue des Champs Elysées,2022-03-01,51770.0
+1489,44 avenue des Champs Elysées,2022-04-01,49844.0
+1490,44 avenue des Champs Elysées,2022-05-01,62796.0
+1491,44 avenue des Champs Elysées,2022-06-01,61067.0
+1492,44 avenue des Champs Elysées,2022-07-01,58351.0
+1493,44 avenue des Champs Elysées,2022-08-01,50140.0
+1494,44 avenue des Champs Elysées,2022-09-01,66259.0
+1495,44 avenue des Champs Elysées,2022-10-01,63779.0
+1496,44 avenue des Champs Elysées,2022-11-01,52540.0
+1497,44 avenue des Champs Elysées,2022-12-01,34009.0
+1498,44 avenue des Champs Elysées,2023-01-01,13663.0
+1499,44 avenue des Champs Elysées SE-NO,2019-10-01,682.0
+1500,44 avenue des Champs Elysées SE-NO,2019-11-01,16101.0
+1501,44 avenue des Champs Elysées SE-NO,2019-12-01,34502.0
+1502,44 avenue des Champs Elysées SE-NO,2020-01-01,32736.0
+1503,44 avenue des Champs Elysées SE-NO,2020-02-01,20365.0
+1504,44 avenue des Champs Elysées SE-NO,2020-03-01,14258.0
+1505,44 avenue des Champs Elysées SE-NO,2020-04-01,4799.0
+1506,44 avenue des Champs Elysées SE-NO,2020-05-01,36330.0
+1507,44 avenue des Champs Elysées SE-NO,2020-06-01,51262.0
+1508,44 avenue des Champs Elysées SE-NO,2020-07-01,53242.0
+1509,44 avenue des Champs Elysées SE-NO,2020-08-01,38179.0
+1510,44 avenue des Champs Elysées SE-NO,2020-09-01,58972.0
+1511,44 avenue des Champs Elysées SE-NO,2020-10-01,44691.0
+1512,44 avenue des Champs Elysées SE-NO,2020-11-01,26053.0
+1513,44 avenue des Champs Elysées SE-NO,2020-12-01,27712.0
+1514,44 avenue des Champs Elysées SE-NO,2021-01-01,28186.0
+1515,44 avenue des Champs Elysées SE-NO,2021-02-01,27977.0
+1516,44 avenue des Champs Elysées SE-NO,2021-03-01,39541.0
+1517,44 avenue des Champs Elysées SE-NO,2021-04-01,38050.0
+1518,44 avenue des Champs Elysées SE-NO,2021-05-01,38918.0
+1519,44 avenue des Champs Elysées SE-NO,2021-06-01,52141.0
+1520,44 avenue des Champs Elysées SE-NO,2021-07-01,47408.0
+1521,44 avenue des Champs Elysées SE-NO,2021-08-01,41089.0
+1522,44 avenue des Champs Elysées SE-NO,2021-09-01,77487.0
+1523,44 avenue des Champs Elysées SE-NO,2021-10-01,61801.0
+1524,44 avenue des Champs Elysées SE-NO,2021-11-01,46600.0
+1525,44 avenue des Champs Elysées SE-NO,2021-12-01,35401.0
+1526,6 rue Julia Bartet,2018-11-01,4432.0
+1527,6 rue Julia Bartet,2018-12-01,29679.0
+1528,6 rue Julia Bartet,2019-01-01,34063.0
+1529,6 rue Julia Bartet,2019-02-01,38667.0
+1530,6 rue Julia Bartet,2019-03-01,41550.0
+1531,6 rue Julia Bartet,2019-04-01,46579.0
+1532,6 rue Julia Bartet,2019-05-01,49221.0
+1533,6 rue Julia Bartet,2019-06-01,52662.0
+1534,6 rue Julia Bartet,2019-07-01,57997.0
+1535,6 rue Julia Bartet,2019-08-01,42049.0
+1536,6 rue Julia Bartet,2019-09-01,71672.0
+1537,6 rue Julia Bartet,2019-10-01,56654.0
+1538,6 rue Julia Bartet,2019-11-01,48358.0
+1539,6 rue Julia Bartet,2019-12-01,104464.0
+1540,6 rue Julia Bartet,2020-01-01,108448.0
+1541,6 rue Julia Bartet,2020-02-01,53623.0
+1542,6 rue Julia Bartet,2020-03-01,40895.0
+1543,6 rue Julia Bartet,2020-04-01,15958.0
+1544,6 rue Julia Bartet,2020-05-01,72871.0
+1545,6 rue Julia Bartet,2020-06-01,102495.0
+1546,6 rue Julia Bartet,2020-07-01,99024.0
+1547,6 rue Julia Bartet,2020-08-01,65100.0
+1548,6 rue Julia Bartet,2020-09-01,115034.0
+1549,6 rue Julia Bartet,2020-10-01,80861.0
+1550,6 rue Julia Bartet,2020-11-01,55157.0
+1551,6 rue Julia Bartet,2020-12-01,50006.0
+1552,6 rue Julia Bartet,2021-01-01,54541.0
+1553,6 rue Julia Bartet,2021-02-01,48519.0
+1554,6 rue Julia Bartet,2021-03-01,73256.0
+1555,6 rue Julia Bartet,2021-04-01,71491.0
+1556,6 rue Julia Bartet,2021-05-01,69632.0
+1557,6 rue Julia Bartet,2021-06-01,90425.0
+1558,6 rue Julia Bartet,2021-07-01,74253.0
+1559,6 rue Julia Bartet,2021-08-01,58580.0
+1560,6 rue Julia Bartet,2021-09-01,105071.0
+1561,6 rue Julia Bartet,2021-10-01,90254.0
+1562,6 rue Julia Bartet,2021-11-01,74798.0
+1563,6 rue Julia Bartet,2021-12-01,57909.0
+1564,6 rue Julia Bartet,2021-12-01,57871.0
+1565,6 rue Julia Bartet,2022-01-01,62600.0
+1566,6 rue Julia Bartet,2022-02-01,67589.0
+1567,6 rue Julia Bartet,2022-03-01,85384.0
+1568,6 rue Julia Bartet,2022-04-01,78844.0
+1569,6 rue Julia Bartet,2022-05-01,95213.0
+1570,6 rue Julia Bartet,2022-06-01,100101.0
+1571,6 rue Julia Bartet,2022-07-01,86162.0
+1572,6 rue Julia Bartet,2022-08-01,66845.0
+1573,6 rue Julia Bartet,2022-09-01,103770.0
+1574,6 rue Julia Bartet,2022-10-01,100655.0
+1575,6 rue Julia Bartet,2022-11-01,85713.0
+1576,6 rue Julia Bartet,2022-12-01,58487.0
+1577,6 rue Julia Bartet,2023-01-01,22936.0
+1578,67 boulevard Voltaire,2021-12-01,80263.0
+1579,67 boulevard Voltaire,2022-01-01,86704.0
+1580,67 boulevard Voltaire,2022-02-01,92716.0
+1581,67 boulevard Voltaire,2022-03-01,110678.0
+1582,67 boulevard Voltaire,2022-04-01,103267.0
+1583,67 boulevard Voltaire,2022-05-01,118977.0
+1584,67 boulevard Voltaire,2022-06-01,122114.0
+1585,67 boulevard Voltaire,2022-07-01,108448.0
+1586,67 boulevard Voltaire,2022-08-01,82087.0
+1587,67 boulevard Voltaire,2022-09-01,130555.0
+1588,67 boulevard Voltaire,2022-10-01,126123.0
+1589,67 boulevard Voltaire,2022-11-01,110183.0
+1590,67 boulevard Voltaire,2022-12-01,76956.0
+1591,67 boulevard Voltaire,2023-01-01,29187.0
+1592,67 boulevard Voltaire SE-NO,2018-06-01,4100.0
+1593,67 boulevard Voltaire SE-NO,2018-07-01,27276.0
+1594,67 boulevard Voltaire SE-NO,2018-08-01,24092.0
+1595,67 boulevard Voltaire SE-NO,2018-09-01,45831.0
+1596,67 boulevard Voltaire SE-NO,2018-10-01,53528.0
+1597,67 boulevard Voltaire SE-NO,2018-11-01,43023.0
+1598,67 boulevard Voltaire SE-NO,2018-12-01,35532.0
+1599,67 boulevard Voltaire SE-NO,2019-01-01,39777.0
+1600,67 boulevard Voltaire SE-NO,2019-02-01,45646.0
+1601,67 boulevard Voltaire SE-NO,2019-03-01,52091.0
+1602,67 boulevard Voltaire SE-NO,2019-04-01,52605.0
+1603,67 boulevard Voltaire SE-NO,2019-05-01,57298.0
+1604,67 boulevard Voltaire SE-NO,2019-06-01,62754.0
+1605,67 boulevard Voltaire SE-NO,2019-07-01,69280.0
+1606,67 boulevard Voltaire SE-NO,2019-08-01,54046.0
+1607,67 boulevard Voltaire SE-NO,2019-09-01,92576.0
+1608,67 boulevard Voltaire SE-NO,2019-10-01,78874.0
+1609,67 boulevard Voltaire SE-NO,2019-11-01,62695.0
+1610,67 boulevard Voltaire SE-NO,2019-12-01,114857.0
+1611,67 boulevard Voltaire SE-NO,2020-01-01,114502.0
+1612,67 boulevard Voltaire SE-NO,2020-02-01,69513.0
+1613,67 boulevard Voltaire SE-NO,2020-03-01,48055.0
+1614,67 boulevard Voltaire SE-NO,2020-04-01,20043.0
+1615,67 boulevard Voltaire SE-NO,2020-05-01,85123.0
+1616,67 boulevard Voltaire SE-NO,2020-06-01,134510.0
+1617,67 boulevard Voltaire SE-NO,2020-07-01,127757.0
+1618,67 boulevard Voltaire SE-NO,2020-08-01,81123.0
+1619,67 boulevard Voltaire SE-NO,2020-09-01,142272.0
+1620,67 boulevard Voltaire SE-NO,2020-10-01,105964.0
+1621,67 boulevard Voltaire SE-NO,2020-11-01,71218.0
+1622,67 boulevard Voltaire SE-NO,2020-12-01,68574.0
+1623,67 boulevard Voltaire SE-NO,2021-01-01,71635.0
+1624,67 boulevard Voltaire SE-NO,2021-02-01,67668.0
+1625,67 boulevard Voltaire SE-NO,2021-03-01,94339.0
+1626,67 boulevard Voltaire SE-NO,2021-04-01,86622.0
+1627,67 boulevard Voltaire SE-NO,2021-05-01,91114.0
+1628,67 boulevard Voltaire SE-NO,2021-06-01,120179.0
+1629,67 boulevard Voltaire SE-NO,2021-07-01,98987.0
+1630,67 boulevard Voltaire SE-NO,2021-08-01,72066.0
+1631,67 boulevard Voltaire SE-NO,2021-09-01,128765.0
+1632,67 boulevard Voltaire SE-NO,2021-10-01,116249.0
+1633,67 boulevard Voltaire SE-NO,2021-11-01,99747.0
+1634,67 boulevard Voltaire SE-NO,2021-12-01,80329.0
+1635,69 Boulevard Ornano,2021-12-01,46949.0
+1636,69 Boulevard Ornano,2022-01-01,48644.0
+1637,69 Boulevard Ornano,2022-02-01,51867.0
+1638,69 Boulevard Ornano,2022-03-01,63363.0
+1639,69 Boulevard Ornano,2022-04-01,59805.0
+1640,69 Boulevard Ornano,2022-05-01,69970.0
+1641,69 Boulevard Ornano,2022-06-01,65549.0
+1642,69 Boulevard Ornano,2022-07-01,58771.0
+1643,69 Boulevard Ornano,2022-08-01,50215.0
+1644,69 Boulevard Ornano,2022-09-01,67973.0
+1645,69 Boulevard Ornano,2022-10-01,69126.0
+1646,69 Boulevard Ornano,2022-11-01,15106.0
+1647,69 Boulevard Ornano,2022-12-01,4.0
+1648,69 Boulevard Ornano,2023-01-01,0.0
+1649,69 Boulevard Ornano (temporaire),2021-11-01,0.0
+1650,69 Boulevard Ornano N-S,2020-07-01,12882.0
+1651,69 Boulevard Ornano N-S,2020-08-01,0.0
+1652,69 Boulevard Ornano N-S,2020-09-01,16163.0
+1653,69 Boulevard Ornano N-S,2020-10-01,11875.0
+1654,69 Boulevard Ornano N-S,2020-11-01,30509.0
+1655,69 Boulevard Ornano N-S,2020-12-01,17477.0
+1656,69 Boulevard Ornano N-S,2021-01-01,0.0
+1657,69 Boulevard Ornano N-S,2021-02-01,0.0
+1658,69 Boulevard Ornano N-S,2021-03-01,0.0
+1659,69 Boulevard Ornano N-S,2021-04-01,0.0
+1660,69 Boulevard Ornano N-S,2021-05-01,0.0
+1661,69 Boulevard Ornano N-S,2021-06-01,0.0
+1662,69 Boulevard Ornano N-S,2021-07-01,0.0
+1663,69 Boulevard Ornano N-S,2021-08-01,0.0
+1664,69 Boulevard Ornano N-S,2021-09-01,0.0
+1665,69 Boulevard Ornano N-S,2021-10-01,0.0
+1666,69 Boulevard Ornano N-S,2021-11-01,1321.0
+1667,69 Boulevard Ornano N-S,2021-12-01,46983.0
+1668,69 Boulevard Ornano N-S (temporaire),2021-01-01,0.0
+1669,69 Boulevard Ornano N-S (temporaire),2021-02-01,5860.0
+1670,69 Boulevard Ornano N-S (temporaire),2021-03-01,40850.0
+1671,69 Boulevard Ornano N-S (temporaire),2021-04-01,25724.0
+1672,69 Boulevard Ornano N-S (temporaire),2021-05-01,34387.0
+1673,69 Boulevard Ornano N-S (temporaire),2021-06-01,30957.0
+1674,69 Boulevard Ornano N-S (temporaire),2021-07-01,14290.0
+1675,69 Boulevard Ornano N-S (temporaire),2021-08-01,7406.0
+1676,69 Boulevard Ornano N-S (temporaire),2021-09-01,0.0
+1677,69 Boulevard Ornano N-S (temporaire),2021-10-01,0.0
+1678,69 Boulevard Ornano N-S (temporaire),2021-11-01,0.0
+1679,69 Boulevard Ornano N-S (temporaire),2021-12-01,0.0
+1680,7 Avenue de la Grande Armée NO-SE,2018-07-01,1860.0
+1681,7 Avenue de la Grande Armée NO-SE,2018-08-01,9860.0
+1682,7 Avenue de la Grande Armée NO-SE,2018-09-01,17154.0
+1683,7 Avenue de la Grande Armée NO-SE,2018-10-01,18064.0
+1684,7 Avenue de la Grande Armée NO-SE,2018-11-01,12594.0
+1685,7 Avenue de la Grande Armée NO-SE,2018-12-01,10648.0
+1686,7 Avenue de la Grande Armée NO-SE,2019-01-01,13027.0
+1687,7 Avenue de la Grande Armée NO-SE,2019-02-01,16335.0
+1688,7 Avenue de la Grande Armée NO-SE,2019-03-01,16950.0
+1689,7 Avenue de la Grande Armée NO-SE,2019-04-01,17747.0
+1690,7 Avenue de la Grande Armée NO-SE,2019-05-01,15290.0
+1691,7 Avenue de la Grande Armée NO-SE,2019-06-01,17205.0
+1692,7 Avenue de la Grande Armée NO-SE,2019-07-01,20973.0
+1693,7 Avenue de la Grande Armée NO-SE,2019-08-01,14761.0
+1694,7 Avenue de la Grande Armée NO-SE,2019-09-01,21780.0
+1695,7 Avenue de la Grande Armée NO-SE,2019-10-01,17399.0
+1696,7 Avenue de la Grande Armée NO-SE,2019-11-01,14140.0
+1697,7 Avenue de la Grande Armée NO-SE,2019-12-01,21903.0
+1698,7 avenue de la Grande Armée,2021-12-01,18183.0
+1699,7 avenue de la Grande Armée,2022-01-01,18072.0
+1700,7 avenue de la Grande Armée,2022-02-01,18643.0
+1701,7 avenue de la Grande Armée,2022-03-01,23984.0
+1702,7 avenue de la Grande Armée,2022-04-01,23785.0
+1703,7 avenue de la Grande Armée,2022-05-01,29110.0
+1704,7 avenue de la Grande Armée,2022-06-01,27450.0
+1705,7 avenue de la Grande Armée,2022-07-01,26862.0
+1706,7 avenue de la Grande Armée,2022-08-01,21939.0
+1707,7 avenue de la Grande Armée,2022-09-01,31150.0
+1708,7 avenue de la Grande Armée,2022-10-01,30747.0
+1709,7 avenue de la Grande Armée,2022-11-01,17921.0
+1710,7 avenue de la Grande Armée,2022-12-01,17154.0
+1711,7 avenue de la Grande Armée,2023-01-01,6641.0
+1712,7 avenue de la Grande Armée NO-SE,2020-01-01,21324.0
+1713,7 avenue de la Grande Armée NO-SE,2020-02-01,13687.0
+1714,7 avenue de la Grande Armée NO-SE,2020-03-01,9519.0
+1715,7 avenue de la Grande Armée NO-SE,2020-04-01,3478.0
+1716,7 avenue de la Grande Armée NO-SE,2020-05-01,21554.0
+1717,7 avenue de la Grande Armée NO-SE,2020-06-01,32403.0
+1718,7 avenue de la Grande Armée NO-SE,2020-07-01,30923.0
+1719,7 avenue de la Grande Armée NO-SE,2020-08-01,19026.0
+1720,7 avenue de la Grande Armée NO-SE,2020-09-01,32182.0
+1721,7 avenue de la Grande Armée NO-SE,2020-10-01,22277.0
+1722,7 avenue de la Grande Armée NO-SE,2020-11-01,13409.0
+1723,7 avenue de la Grande Armée NO-SE,2020-12-01,13824.0
+1724,7 avenue de la Grande Armée NO-SE,2021-01-01,14589.0
+1725,7 avenue de la Grande Armée NO-SE,2021-02-01,14298.0
+1726,7 avenue de la Grande Armée NO-SE,2021-03-01,19584.0
+1727,7 avenue de la Grande Armée NO-SE,2021-04-01,17738.0
+1728,7 avenue de la Grande Armée NO-SE,2021-05-01,19498.0
+1729,7 avenue de la Grande Armée NO-SE,2021-06-01,26548.0
+1730,7 avenue de la Grande Armée NO-SE,2021-07-01,22856.0
+1731,7 avenue de la Grande Armée NO-SE,2021-08-01,17395.0
+1732,7 avenue de la Grande Armée NO-SE,2021-09-01,32055.0
+1733,7 avenue de la Grande Armée NO-SE,2021-10-01,29733.0
+1734,7 avenue de la Grande Armée NO-SE,2021-11-01,22449.0
+1735,7 avenue de la Grande Armée NO-SE,2021-12-01,18193.0
+1736,72 Avenue Flandre SO-NE,2019-11-01,14077.0
+1737,72 Avenue Flandre SO-NE,2019-12-01,52820.0
+1738,72 Bd Richard Lenoir  S-N,2018-12-01,31843.0
+1739,72 Bd Richard Lenoir  S-N,2019-01-01,42983.0
+1740,72 Bd Richard Lenoir  S-N,2019-02-01,48895.0
+1741,72 Bd Richard Lenoir  S-N,2019-03-01,53550.0
+1742,72 Bd Richard Lenoir  S-N,2019-04-01,45725.0
+1743,72 Bd Richard Lenoir  S-N,2019-05-01,33645.0
+1744,72 Bd Richard Lenoir  S-N,2019-06-01,1442.0
+1745,72 Bd Richard Lenoir  S-N,2019-07-01,0.0
+1746,72 Bd Richard Lenoir  S-N,2019-08-01,0.0
+1747,72 Bd Richard Lenoir  S-N,2019-09-01,16893.0
+1748,72 Bd Richard Lenoir  S-N,2019-10-01,75556.0
+1749,72 Bd Richard Lenoir  S-N,2019-11-01,61341.0
+1750,72 Bd Richard Lenoir  S-N,2019-12-01,125304.0
+1751,72 avenue de Flandre,2021-12-01,39395.0
+1752,72 avenue de Flandre,2022-01-01,41240.0
+1753,72 avenue de Flandre,2022-02-01,42853.0
+1754,72 avenue de Flandre,2022-03-01,52308.0
+1755,72 avenue de Flandre,2022-04-01,49437.0
+1756,72 avenue de Flandre,2022-05-01,57403.0
+1757,72 avenue de Flandre,2022-06-01,58362.0
+1758,72 avenue de Flandre,2022-07-01,53783.0
+1759,72 avenue de Flandre,2022-08-01,45017.0
+1760,72 avenue de Flandre,2022-09-01,61025.0
+1761,72 avenue de Flandre,2022-10-01,60776.0
+1762,72 avenue de Flandre,2022-11-01,53016.0
+1763,72 avenue de Flandre,2022-12-01,38655.0
+1764,72 avenue de Flandre,2023-01-01,14457.0
+1765,72 avenue de Flandre SO-NE,2020-01-01,56285.0
+1766,72 avenue de Flandre SO-NE,2020-02-01,31087.0
+1767,72 avenue de Flandre SO-NE,2020-03-01,22056.0
+1768,72 avenue de Flandre SO-NE,2020-04-01,11387.0
+1769,72 avenue de Flandre SO-NE,2020-05-01,37230.0
+1770,72 avenue de Flandre SO-NE,2020-06-01,55348.0
+1771,72 avenue de Flandre SO-NE,2020-07-01,55962.0
+1772,72 avenue de Flandre SO-NE,2020-08-01,43268.0
+1773,72 avenue de Flandre SO-NE,2020-09-01,63887.0
+1774,72 avenue de Flandre SO-NE,2020-10-01,48409.0
+1775,72 avenue de Flandre SO-NE,2020-11-01,35330.0
+1776,72 avenue de Flandre SO-NE,2020-12-01,32728.0
+1777,72 avenue de Flandre SO-NE,2021-01-01,32535.0
+1778,72 avenue de Flandre SO-NE,2021-02-01,30806.0
+1779,72 avenue de Flandre SO-NE,2021-03-01,41859.0
+1780,72 avenue de Flandre SO-NE,2021-04-01,39157.0
+1781,72 avenue de Flandre SO-NE,2021-05-01,42976.0
+1782,72 avenue de Flandre SO-NE,2021-06-01,53496.0
+1783,72 avenue de Flandre SO-NE,2021-07-01,46446.0
+1784,72 avenue de Flandre SO-NE,2021-08-01,38398.0
+1785,72 avenue de Flandre SO-NE,2021-09-01,58666.0
+1786,72 avenue de Flandre SO-NE,2021-10-01,54115.0
+1787,72 avenue de Flandre SO-NE,2021-11-01,48882.0
+1788,72 avenue de Flandre SO-NE,2021-12-01,39475.0
+1789,72 boulevard Richard Lenoir,2021-12-01,72507.0
+1790,72 boulevard Richard Lenoir,2022-01-01,78936.0
+1791,72 boulevard Richard Lenoir,2022-02-01,86503.0
+1792,72 boulevard Richard Lenoir,2022-03-01,107069.0
+1793,72 boulevard Richard Lenoir,2022-04-01,103919.0
+1794,72 boulevard Richard Lenoir,2022-05-01,121753.0
+1795,72 boulevard Richard Lenoir,2022-06-01,124097.0
+1796,72 boulevard Richard Lenoir,2022-07-01,108485.0
+1797,72 boulevard Richard Lenoir,2022-08-01,81810.0
+1798,72 boulevard Richard Lenoir,2022-09-01,123127.0
+1799,72 boulevard Richard Lenoir,2022-10-01,118066.0
+1800,72 boulevard Richard Lenoir,2022-11-01,103864.0
+1801,72 boulevard Richard Lenoir,2022-12-01,69335.0
+1802,72 boulevard Richard Lenoir,2023-01-01,21927.0
+1803,72 boulevard Richard Lenoir  S-N,2020-01-01,123272.0
+1804,72 boulevard Richard Lenoir  S-N,2020-02-01,71251.0
+1805,72 boulevard Richard Lenoir  S-N,2020-03-01,49346.0
+1806,72 boulevard Richard Lenoir  S-N,2020-04-01,19334.0
+1807,72 boulevard Richard Lenoir  S-N,2020-05-01,89348.0
+1808,72 boulevard Richard Lenoir  S-N,2020-06-01,135693.0
+1809,72 boulevard Richard Lenoir  S-N,2020-07-01,132168.0
+1810,72 boulevard Richard Lenoir  S-N,2020-08-01,83984.0
+1811,72 boulevard Richard Lenoir  S-N,2020-09-01,138952.0
+1812,72 boulevard Richard Lenoir  S-N,2020-10-01,101187.0
+1813,72 boulevard Richard Lenoir  S-N,2020-11-01,63180.0
+1814,72 boulevard Richard Lenoir  S-N,2020-12-01,60162.0
+1815,72 boulevard Richard Lenoir  S-N,2021-01-01,64733.0
+1816,72 boulevard Richard Lenoir  S-N,2021-02-01,62272.0
+1817,72 boulevard Richard Lenoir  S-N,2021-03-01,89232.0
+1818,72 boulevard Richard Lenoir  S-N,2021-04-01,87305.0
+1819,72 boulevard Richard Lenoir  S-N,2021-05-01,91773.0
+1820,72 boulevard Richard Lenoir  S-N,2021-06-01,121293.0
+1821,72 boulevard Richard Lenoir  S-N,2021-07-01,99360.0
+1822,72 boulevard Richard Lenoir  S-N,2021-08-01,74638.0
+1823,72 boulevard Richard Lenoir  S-N,2021-09-01,129330.0
+1824,72 boulevard Richard Lenoir  S-N,2021-10-01,113631.0
+1825,72 boulevard Richard Lenoir  S-N,2021-11-01,95572.0
+1826,72 boulevard Richard Lenoir  S-N,2021-12-01,72605.0
+1827,72 boulevard Voltaire,2021-12-01,83263.0
+1828,72 boulevard Voltaire,2022-01-01,90712.0
+1829,72 boulevard Voltaire,2022-02-01,98224.0
+1830,72 boulevard Voltaire,2022-03-01,114781.0
+1831,72 boulevard Voltaire,2022-04-01,107371.0
+1832,72 boulevard Voltaire,2022-05-01,126596.0
+1833,72 boulevard Voltaire,2022-06-01,131169.0
+1834,72 boulevard Voltaire,2022-07-01,118594.0
+1835,72 boulevard Voltaire,2022-08-01,88126.0
+1836,72 boulevard Voltaire,2022-09-01,139685.0
+1837,72 boulevard Voltaire,2022-10-01,134926.0
+1838,72 boulevard Voltaire,2022-11-01,117747.0
+1839,72 boulevard Voltaire,2022-12-01,82105.0
+1840,72 boulevard Voltaire,2023-01-01,30935.0
+1841,72 boulevard Voltaire NO-SE,2018-06-01,6412.0
+1842,72 boulevard Voltaire NO-SE,2018-07-01,41780.0
+1843,72 boulevard Voltaire NO-SE,2018-08-01,32821.0
+1844,72 boulevard Voltaire NO-SE,2018-09-01,59654.0
+1845,72 boulevard Voltaire NO-SE,2018-10-01,64257.0
+1846,72 boulevard Voltaire NO-SE,2018-11-01,50350.0
+1847,72 boulevard Voltaire NO-SE,2018-12-01,39900.0
+1848,72 boulevard Voltaire NO-SE,2019-01-01,44565.0
+1849,72 boulevard Voltaire NO-SE,2019-02-01,49464.0
+1850,72 boulevard Voltaire NO-SE,2019-03-01,54193.0
+1851,72 boulevard Voltaire NO-SE,2019-04-01,36037.0
+1852,72 boulevard Voltaire NO-SE,2019-05-01,63188.0
+1853,72 boulevard Voltaire NO-SE,2019-06-01,69666.0
+1854,72 boulevard Voltaire NO-SE,2019-07-01,77940.0
+1855,72 boulevard Voltaire NO-SE,2019-08-01,58872.0
+1856,72 boulevard Voltaire NO-SE,2019-09-01,99605.0
+1857,72 boulevard Voltaire NO-SE,2019-10-01,83424.0
+1858,72 boulevard Voltaire NO-SE,2019-11-01,66454.0
+1859,72 boulevard Voltaire NO-SE,2019-12-01,118179.0
+1860,72 boulevard Voltaire NO-SE,2020-01-01,119987.0
+1861,72 boulevard Voltaire NO-SE,2020-02-01,72602.0
+1862,72 boulevard Voltaire NO-SE,2020-03-01,49949.0
+1863,72 boulevard Voltaire NO-SE,2020-04-01,21281.0
+1864,72 boulevard Voltaire NO-SE,2020-05-01,90051.0
+1865,72 boulevard Voltaire NO-SE,2020-06-01,138503.0
+1866,72 boulevard Voltaire NO-SE,2020-07-01,131741.0
+1867,72 boulevard Voltaire NO-SE,2020-08-01,82999.0
+1868,72 boulevard Voltaire NO-SE,2020-09-01,145503.0
+1869,72 boulevard Voltaire NO-SE,2020-10-01,109239.0
+1870,72 boulevard Voltaire NO-SE,2020-11-01,74005.0
+1871,72 boulevard Voltaire NO-SE,2020-12-01,71616.0
+1872,72 boulevard Voltaire NO-SE,2021-01-01,76292.0
+1873,72 boulevard Voltaire NO-SE,2021-02-01,70359.0
+1874,72 boulevard Voltaire NO-SE,2021-03-01,99462.0
+1875,72 boulevard Voltaire NO-SE,2021-04-01,92197.0
+1876,72 boulevard Voltaire NO-SE,2021-05-01,97728.0
+1877,72 boulevard Voltaire NO-SE,2021-06-01,130299.0
+1878,72 boulevard Voltaire NO-SE,2021-07-01,107963.0
+1879,72 boulevard Voltaire NO-SE,2021-08-01,77660.0
+1880,72 boulevard Voltaire NO-SE,2021-09-01,138844.0
+1881,72 boulevard Voltaire NO-SE,2021-10-01,125551.0
+1882,72 boulevard Voltaire NO-SE,2021-11-01,106072.0
+1883,72 boulevard Voltaire NO-SE,2021-12-01,83433.0
+1884,72 rue de la Chapelle,2019-11-01,5101.0
+1885,72 rue de la Chapelle,2019-12-01,11499.0
+1886,72 rue de la Chapelle,2020-01-01,9134.0
+1887,72 rue de la Chapelle,2020-02-01,6164.0
+1888,72 rue de la Chapelle,2020-03-01,5395.0
+1889,72 rue de la Chapelle,2020-04-01,1995.0
+1890,72 rue de la Chapelle,2020-05-01,4802.0
+1891,72 rue de la Chapelle,2020-06-01,8103.0
+1892,72 rue de la Chapelle,2020-07-01,8980.0
+1893,72 rue de la Chapelle,2020-08-01,6531.0
+1894,72 rue de la Chapelle,2020-09-01,10203.0
+1895,72 rue de la Chapelle,2020-10-01,6952.0
+1896,72 rue de la Chapelle,2020-11-01,3739.0
+1897,72 rue de la Chapelle,2020-12-01,2977.0
+1898,72 rue de la Chapelle,2021-01-01,2854.0
+1899,72 rue de la Chapelle,2021-02-01,2986.0
+1900,72 rue de la Chapelle,2021-03-01,4215.0
+1901,72 rue de la Chapelle,2021-04-01,3820.0
+1902,72 rue de la Chapelle,2021-05-01,5057.0
+1903,72 rue de la Chapelle,2021-06-01,5760.0
+1904,72 rue de la Chapelle,2021-07-01,5665.0
+1905,72 rue de la Chapelle,2021-08-01,6032.0
+1906,72 rue de la Chapelle,2021-09-01,6465.0
+1907,72 rue de la Chapelle,2021-10-01,4341.0
+1908,72 rue de la Chapelle,2021-11-01,3460.0
+1909,72 rue de la Chapelle,2021-12-01,3308.0
+1910,74 Boulevard Ornano,2021-12-01,0.0
+1911,74 Boulevard Ornano,2022-01-01,0.0
+1912,74 Boulevard Ornano,2022-02-01,0.0
+1913,74 Boulevard Ornano,2022-03-01,0.0
+1914,74 Boulevard Ornano,2022-04-01,0.0
+1915,74 Boulevard Ornano,2022-05-01,0.0
+1916,74 Boulevard Ornano,2022-06-01,0.0
+1917,74 Boulevard Ornano,2022-07-01,0.0
+1918,74 Boulevard Ornano,2022-08-01,0.0
+1919,74 Boulevard Ornano,2022-09-01,0.0
+1920,74 Boulevard Ornano,2022-10-01,0.0
+1921,74 Boulevard Ornano,2022-11-01,0.0
+1922,74 Boulevard Ornano,2022-12-01,0.0
+1923,74 Boulevard Ornano,2023-01-01,0.0
+1924,74 Boulevard Ornano S-N,2020-07-01,21520.0
+1925,74 Boulevard Ornano S-N,2020-08-01,44286.0
+1926,74 Boulevard Ornano S-N,2020-09-01,5287.0
+1927,74 Boulevard Ornano S-N,2020-10-01,17017.0
+1928,74 Boulevard Ornano S-N,2020-11-01,43153.0
+1929,74 Boulevard Ornano S-N,2020-12-01,40102.0
+1930,74 Boulevard Ornano S-N,2021-01-01,41233.0
+1931,74 Boulevard Ornano S-N,2021-02-01,38006.0
+1932,74 Boulevard Ornano S-N,2021-03-01,49472.0
+1933,74 Boulevard Ornano S-N,2021-04-01,15440.0
+1934,74 Boulevard Ornano S-N,2021-05-01,5560.0
+1935,74 Boulevard Ornano S-N,2021-06-01,6041.0
+1936,74 Boulevard Ornano S-N,2021-07-01,18512.0
+1937,74 Boulevard Ornano S-N,2021-08-01,44154.0
+1938,74 Boulevard Ornano S-N,2021-09-01,0.0
+1939,74 Boulevard Ornano S-N,2021-10-01,0.0
+1940,74 Boulevard Ornano S-N,2021-11-01,0.0
+1941,74 Boulevard Ornano S-N,2021-12-01,0.0
+1942,77 Bd Richard Lenoir N-S,2018-12-01,27006.0
+1943,77 Bd Richard Lenoir N-S,2019-01-01,35360.0
+1944,77 Bd Richard Lenoir N-S,2019-02-01,41643.0
+1945,77 Bd Richard Lenoir N-S,2019-03-01,47226.0
+1946,77 Bd Richard Lenoir N-S,2019-04-01,39241.0
+1947,77 Bd Richard Lenoir N-S,2019-05-01,17.0
+1948,77 Bd Richard Lenoir N-S,2019-06-01,285.0
+1949,77 Bd Richard Lenoir N-S,2019-07-01,1545.0
+1950,77 Bd Richard Lenoir N-S,2019-08-01,1769.0
+1951,77 Bd Richard Lenoir N-S,2019-09-01,23877.0
+1952,77 Bd Richard Lenoir N-S,2019-10-01,64569.0
+1953,77 Bd Richard Lenoir N-S,2019-11-01,51850.0
+1954,77 Bd Richard Lenoir N-S,2019-12-01,104049.0
+1955,77 boulevard Richard Lenoir,2021-12-01,61503.0
+1956,77 boulevard Richard Lenoir,2022-01-01,67710.0
+1957,77 boulevard Richard Lenoir,2022-02-01,73615.0
+1958,77 boulevard Richard Lenoir,2022-03-01,90855.0
+1959,77 boulevard Richard Lenoir,2022-04-01,86879.0
+1960,77 boulevard Richard Lenoir,2022-05-01,101323.0
+1961,77 boulevard Richard Lenoir,2022-06-01,103773.0
+1962,77 boulevard Richard Lenoir,2022-07-01,92955.0
+1963,77 boulevard Richard Lenoir,2022-08-01,70706.0
+1964,77 boulevard Richard Lenoir,2022-09-01,106122.0
+1965,77 boulevard Richard Lenoir,2022-10-01,51896.0
+1966,77 boulevard Richard Lenoir,2022-11-01,41454.0
+1967,77 boulevard Richard Lenoir,2022-12-01,59694.0
+1968,77 boulevard Richard Lenoir,2023-01-01,22987.0
+1969,77 boulevard Richard Lenoir N-S,2020-01-01,103609.0
+1970,77 boulevard Richard Lenoir N-S,2020-02-01,60317.0
+1971,77 boulevard Richard Lenoir N-S,2020-03-01,42405.0
+1972,77 boulevard Richard Lenoir N-S,2020-04-01,16397.0
+1973,77 boulevard Richard Lenoir N-S,2020-05-01,76594.0
+1974,77 boulevard Richard Lenoir N-S,2020-06-01,114282.0
+1975,77 boulevard Richard Lenoir N-S,2020-07-01,112462.0
+1976,77 boulevard Richard Lenoir N-S,2020-08-01,70917.0
+1977,77 boulevard Richard Lenoir N-S,2020-09-01,114808.0
+1978,77 boulevard Richard Lenoir N-S,2020-10-01,87984.0
+1979,77 boulevard Richard Lenoir N-S,2020-11-01,55253.0
+1980,77 boulevard Richard Lenoir N-S,2020-12-01,53504.0
+1981,77 boulevard Richard Lenoir N-S,2021-01-01,57854.0
+1982,77 boulevard Richard Lenoir N-S,2021-02-01,54968.0
+1983,77 boulevard Richard Lenoir N-S,2021-03-01,78773.0
+1984,77 boulevard Richard Lenoir N-S,2021-04-01,76871.0
+1985,77 boulevard Richard Lenoir N-S,2021-05-01,80474.0
+1986,77 boulevard Richard Lenoir N-S,2021-06-01,104432.0
+1987,77 boulevard Richard Lenoir N-S,2021-07-01,85559.0
+1988,77 boulevard Richard Lenoir N-S,2021-08-01,63554.0
+1989,77 boulevard Richard Lenoir N-S,2021-09-01,109652.0
+1990,77 boulevard Richard Lenoir N-S,2021-10-01,95468.0
+1991,77 boulevard Richard Lenoir N-S,2021-11-01,79945.0
+1992,77 boulevard Richard Lenoir N-S,2021-12-01,61554.0
+1993,87 Avenue de Flandre NE-SO,2019-11-01,24534.0
+1994,87 Avenue de Flandre NE-SO,2019-12-01,64342.0
+1995,87 avenue de Flandre,2021-12-01,45836.0
+1996,87 avenue de Flandre,2022-01-01,48216.0
+1997,87 avenue de Flandre,2022-02-01,50480.0
+1998,87 avenue de Flandre,2022-03-01,61157.0
+1999,87 avenue de Flandre,2022-04-01,57576.0
+2000,87 avenue de Flandre,2022-05-01,66774.0
+2001,87 avenue de Flandre,2022-06-01,68893.0
+2002,87 avenue de Flandre,2022-07-01,62121.0
+2003,87 avenue de Flandre,2022-08-01,50655.0
+2004,87 avenue de Flandre,2022-09-01,70191.0
+2005,87 avenue de Flandre,2022-10-01,70849.0
+2006,87 avenue de Flandre,2022-11-01,61777.0
+2007,87 avenue de Flandre,2022-12-01,44853.0
+2008,87 avenue de Flandre,2023-01-01,16712.0
+2009,87 avenue de Flandre NE-SO,2020-01-01,67768.0
+2010,87 avenue de Flandre NE-SO,2020-02-01,37315.0
+2011,87 avenue de Flandre NE-SO,2020-03-01,25222.0
+2012,87 avenue de Flandre NE-SO,2020-04-01,13189.0
+2013,87 avenue de Flandre NE-SO,2020-05-01,45603.0
+2014,87 avenue de Flandre NE-SO,2020-06-01,66329.0
+2015,87 avenue de Flandre NE-SO,2020-07-01,66107.0
+2016,87 avenue de Flandre NE-SO,2020-08-01,49670.0
+2017,87 avenue de Flandre NE-SO,2020-09-01,74525.0
+2018,87 avenue de Flandre NE-SO,2020-10-01,57578.0
+2019,87 avenue de Flandre NE-SO,2020-11-01,40867.0
+2020,87 avenue de Flandre NE-SO,2020-12-01,38572.0
+2021,87 avenue de Flandre NE-SO,2021-01-01,39330.0
+2022,87 avenue de Flandre NE-SO,2021-02-01,37416.0
+2023,87 avenue de Flandre NE-SO,2021-03-01,51190.0
+2024,87 avenue de Flandre NE-SO,2021-04-01,48549.0
+2025,87 avenue de Flandre NE-SO,2021-05-01,52095.0
+2026,87 avenue de Flandre NE-SO,2021-06-01,64429.0
+2027,87 avenue de Flandre NE-SO,2021-07-01,55689.0
+2028,87 avenue de Flandre NE-SO,2021-08-01,44744.0
+2029,87 avenue de Flandre NE-SO,2021-09-01,70015.0
+2030,87 avenue de Flandre NE-SO,2021-10-01,63879.0
+2031,87 avenue de Flandre NE-SO,2021-11-01,56047.0
+2032,87 avenue de Flandre NE-SO,2021-12-01,45869.0
+2033,89 boulevard de Magenta,2021-12-01,100122.0
+2034,89 boulevard de Magenta,2022-01-01,106374.0
+2035,89 boulevard de Magenta,2022-02-01,114967.0
+2036,89 boulevard de Magenta,2022-03-01,137249.0
+2037,89 boulevard de Magenta,2022-04-01,129942.0
+2038,89 boulevard de Magenta,2022-05-01,144915.0
+2039,89 boulevard de Magenta,2022-06-01,150445.0
+2040,89 boulevard de Magenta,2022-07-01,137879.0
+2041,89 boulevard de Magenta,2022-08-01,106626.0
+2042,89 boulevard de Magenta,2022-09-01,160495.0
+2043,89 boulevard de Magenta,2022-10-01,164044.0
+2044,89 boulevard de Magenta,2022-11-01,144453.0
+2045,89 boulevard de Magenta,2022-12-01,100590.0
+2046,89 boulevard de Magenta,2023-01-01,37598.0
+2047,89 boulevard de Magenta NO-SE,2018-11-01,6782.0
+2048,89 boulevard de Magenta NO-SE,2018-12-01,51672.0
+2049,89 boulevard de Magenta NO-SE,2019-01-01,56930.0
+2050,89 boulevard de Magenta NO-SE,2019-02-01,64346.0
+2051,89 boulevard de Magenta NO-SE,2019-03-01,70170.0
+2052,89 boulevard de Magenta NO-SE,2019-04-01,76487.0
+2053,89 boulevard de Magenta NO-SE,2019-05-01,77022.0
+2054,89 boulevard de Magenta NO-SE,2019-06-01,80691.0
+2055,89 boulevard de Magenta NO-SE,2019-07-01,87209.0
+2056,89 boulevard de Magenta NO-SE,2019-08-01,67996.0
+2057,89 boulevard de Magenta NO-SE,2019-09-01,103270.0
+2058,89 boulevard de Magenta NO-SE,2019-10-01,91449.0
+2059,89 boulevard de Magenta NO-SE,2019-11-01,76897.0
+2060,89 boulevard de Magenta NO-SE,2019-12-01,142923.0
+2061,89 boulevard de Magenta NO-SE,2020-01-01,147392.0
+2062,89 boulevard de Magenta NO-SE,2020-02-01,90463.0
+2063,89 boulevard de Magenta NO-SE,2020-03-01,58219.0
+2064,89 boulevard de Magenta NO-SE,2020-04-01,21319.0
+2065,89 boulevard de Magenta NO-SE,2020-05-01,97134.0
+2066,89 boulevard de Magenta NO-SE,2020-06-01,155806.0
+2067,89 boulevard de Magenta NO-SE,2020-07-01,155088.0
+2068,89 boulevard de Magenta NO-SE,2020-08-01,103677.0
+2069,89 boulevard de Magenta NO-SE,2020-09-01,173440.0
+2070,89 boulevard de Magenta NO-SE,2020-10-01,134940.0
+2071,89 boulevard de Magenta NO-SE,2020-11-01,82105.0
+2072,89 boulevard de Magenta NO-SE,2020-12-01,85651.0
+2073,89 boulevard de Magenta NO-SE,2021-01-01,88572.0
+2074,89 boulevard de Magenta NO-SE,2021-02-01,82701.0
+2075,89 boulevard de Magenta NO-SE,2021-03-01,112783.0
+2076,89 boulevard de Magenta NO-SE,2021-04-01,104237.0
+2077,89 boulevard de Magenta NO-SE,2021-05-01,114325.0
+2078,89 boulevard de Magenta NO-SE,2021-06-01,146352.0
+2079,89 boulevard de Magenta NO-SE,2021-07-01,123036.0
+2080,89 boulevard de Magenta NO-SE,2021-08-01,91746.0
+2081,89 boulevard de Magenta NO-SE,2021-09-01,155246.0
+2082,89 boulevard de Magenta NO-SE,2021-10-01,145406.0
+2083,89 boulevard de Magenta NO-SE,2021-11-01,125422.0
+2084,89 boulevard de Magenta NO-SE,2021-12-01,100231.0
+2085,90 Rue De Sèvres,2020-07-01,30957.0
+2086,90 Rue De Sèvres,2020-08-01,68017.0
+2087,90 Rue De Sèvres,2020-09-01,126467.0
+2088,90 Rue De Sèvres,2020-10-01,95882.0
+2089,90 Rue De Sèvres,2020-11-01,68009.0
+2090,90 Rue De Sèvres,2020-12-01,63143.0
+2091,90 Rue De Sèvres,2021-01-01,60952.0
+2092,90 Rue De Sèvres,2021-02-01,51928.0
+2093,90 Rue De Sèvres,2021-03-01,77321.0
+2094,90 Rue De Sèvres,2021-04-01,62272.0
+2095,90 Rue De Sèvres,2021-05-01,70193.0
+2096,90 Rue De Sèvres,2021-06-01,61140.0
+2097,90 Rue De Sèvres,2021-07-01,47491.0
+2098,90 Rue De Sèvres,2021-08-01,46149.0
+2099,90 Rue De Sèvres,2021-09-01,82988.0
+2100,90 Rue De Sèvres,2021-10-01,63150.0
+2101,90 Rue De Sèvres,2021-11-01,65911.0
+2102,90 Rue De Sèvres,2021-12-01,56025.0
+2103,90 Rue De Sèvres,2021-12-01,56093.0
+2104,90 Rue De Sèvres,2022-01-01,59358.0
+2105,90 Rue De Sèvres,2022-02-01,62502.0
+2106,90 Rue De Sèvres,2022-03-01,76075.0
+2107,90 Rue De Sèvres,2022-04-01,70944.0
+2108,90 Rue De Sèvres,2022-05-01,91267.0
+2109,90 Rue De Sèvres,2022-06-01,97946.0
+2110,90 Rue De Sèvres,2022-07-01,75082.0
+2111,90 Rue De Sèvres,2022-08-01,54413.0
+2112,90 Rue De Sèvres,2022-09-01,91936.0
+2113,90 Rue De Sèvres,2022-10-01,91329.0
+2114,90 Rue De Sèvres,2022-11-01,85533.0
+2115,90 Rue De Sèvres,2022-12-01,19406.0
+2116,90 Rue De Sèvres,2023-01-01,7435.0
+2117,97 Avenue Denfert Rochereau SO-NE,2018-01-01,12034.0
+2118,97 Avenue Denfert Rochereau SO-NE,2018-02-01,8747.0
+2119,97 Avenue Denfert Rochereau SO-NE,2018-03-01,12851.0
+2120,97 Avenue Denfert Rochereau SO-NE,2018-04-01,15779.0
+2121,97 Avenue Denfert Rochereau SO-NE,2018-05-01,17224.0
+2122,97 Avenue Denfert Rochereau SO-NE,2018-06-01,18222.0
+2123,97 Avenue Denfert Rochereau SO-NE,2018-07-01,18312.0
+2124,97 Avenue Denfert Rochereau SO-NE,2018-08-01,13452.0
+2125,97 Avenue Denfert Rochereau SO-NE,2018-09-01,21476.0
+2126,97 Avenue Denfert Rochereau SO-NE,2018-10-01,21432.0
+2127,97 Avenue Denfert Rochereau SO-NE,2018-11-01,16847.0
+2128,97 Avenue Denfert Rochereau SO-NE,2018-12-01,11665.0
+2129,97 Avenue Denfert Rochereau SO-NE,2019-01-01,12091.0
+2130,97 Avenue Denfert Rochereau SO-NE,2019-02-01,21940.0
+2131,97 Avenue Denfert Rochereau SO-NE,2019-03-01,24107.0
+2132,97 Avenue Denfert Rochereau SO-NE,2019-04-01,16228.0
+2133,97 Avenue Denfert Rochereau SO-NE,2019-05-01,12463.0
+2134,97 Avenue Denfert Rochereau SO-NE,2019-06-01,12634.0
+2135,97 Avenue Denfert Rochereau SO-NE,2019-07-01,11932.0
+2136,97 Avenue Denfert Rochereau SO-NE,2019-08-01,8732.0
+2137,97 Avenue Denfert Rochereau SO-NE,2019-09-01,11694.0
+2138,97 Avenue Denfert Rochereau SO-NE,2019-10-01,8900.0
+2139,97 Avenue Denfert Rochereau SO-NE,2019-11-01,7366.0
+2140,97 Avenue Denfert Rochereau SO-NE,2019-12-01,17905.0
+2141,97 avenue Denfert Rochereau,2020-01-01,14606.0
+2142,97 avenue Denfert Rochereau,2020-02-01,7525.0
+2143,97 avenue Denfert Rochereau,2020-03-01,5553.0
+2144,97 avenue Denfert Rochereau,2020-04-01,2250.0
+2145,97 avenue Denfert Rochereau,2020-05-01,14453.0
+2146,97 avenue Denfert Rochereau,2020-06-01,19096.0
+2147,97 avenue Denfert Rochereau,2020-07-01,17322.0
+2148,97 avenue Denfert Rochereau,2020-08-01,12984.0
+2149,97 avenue Denfert Rochereau,2020-09-01,20552.0
+2150,97 avenue Denfert Rochereau,2020-10-01,14359.0
+2151,97 avenue Denfert Rochereau,2020-11-01,9297.0
+2152,97 avenue Denfert Rochereau,2020-12-01,9174.0
+2153,97 avenue Denfert Rochereau,2021-01-01,8474.0
+2154,97 avenue Denfert Rochereau,2021-02-01,7713.0
+2155,97 avenue Denfert Rochereau,2021-03-01,11210.0
+2156,97 avenue Denfert Rochereau,2021-04-01,15686.0
+2157,97 avenue Denfert Rochereau,2021-05-01,20269.0
+2158,97 avenue Denfert Rochereau,2021-06-01,34191.0
+2159,97 avenue Denfert Rochereau,2021-07-01,9959.0
+2160,97 avenue Denfert Rochereau,2021-08-01,26407.0
+2161,97 avenue Denfert Rochereau,2021-09-01,45928.0
+2162,97 avenue Denfert Rochereau,2021-10-01,40250.0
+2163,97 avenue Denfert Rochereau,2021-11-01,34148.0
+2164,97 avenue Denfert Rochereau,2021-12-01,27184.0
+2165,97 avenue Denfert Rochereau,2021-12-01,27186.0
+2166,97 avenue Denfert Rochereau,2022-01-01,30001.0
+2167,97 avenue Denfert Rochereau,2022-02-01,31228.0
+2168,97 avenue Denfert Rochereau,2022-03-01,37385.0
+2169,97 avenue Denfert Rochereau,2022-04-01,36254.0
+2170,97 avenue Denfert Rochereau,2022-05-01,42039.0
+2171,97 avenue Denfert Rochereau,2022-06-01,41763.0
+2172,97 avenue Denfert Rochereau,2022-07-01,38822.0
+2173,97 avenue Denfert Rochereau,2022-08-01,30614.0
+2174,97 avenue Denfert Rochereau,2022-09-01,50366.0
+2175,97 avenue Denfert Rochereau,2022-10-01,47561.0
+2176,97 avenue Denfert Rochereau,2022-11-01,45376.0
+2177,97 avenue Denfert Rochereau,2022-12-01,31396.0
+2178,97 avenue Denfert Rochereau,2023-01-01,11680.0
+2179,Face 104 Rue d'Aubervilliers,2018-11-01,1520.0
+2180,Face 104 Rue d'Aubervilliers,2018-12-01,14780.0
+2181,Face 104 Rue d'Aubervilliers,2019-01-01,17713.0
+2182,Face 104 Rue d'Aubervilliers,2019-02-01,17648.0
+2183,Face 104 Rue d'Aubervilliers,2019-03-01,19499.0
+2184,Face 104 Rue d'Aubervilliers,2019-04-01,15540.0
+2185,Face 104 Rue d'Aubervilliers,2019-05-01,3959.0
+2186,Face 104 Rue d'Aubervilliers,2019-06-01,20119.0
+2187,Face 104 Rue d'Aubervilliers,2019-07-01,24835.0
+2188,Face 104 Rue d'Aubervilliers,2019-08-01,21222.0
+2189,Face 104 Rue d'Aubervilliers,2019-09-01,30670.0
+2190,Face 104 Rue d'Aubervilliers,2019-10-01,27946.0
+2191,Face 104 Rue d'Aubervilliers,2019-11-01,24635.0
+2192,Face 104 Rue d'Aubervilliers,2019-12-01,38240.0
+2193,Face 104 rue d'Aubervilliers,2020-01-01,44446.0
+2194,Face 104 rue d'Aubervilliers,2020-02-01,32338.0
+2195,Face 104 rue d'Aubervilliers,2020-03-01,22189.0
+2196,Face 104 rue d'Aubervilliers,2020-04-01,10492.0
+2197,Face 104 rue d'Aubervilliers,2020-05-01,31481.0
+2198,Face 104 rue d'Aubervilliers,2020-06-01,50095.0
+2199,Face 104 rue d'Aubervilliers,2020-07-01,53021.0
+2200,Face 104 rue d'Aubervilliers,2020-08-01,38526.0
+2201,Face 104 rue d'Aubervilliers,2020-09-01,59112.0
+2202,Face 104 rue d'Aubervilliers,2020-10-01,48708.0
+2203,Face 104 rue d'Aubervilliers,2020-11-01,36018.0
+2204,Face 104 rue d'Aubervilliers,2020-12-01,32414.0
+2205,Face 104 rue d'Aubervilliers,2021-01-01,33519.0
+2206,Face 104 rue d'Aubervilliers,2021-02-01,30732.0
+2207,Face 104 rue d'Aubervilliers,2021-03-01,42533.0
+2208,Face 104 rue d'Aubervilliers,2021-04-01,39877.0
+2209,Face 104 rue d'Aubervilliers,2021-05-01,44825.0
+2210,Face 104 rue d'Aubervilliers,2021-06-01,57828.0
+2211,Face 104 rue d'Aubervilliers,2021-07-01,52143.0
+2212,Face 104 rue d'Aubervilliers,2021-08-01,40297.0
+2213,Face 104 rue d'Aubervilliers,2021-09-01,60150.0
+2214,Face 104 rue d'Aubervilliers,2021-10-01,56052.0
+2215,Face 104 rue d'Aubervilliers,2021-11-01,51979.0
+2216,Face 104 rue d'Aubervilliers,2021-12-01,42899.0
+2217,Face 104 rue d'Aubervilliers,2021-12-01,42929.0
+2218,Face 104 rue d'Aubervilliers,2022-01-01,43764.0
+2219,Face 104 rue d'Aubervilliers,2022-02-01,47638.0
+2220,Face 104 rue d'Aubervilliers,2022-03-01,58779.0
+2221,Face 104 rue d'Aubervilliers,2022-04-01,57992.0
+2222,Face 104 rue d'Aubervilliers,2022-05-01,65658.0
+2223,Face 104 rue d'Aubervilliers,2022-06-01,66846.0
+2224,Face 104 rue d'Aubervilliers,2022-07-01,62093.0
+2225,Face 104 rue d'Aubervilliers,2022-08-01,50167.0
+2226,Face 104 rue d'Aubervilliers,2022-09-01,75753.0
+2227,Face 104 rue d'Aubervilliers,2022-10-01,81684.0
+2228,Face 104 rue d'Aubervilliers,2022-11-01,77102.0
+2229,Face 104 rue d'Aubervilliers,2022-12-01,55933.0
+2230,Face 104 rue d'Aubervilliers,2023-01-01,21303.0
+2231,Face au 16 Avenue de la  Porte des Ternes O-E,2018-11-01,1129.0
+2232,Face au 16 Avenue de la  Porte des Ternes O-E,2018-12-01,7627.0
+2233,Face au 16 Avenue de la  Porte des Ternes O-E,2019-01-01,8428.0
+2234,Face au 16 Avenue de la  Porte des Ternes O-E,2019-02-01,9092.0
+2235,Face au 16 Avenue de la  Porte des Ternes O-E,2019-03-01,9860.0
+2236,Face au 16 Avenue de la  Porte des Ternes O-E,2019-04-01,11192.0
+2237,Face au 16 Avenue de la  Porte des Ternes O-E,2019-05-01,11276.0
+2238,Face au 16 Avenue de la  Porte des Ternes O-E,2019-06-01,12023.0
+2239,Face au 16 Avenue de la  Porte des Ternes O-E,2019-07-01,13296.0
+2240,Face au 16 Avenue de la  Porte des Ternes O-E,2019-08-01,9088.0
+2241,Face au 16 Avenue de la  Porte des Ternes O-E,2019-09-01,17135.0
+2242,Face au 16 Avenue de la  Porte des Ternes O-E,2019-10-01,13818.0
+2243,Face au 16 Avenue de la  Porte des Ternes O-E,2019-11-01,12734.0
+2244,Face au 16 Avenue de la  Porte des Ternes O-E,2019-12-01,19090.0
+2245,Face au 16 avenue de la  Porte des Ternes,2021-12-01,14777.0
+2246,Face au 16 avenue de la  Porte des Ternes,2022-01-01,15152.0
+2247,Face au 16 avenue de la  Porte des Ternes,2022-02-01,16464.0
+2248,Face au 16 avenue de la  Porte des Ternes,2022-03-01,21626.0
+2249,Face au 16 avenue de la  Porte des Ternes,2022-04-01,20232.0
+2250,Face au 16 avenue de la  Porte des Ternes,2022-05-01,25107.0
+2251,Face au 16 avenue de la  Porte des Ternes,2022-06-01,25231.0
+2252,Face au 16 avenue de la  Porte des Ternes,2022-07-01,22168.0
+2253,Face au 16 avenue de la  Porte des Ternes,2022-08-01,15838.0
+2254,Face au 16 avenue de la  Porte des Ternes,2022-09-01,28389.0
+2255,Face au 16 avenue de la  Porte des Ternes,2022-10-01,29939.0
+2256,Face au 16 avenue de la  Porte des Ternes,2022-11-01,27080.0
+2257,Face au 16 avenue de la  Porte des Ternes,2022-12-01,18805.0
+2258,Face au 16 avenue de la  Porte des Ternes,2023-01-01,7983.0
+2259,Face au 16 avenue de la  Porte des Ternes O-E,2020-01-01,19856.0
+2260,Face au 16 avenue de la  Porte des Ternes O-E,2020-02-01,12476.0
+2261,Face au 16 avenue de la  Porte des Ternes O-E,2020-03-01,9430.0
+2262,Face au 16 avenue de la  Porte des Ternes O-E,2020-04-01,2362.0
+2263,Face au 16 avenue de la  Porte des Ternes O-E,2020-05-01,15244.0
+2264,Face au 16 avenue de la  Porte des Ternes O-E,2020-06-01,24027.0
+2265,Face au 16 avenue de la  Porte des Ternes O-E,2020-07-01,22634.0
+2266,Face au 16 avenue de la  Porte des Ternes O-E,2020-08-01,7329.0
+2267,Face au 16 avenue de la  Porte des Ternes O-E,2020-09-01,26243.0
+2268,Face au 16 avenue de la  Porte des Ternes O-E,2020-10-01,23659.0
+2269,Face au 16 avenue de la  Porte des Ternes O-E,2020-11-01,1663.0
+2270,Face au 16 avenue de la  Porte des Ternes O-E,2020-12-01,0.0
+2271,Face au 16 avenue de la  Porte des Ternes O-E,2021-01-01,0.0
+2272,Face au 16 avenue de la  Porte des Ternes O-E,2021-02-01,0.0
+2273,Face au 16 avenue de la  Porte des Ternes O-E,2021-03-01,0.0
+2274,Face au 16 avenue de la  Porte des Ternes O-E,2021-04-01,0.0
+2275,Face au 16 avenue de la  Porte des Ternes O-E,2021-05-01,0.0
+2276,Face au 16 avenue de la  Porte des Ternes O-E,2021-06-01,0.0
+2277,Face au 16 avenue de la  Porte des Ternes O-E,2021-07-01,6758.0
+2278,Face au 16 avenue de la  Porte des Ternes O-E,2021-08-01,12005.0
+2279,Face au 16 avenue de la  Porte des Ternes O-E,2021-09-01,24733.0
+2280,Face au 16 avenue de la  Porte des Ternes O-E,2021-10-01,21389.0
+2281,Face au 16 avenue de la  Porte des Ternes O-E,2021-11-01,18421.0
+2282,Face au 16 avenue de la  Porte des Ternes O-E,2021-12-01,14780.0
+2283,Face au 25 quai de l'Oise,2018-11-01,5429.0
+2284,Face au 25 quai de l'Oise,2018-12-01,37520.0
+2285,Face au 25 quai de l'Oise,2019-01-01,42068.0
+2286,Face au 25 quai de l'Oise,2019-02-01,51055.0
+2287,Face au 25 quai de l'Oise,2019-03-01,54989.0
+2288,Face au 25 quai de l'Oise,2019-04-01,59379.0
+2289,Face au 25 quai de l'Oise,2019-05-01,46587.0
+2290,Face au 25 quai de l'Oise,2019-06-01,2640.0
+2291,Face au 25 quai de l'Oise,2019-07-01,75260.0
+2292,Face au 25 quai de l'Oise,2019-08-01,56777.0
+2293,Face au 25 quai de l'Oise,2019-09-01,83243.0
+2294,Face au 25 quai de l'Oise,2019-10-01,66100.0
+2295,Face au 25 quai de l'Oise,2019-11-01,55048.0
+2296,Face au 25 quai de l'Oise,2019-12-01,83125.0
+2297,Face au 25 quai de l'Oise,2020-01-01,88311.0
+2298,Face au 25 quai de l'Oise,2020-02-01,57240.0
+2299,Face au 25 quai de l'Oise,2020-03-01,42508.0
+2300,Face au 25 quai de l'Oise,2020-04-01,18409.0
+2301,Face au 25 quai de l'Oise,2020-05-01,86151.0
+2302,Face au 25 quai de l'Oise,2020-06-01,106456.0
+2303,Face au 25 quai de l'Oise,2020-07-01,100013.0
+2304,Face au 25 quai de l'Oise,2020-08-01,71520.0
+2305,Face au 25 quai de l'Oise,2020-09-01,115610.0
+2306,Face au 25 quai de l'Oise,2020-10-01,81180.0
+2307,Face au 25 quai de l'Oise,2020-11-01,62385.0
+2308,Face au 25 quai de l'Oise,2020-12-01,53670.0
+2309,Face au 25 quai de l'Oise,2021-01-01,56959.0
+2310,Face au 25 quai de l'Oise,2021-02-01,55185.0
+2311,Face au 25 quai de l'Oise,2021-03-01,81517.0
+2312,Face au 25 quai de l'Oise,2021-04-01,79123.0
+2313,Face au 25 quai de l'Oise,2021-05-01,84940.0
+2314,Face au 25 quai de l'Oise,2021-06-01,110020.0
+2315,Face au 25 quai de l'Oise,2021-07-01,88744.0
+2316,Face au 25 quai de l'Oise,2021-08-01,70096.0
+2317,Face au 25 quai de l'Oise,2021-09-01,114640.0
+2318,Face au 25 quai de l'Oise,2021-10-01,97157.0
+2319,Face au 25 quai de l'Oise,2021-11-01,80242.0
+2320,Face au 25 quai de l'Oise,2021-12-01,16534.0
+2321,Face au 25 quai de l'Oise,2021-12-01,16591.0
+2322,Face au 25 quai de l'Oise,2022-01-01,2711.0
+2323,Face au 25 quai de l'Oise,2022-02-01,0.0
+2324,Face au 25 quai de l'Oise,2022-03-01,166.0
+2325,Face au 25 quai de l'Oise,2022-04-01,79151.0
+2326,Face au 25 quai de l'Oise,2022-05-01,110880.0
+2327,Face au 25 quai de l'Oise,2022-06-01,111410.0
+2328,Face au 25 quai de l'Oise,2022-07-01,100347.0
+2329,Face au 25 quai de l'Oise,2022-08-01,79032.0
+2330,Face au 25 quai de l'Oise,2022-09-01,111142.0
+2331,Face au 25 quai de l'Oise,2022-10-01,99794.0
+2332,Face au 25 quai de l'Oise,2022-11-01,83308.0
+2333,Face au 25 quai de l'Oise,2022-12-01,57791.0
+2334,Face au 25 quai de l'Oise,2023-01-01,23586.0
+2335,Face au 4 avenue de la porte de Bagnolet,2020-01-01,48261.0
+2336,Face au 4 avenue de la porte de Bagnolet,2020-02-01,28996.0
+2337,Face au 4 avenue de la porte de Bagnolet,2020-03-01,21038.0
+2338,Face au 4 avenue de la porte de Bagnolet,2020-04-01,9439.0
+2339,Face au 4 avenue de la porte de Bagnolet,2020-05-01,31979.0
+2340,Face au 4 avenue de la porte de Bagnolet,2020-06-01,48301.0
+2341,Face au 4 avenue de la porte de Bagnolet,2020-07-01,44647.0
+2342,Face au 4 avenue de la porte de Bagnolet,2020-08-01,30413.0
+2343,Face au 4 avenue de la porte de Bagnolet,2020-09-01,54017.0
+2344,Face au 4 avenue de la porte de Bagnolet,2020-10-01,42111.0
+2345,Face au 4 avenue de la porte de Bagnolet,2020-11-01,27303.0
+2346,Face au 4 avenue de la porte de Bagnolet,2020-12-01,31056.0
+2347,Face au 4 avenue de la porte de Bagnolet,2021-01-01,33431.0
+2348,Face au 4 avenue de la porte de Bagnolet,2021-02-01,30510.0
+2349,Face au 4 avenue de la porte de Bagnolet,2021-03-01,45384.0
+2350,Face au 4 avenue de la porte de Bagnolet,2021-04-01,42676.0
+2351,Face au 4 avenue de la porte de Bagnolet,2021-05-01,46042.0
+2352,Face au 4 avenue de la porte de Bagnolet,2021-06-01,55474.0
+2353,Face au 4 avenue de la porte de Bagnolet,2021-07-01,44730.0
+2354,Face au 4 avenue de la porte de Bagnolet,2021-08-01,32734.0
+2355,Face au 4 avenue de la porte de Bagnolet,2021-09-01,60900.0
+2356,Face au 4 avenue de la porte de Bagnolet,2021-10-01,56062.0
+2357,Face au 4 avenue de la porte de Bagnolet,2021-11-01,48736.0
+2358,Face au 4 avenue de la porte de Bagnolet,2021-12-01,39046.0
+2359,Face au 4 avenue de la porte de Bagnolet,2021-12-01,39081.0
+2360,Face au 4 avenue de la porte de Bagnolet,2022-01-01,41987.0
+2361,Face au 4 avenue de la porte de Bagnolet,2022-02-01,43102.0
+2362,Face au 4 avenue de la porte de Bagnolet,2022-03-01,53220.0
+2363,Face au 4 avenue de la porte de Bagnolet,2022-04-01,49528.0
+2364,Face au 4 avenue de la porte de Bagnolet,2022-05-01,57439.0
+2365,Face au 4 avenue de la porte de Bagnolet,2022-06-01,60207.0
+2366,Face au 4 avenue de la porte de Bagnolet,2022-07-01,50204.0
+2367,Face au 4 avenue de la porte de Bagnolet,2022-08-01,37848.0
+2368,Face au 4 avenue de la porte de Bagnolet,2022-09-01,64313.0
+2369,Face au 4 avenue de la porte de Bagnolet,2022-10-01,65188.0
+2370,Face au 4 avenue de la porte de Bagnolet,2022-11-01,61381.0
+2371,Face au 4 avenue de la porte de Bagnolet,2022-12-01,43094.0
+2372,Face au 4 avenue de la porte de Bagnolet,2023-01-01,16742.0
+2373,Face au 40 quai D'Issy,2020-01-01,11354.0
+2374,Face au 40 quai D'Issy,2020-02-01,7597.0
+2375,Face au 40 quai D'Issy,2020-03-01,5510.0
+2376,Face au 40 quai D'Issy,2020-04-01,2091.0
+2377,Face au 40 quai D'Issy,2020-05-01,9741.0
+2378,Face au 40 quai D'Issy,2020-06-01,10708.0
+2379,Face au 40 quai D'Issy,2020-07-01,10716.0
+2380,Face au 40 quai D'Issy,2020-08-01,8208.0
+2381,Face au 40 quai D'Issy,2020-09-01,12543.0
+2382,Face au 40 quai D'Issy,2020-10-01,12437.0
+2383,Face au 40 quai D'Issy,2020-11-01,9015.0
+2384,Face au 40 quai D'Issy,2020-12-01,7776.0
+2385,Face au 40 quai D'Issy,2021-01-01,8635.0
+2386,Face au 40 quai D'Issy,2021-02-01,8666.0
+2387,Face au 40 quai D'Issy,2021-03-01,13820.0
+2388,Face au 40 quai D'Issy,2021-04-01,12985.0
+2389,Face au 40 quai D'Issy,2021-05-01,10361.0
+2390,Face au 40 quai D'Issy,2021-06-01,11952.0
+2391,Face au 40 quai D'Issy,2021-07-01,9044.0
+2392,Face au 40 quai D'Issy,2021-08-01,7015.0
+2393,Face au 40 quai D'Issy,2021-09-01,12254.0
+2394,Face au 40 quai D'Issy,2021-10-01,15088.0
+2395,Face au 40 quai D'Issy,2021-11-01,13581.0
+2396,Face au 40 quai D'Issy,2021-12-01,11328.0
+2397,Face au 40 quai D'Issy,2021-12-01,11336.0
+2398,Face au 40 quai D'Issy,2022-01-01,12767.0
+2399,Face au 40 quai D'Issy,2022-02-01,15319.0
+2400,Face au 40 quai D'Issy,2022-03-01,21409.0
+2401,Face au 40 quai D'Issy,2022-04-01,23116.0
+2402,Face au 40 quai D'Issy,2022-05-01,22706.0
+2403,Face au 40 quai D'Issy,2022-06-01,24262.0
+2404,Face au 40 quai D'Issy,2022-07-01,19797.0
+2405,Face au 40 quai D'Issy,2022-08-01,16931.0
+2406,Face au 40 quai D'Issy,2022-09-01,23185.0
+2407,Face au 40 quai D'Issy,2022-10-01,31404.0
+2408,Face au 40 quai D'Issy,2022-11-01,31537.0
+2409,Face au 40 quai D'Issy,2022-12-01,20039.0
+2410,Face au 40 quai D'Issy,2023-01-01,8416.0
+2411,Face au 48 quai de la marne,2018-11-01,5241.0
+2412,Face au 48 quai de la marne,2018-12-01,50842.0
+2413,Face au 48 quai de la marne,2019-01-01,56733.0
+2414,Face au 48 quai de la marne,2019-02-01,72611.0
+2415,Face au 48 quai de la marne,2019-03-01,80999.0
+2416,Face au 48 quai de la marne,2019-04-01,91539.0
+2417,Face au 48 quai de la marne,2019-05-01,95840.0
+2418,Face au 48 quai de la marne,2019-06-01,121377.0
+2419,Face au 48 quai de la marne,2019-07-01,130285.0
+2420,Face au 48 quai de la marne,2019-08-01,75751.0
+2421,Face au 48 quai de la marne,2019-09-01,78152.0
+2422,Face au 48 quai de la marne,2019-10-01,103790.0
+2423,Face au 48 quai de la marne,2019-11-01,81473.0
+2424,Face au 48 quai de la marne,2019-12-01,170144.0
+2425,Face au 48 quai de la marne,2020-01-01,168798.0
+2426,Face au 48 quai de la marne,2020-02-01,93717.0
+2427,Face au 48 quai de la marne,2020-03-01,67808.0
+2428,Face au 48 quai de la marne,2020-04-01,14471.0
+2429,Face au 48 quai de la marne,2020-05-01,92743.0
+2430,Face au 48 quai de la marne,2020-06-01,198806.0
+2431,Face au 48 quai de la marne,2020-07-01,197191.0
+2432,Face au 48 quai de la marne,2020-08-01,135534.0
+2433,Face au 48 quai de la marne,2020-09-01,211537.0
+2434,Face au 48 quai de la marne,2020-10-01,138846.0
+2435,Face au 48 quai de la marne,2020-11-01,106322.0
+2436,Face au 48 quai de la marne,2020-12-01,90320.0
+2437,Face au 48 quai de la marne,2021-01-01,98494.0
+2438,Face au 48 quai de la marne,2021-02-01,100549.0
+2439,Face au 48 quai de la marne,2021-03-01,149071.0
+2440,Face au 48 quai de la marne,2021-04-01,151478.0
+2441,Face au 48 quai de la marne,2021-05-01,152644.0
+2442,Face au 48 quai de la marne,2021-06-01,192004.0
+2443,Face au 48 quai de la marne,2021-07-01,144836.0
+2444,Face au 48 quai de la marne,2021-08-01,120106.0
+2445,Face au 48 quai de la marne,2021-09-01,190175.0
+2446,Face au 48 quai de la marne,2021-10-01,152440.0
+2447,Face au 48 quai de la marne,2021-11-01,118630.0
+2448,Face au 48 quai de la marne,2021-12-01,94329.0
+2449,Face au 48 quai de la marne,2021-12-01,94418.0
+2450,Face au 48 quai de la marne,2022-01-01,107631.0
+2451,Face au 48 quai de la marne,2022-02-01,117733.0
+2452,Face au 48 quai de la marne,2022-03-01,158458.0
+2453,Face au 48 quai de la marne,2022-04-01,153298.0
+2454,Face au 48 quai de la marne,2022-05-01,189315.0
+2455,Face au 48 quai de la marne,2022-06-01,192842.0
+2456,Face au 48 quai de la marne,2022-07-01,180393.0
+2457,Face au 48 quai de la marne,2022-08-01,130132.0
+2458,Face au 48 quai de la marne,2022-09-01,186885.0
+2459,Face au 48 quai de la marne,2022-10-01,180864.0
+2460,Face au 48 quai de la marne,2022-11-01,150683.0
+2461,Face au 48 quai de la marne,2022-12-01,95777.0
+2462,Face au 48 quai de la marne,2023-01-01,38220.0
+2463,Face au 70 quai de Bercy,2020-01-01,68895.0
+2464,Face au 70 quai de Bercy,2020-02-01,35851.0
+2465,Face au 70 quai de Bercy,2020-03-01,27413.0
+2466,Face au 70 quai de Bercy,2020-04-01,10992.0
+2467,Face au 70 quai de Bercy,2020-05-01,65971.0
+2468,Face au 70 quai de Bercy,2020-06-01,89344.0
+2469,Face au 70 quai de Bercy,2020-07-01,86532.0
+2470,Face au 70 quai de Bercy,2020-08-01,53058.0
+2471,Face au 70 quai de Bercy,2020-09-01,93658.0
+2472,Face au 70 quai de Bercy,2020-10-01,62029.0
+2473,Face au 70 quai de Bercy,2020-11-01,42006.0
+2474,Face au 70 quai de Bercy,2020-12-01,37993.0
+2475,Face au 70 quai de Bercy,2021-01-01,40027.0
+2476,Face au 70 quai de Bercy,2021-02-01,37378.0
+2477,Face au 70 quai de Bercy,2021-03-01,60650.0
+2478,Face au 70 quai de Bercy,2021-04-01,62608.0
+2479,Face au 70 quai de Bercy,2021-05-01,59612.0
+2480,Face au 70 quai de Bercy,2021-06-01,79259.0
+2481,Face au 70 quai de Bercy,2021-07-01,62856.0
+2482,Face au 70 quai de Bercy,2021-08-01,53519.0
+2483,Face au 70 quai de Bercy,2021-09-01,81882.0
+2484,Face au 70 quai de Bercy,2021-10-01,67375.0
+2485,Face au 70 quai de Bercy,2021-11-01,47180.0
+2486,Face au 70 quai de Bercy,2021-12-01,40497.0
+2487,Face au 70 quai de Bercy,2021-12-01,40473.0
+2488,Face au 70 quai de Bercy,2022-01-01,43848.0
+2489,Face au 70 quai de Bercy,2022-02-01,48177.0
+2490,Face au 70 quai de Bercy,2022-03-01,66301.0
+2491,Face au 70 quai de Bercy,2022-04-01,61875.0
+2492,Face au 70 quai de Bercy,2022-05-01,76187.0
+2493,Face au 70 quai de Bercy,2022-06-01,76152.0
+2494,Face au 70 quai de Bercy,2022-07-01,70685.0
+2495,Face au 70 quai de Bercy,2022-08-01,58466.0
+2496,Face au 70 quai de Bercy,2022-09-01,79618.0
+2497,Face au 70 quai de Bercy,2022-10-01,66812.0
+2498,Face au 70 quai de Bercy,2022-11-01,34047.0
+2499,Face au 70 quai de Bercy,2022-12-01,37117.0
+2500,Face au 70 quai de Bercy,2023-01-01,15374.0
+2501,Face au 8 avenue de la porte de Charenton,2020-01-01,44066.0
+2502,Face au 8 avenue de la porte de Charenton,2020-02-01,25025.0
+2503,Face au 8 avenue de la porte de Charenton,2020-03-01,20645.0
+2504,Face au 8 avenue de la porte de Charenton,2020-04-01,10070.0
+2505,Face au 8 avenue de la porte de Charenton,2020-05-01,48001.0
+2506,Face au 8 avenue de la porte de Charenton,2020-06-01,58963.0
+2507,Face au 8 avenue de la porte de Charenton,2020-07-01,51370.0
+2508,Face au 8 avenue de la porte de Charenton,2020-08-01,35120.0
+2509,Face au 8 avenue de la porte de Charenton,2020-09-01,52002.0
+2510,Face au 8 avenue de la porte de Charenton,2020-10-01,37686.0
+2511,Face au 8 avenue de la porte de Charenton,2020-11-01,27630.0
+2512,Face au 8 avenue de la porte de Charenton,2020-12-01,25348.0
+2513,Face au 8 avenue de la porte de Charenton,2021-01-01,26016.0
+2514,Face au 8 avenue de la porte de Charenton,2021-02-01,25620.0
+2515,Face au 8 avenue de la porte de Charenton,2021-03-01,36011.0
+2516,Face au 8 avenue de la porte de Charenton,2021-04-01,36379.0
+2517,Face au 8 avenue de la porte de Charenton,2021-05-01,32857.0
+2518,Face au 8 avenue de la porte de Charenton,2021-06-01,41210.0
+2519,Face au 8 avenue de la porte de Charenton,2021-07-01,34590.0
+2520,Face au 8 avenue de la porte de Charenton,2021-08-01,30370.0
+2521,Face au 8 avenue de la porte de Charenton,2021-09-01,45102.0
+2522,Face au 8 avenue de la porte de Charenton,2021-10-01,39185.0
+2523,Face au 8 avenue de la porte de Charenton,2021-11-01,32645.0
+2524,Face au 8 avenue de la porte de Charenton,2021-12-01,25093.0
+2525,Face au 8 avenue de la porte de Charenton,2021-12-01,25081.0
+2526,Face au 8 avenue de la porte de Charenton,2022-01-01,26890.0
+2527,Face au 8 avenue de la porte de Charenton,2022-02-01,29057.0
+2528,Face au 8 avenue de la porte de Charenton,2022-03-01,37520.0
+2529,Face au 8 avenue de la porte de Charenton,2022-04-01,35992.0
+2530,Face au 8 avenue de la porte de Charenton,2022-05-01,43116.0
+2531,Face au 8 avenue de la porte de Charenton,2022-06-01,43750.0
+2532,Face au 8 avenue de la porte de Charenton,2022-07-01,39953.0
+2533,Face au 8 avenue de la porte de Charenton,2022-08-01,32145.0
+2534,Face au 8 avenue de la porte de Charenton,2022-09-01,42820.0
+2535,Face au 8 avenue de la porte de Charenton,2022-10-01,46151.0
+2536,Face au 8 avenue de la porte de Charenton,2022-11-01,42000.0
+2537,Face au 8 avenue de la porte de Charenton,2022-12-01,27018.0
+2538,Face au 8 avenue de la porte de Charenton,2023-01-01,10811.0
+2539,Pont Charles De Gaulle,2019-12-01,28333.0
+2540,Pont Charles De Gaulle,2020-01-01,54745.0
+2541,Pont Charles De Gaulle,2020-02-01,36494.0
+2542,Pont Charles De Gaulle,2020-03-01,24922.0
+2543,Pont Charles De Gaulle,2020-04-01,7059.0
+2544,Pont Charles De Gaulle,2020-05-01,32465.0
+2545,Pont Charles De Gaulle,2020-06-01,55589.0
+2546,Pont Charles De Gaulle,2020-07-01,66616.0
+2547,Pont Charles De Gaulle,2020-08-01,46868.0
+2548,Pont Charles De Gaulle,2020-09-01,79320.0
+2549,Pont Charles De Gaulle,2020-10-01,56940.0
+2550,Pont Charles De Gaulle,2020-11-01,33774.0
+2551,Pont Charles De Gaulle,2020-12-01,32074.0
+2552,Pont Charles De Gaulle,2021-01-01,36522.0
+2553,Pont Charles De Gaulle,2021-02-01,31691.0
+2554,Pont Charles De Gaulle,2021-03-01,46190.0
+2555,Pont Charles De Gaulle,2021-04-01,40350.0
+2556,Pont Charles De Gaulle,2021-05-01,44803.0
+2557,Pont Charles De Gaulle,2021-06-01,61197.0
+2558,Pont Charles De Gaulle,2021-07-01,52938.0
+2559,Pont Charles De Gaulle,2021-08-01,45724.0
+2560,Pont Charles De Gaulle,2021-09-01,71441.0
+2561,Pont Charles De Gaulle,2021-10-01,62758.0
+2562,Pont Charles De Gaulle,2021-11-01,54495.0
+2563,Pont Charles De Gaulle,2021-12-01,41771.0
+2564,Pont Charles De Gaulle,2021-12-01,41806.0
+2565,Pont Charles De Gaulle,2022-01-01,44399.0
+2566,Pont Charles De Gaulle,2022-02-01,51713.0
+2567,Pont Charles De Gaulle,2022-03-01,64893.0
+2568,Pont Charles De Gaulle,2022-04-01,61122.0
+2569,Pont Charles De Gaulle,2022-05-01,73190.0
+2570,Pont Charles De Gaulle,2022-06-01,76219.0
+2571,Pont Charles De Gaulle,2022-07-01,66277.0
+2572,Pont Charles De Gaulle,2022-08-01,62286.0
+2573,Pont Charles De Gaulle,2022-09-01,93770.0
+2574,Pont Charles De Gaulle,2022-10-01,78965.0
+2575,Pont Charles De Gaulle,2022-11-01,72765.0
+2576,Pont Charles De Gaulle,2022-12-01,49726.0
+2577,Pont Charles De Gaulle,2023-01-01,20093.0
+2578,Pont National,2021-12-01,42146.0
+2579,Pont National,2022-01-01,43426.0
+2580,Pont National,2022-02-01,47637.0
+2581,Pont National,2022-03-01,61122.0
+2582,Pont National,2022-04-01,57926.0
+2583,Pont National,2022-05-01,70258.0
+2584,Pont National,2022-06-01,69045.0
+2585,Pont National,2022-07-01,61440.0
+2586,Pont National,2022-08-01,53250.0
+2587,Pont National,2022-09-01,75209.0
+2588,Pont National,2022-10-01,72008.0
+2589,Pont National,2022-11-01,56780.0
+2590,Pont National,2022-12-01,36466.0
+2591,Pont National,2023-01-01,15240.0
+2592,Pont National  NE-SO,2018-12-01,21421.0
+2593,Pont National  NE-SO,2019-01-01,27144.0
+2594,Pont National  NE-SO,2019-02-01,31328.0
+2595,Pont National  NE-SO,2019-03-01,33354.0
+2596,Pont National  NE-SO,2019-04-01,36269.0
+2597,Pont National  NE-SO,2019-05-01,35155.0
+2598,Pont National  NE-SO,2019-06-01,37324.0
+2599,Pont National  NE-SO,2019-07-01,33942.0
+2600,Pont National  NE-SO,2019-08-01,10250.0
+2601,Pont National  NE-SO,2019-09-01,17575.0
+2602,Pont National  NE-SO,2019-10-01,38361.0
+2603,Pont National  NE-SO,2019-11-01,33428.0
+2604,Pont National  NE-SO,2019-12-01,62115.0
+2605,Pont National  NE-SO,2020-01-01,55709.0
+2606,Pont National  NE-SO,2020-02-01,34356.0
+2607,Pont National  NE-SO,2020-03-01,28040.0
+2608,Pont National  NE-SO,2020-04-01,13479.0
+2609,Pont National  NE-SO,2020-05-01,52458.0
+2610,Pont National  NE-SO,2020-06-01,70219.0
+2611,Pont National  NE-SO,2020-07-01,65826.0
+2612,Pont National  NE-SO,2020-08-01,48845.0
+2613,Pont National  NE-SO,2020-09-01,75037.0
+2614,Pont National  NE-SO,2020-10-01,53541.0
+2615,Pont National  NE-SO,2020-11-01,37690.0
+2616,Pont National  NE-SO,2020-12-01,33307.0
+2617,Pont National  NE-SO,2021-01-01,35887.0
+2618,Pont National  NE-SO,2021-02-01,35626.0
+2619,Pont National  NE-SO,2021-03-01,52725.0
+2620,Pont National  NE-SO,2021-04-01,53671.0
+2621,Pont National  NE-SO,2021-05-01,50398.0
+2622,Pont National  NE-SO,2021-06-01,61756.0
+2623,Pont National  NE-SO,2021-07-01,51158.0
+2624,Pont National  NE-SO,2021-08-01,44917.0
+2625,Pont National  NE-SO,2021-09-01,71973.0
+2626,Pont National  NE-SO,2021-10-01,65778.0
+2627,Pont National  NE-SO,2021-11-01,52773.0
+2628,Pont National  NE-SO,2021-12-01,39836.0
+2629,Pont National SO-NE,2018-12-01,6996.0
+2630,Pont National SO-NE,2019-01-01,8838.0
+2631,Pont National SO-NE,2019-02-01,11202.0
+2632,Pont National SO-NE,2019-03-01,12912.0
+2633,Pont National SO-NE,2019-04-01,15212.0
+2634,Pont National SO-NE,2019-05-01,15881.0
+2635,Pont National SO-NE,2019-06-01,17455.0
+2636,Pont National SO-NE,2019-07-01,19845.0
+2637,Pont National SO-NE,2019-08-01,16008.0
+2638,Pont National SO-NE,2019-09-01,24240.0
+2639,Pont National SO-NE,2019-10-01,17247.0
+2640,Pont National SO-NE,2019-11-01,14300.0
+2641,Pont National SO-NE,2019-12-01,36296.0
+2642,Pont National SO-NE,2020-01-01,30307.0
+2643,Pont National SO-NE,2020-02-01,15960.0
+2644,Pont National SO-NE,2020-03-01,384.0
+2645,Pont National SO-NE,2020-04-01,34.0
+2646,Pont National SO-NE,2020-05-01,167.0
+2647,Pont National SO-NE,2020-06-01,68.0
+2648,Pont National SO-NE,2020-07-01,68.0
+2649,Pont National SO-NE,2020-08-01,26.0
+2650,Pont National SO-NE,2020-09-01,35.0
+2651,Pont National SO-NE,2020-10-01,29.0
+2652,Pont National SO-NE,2020-11-01,20.0
+2653,Pont National SO-NE,2020-12-01,20.0
+2654,Pont National SO-NE,2021-01-01,23.0
+2655,Pont National SO-NE,2021-02-01,38.0
+2656,Pont National SO-NE,2021-03-01,43.0
+2657,Pont National SO-NE,2021-04-01,47.0
+2658,Pont National SO-NE,2021-05-01,43.0
+2659,Pont National SO-NE,2021-06-01,33.0
+2660,Pont National SO-NE,2021-07-01,34.0
+2661,Pont National SO-NE,2021-08-01,37.0
+2662,Pont National SO-NE,2021-09-01,42.0
+2663,Pont National SO-NE,2021-10-01,54.0
+2664,Pont National SO-NE,2021-11-01,2132.0
+2665,Pont National SO-NE,2021-12-01,2332.0
+2666,Pont de Bercy,2019-12-01,46360.0
+2667,Pont de Bercy,2020-01-01,70787.0
+2668,Pont de Bercy,2020-02-01,40824.0
+2669,Pont de Bercy,2020-03-01,29549.0
+2670,Pont de Bercy,2020-04-01,12030.0
+2671,Pont de Bercy,2020-05-01,52214.0
+2672,Pont de Bercy,2020-06-01,77018.0
+2673,Pont de Bercy,2020-07-01,77067.0
+2674,Pont de Bercy,2020-08-01,53837.0
+2675,Pont de Bercy,2020-09-01,88400.0
+2676,Pont de Bercy,2020-10-01,61922.0
+2677,Pont de Bercy,2020-11-01,38934.0
+2678,Pont de Bercy,2020-12-01,35332.0
+2679,Pont de Bercy,2021-01-01,37863.0
+2680,Pont de Bercy,2021-02-01,35410.0
+2681,Pont de Bercy,2021-03-01,52309.0
+2682,Pont de Bercy,2021-04-01,50393.0
+2683,Pont de Bercy,2021-05-01,49740.0
+2684,Pont de Bercy,2021-06-01,65047.0
+2685,Pont de Bercy,2021-07-01,58129.0
+2686,Pont de Bercy,2021-08-01,49366.0
+2687,Pont de Bercy,2021-09-01,77210.0
+2688,Pont de Bercy,2021-10-01,67741.0
+2689,Pont de Bercy,2021-11-01,56087.0
+2690,Pont de Bercy,2021-12-01,43106.0
+2691,Pont de Bercy,2021-12-01,43135.0
+2692,Pont de Bercy,2022-01-01,45629.0
+2693,Pont de Bercy,2022-02-01,49211.0
+2694,Pont de Bercy,2022-03-01,62449.0
+2695,Pont de Bercy,2022-04-01,59580.0
+2696,Pont de Bercy,2022-05-01,71621.0
+2697,Pont de Bercy,2022-06-01,72209.0
+2698,Pont de Bercy,2022-07-01,62969.0
+2699,Pont de Bercy,2022-08-01,55916.0
+2700,Pont de Bercy,2022-09-01,76679.0
+2701,Pont de Bercy,2022-10-01,77804.0
+2702,Pont de Bercy,2022-11-01,69692.0
+2703,Pont de Bercy,2022-12-01,45375.0
+2704,Pont de Bercy,2023-01-01,18117.0
+2705,Pont de la Concorde,2021-12-01,94225.0
+2706,Pont de la Concorde,2022-01-01,103645.0
+2707,Pont de la Concorde,2022-02-01,114427.0
+2708,Pont de la Concorde,2022-03-01,144441.0
+2709,Pont de la Concorde,2022-04-01,136541.0
+2710,Pont de la Concorde,2022-05-01,162663.0
+2711,Pont de la Concorde,2022-06-01,169157.0
+2712,Pont de la Concorde,2022-07-01,149528.0
+2713,Pont de la Concorde,2022-08-01,117093.0
+2714,Pont de la Concorde,2022-09-01,177610.0
+2715,Pont de la Concorde,2022-10-01,179662.0
+2716,Pont de la Concorde,2022-11-01,162451.0
+2717,Pont de la Concorde,2022-12-01,112753.0
+2718,Pont de la Concorde,2023-01-01,43686.0
+2719,Pont de la Concorde N-S,2019-11-01,22934.0
+2720,Pont de la Concorde N-S,2019-12-01,64248.0
+2721,Pont de la Concorde N-S,2020-01-01,68184.0
+2722,Pont de la Concorde N-S,2020-02-01,36691.0
+2723,Pont de la Concorde N-S,2020-03-01,24152.0
+2724,Pont de la Concorde N-S,2020-04-01,8014.0
+2725,Pont de la Concorde N-S,2020-05-01,48448.0
+2726,Pont de la Concorde N-S,2020-06-01,74154.0
+2727,Pont de la Concorde N-S,2020-07-01,77328.0
+2728,Pont de la Concorde N-S,2020-08-01,54121.0
+2729,Pont de la Concorde N-S,2020-09-01,95851.0
+2730,Pont de la Concorde N-S,2020-10-01,74396.0
+2731,Pont de la Concorde N-S,2020-11-01,44680.0
+2732,Pont de la Concorde N-S,2020-12-01,43903.0
+2733,Pont de la Concorde N-S,2021-01-01,45584.0
+2734,Pont de la Concorde N-S,2021-02-01,41798.0
+2735,Pont de la Concorde N-S,2021-03-01,61370.0
+2736,Pont de la Concorde N-S,2021-04-01,56375.0
+2737,Pont de la Concorde N-S,2021-05-01,58842.0
+2738,Pont de la Concorde N-S,2021-06-01,80100.0
+2739,Pont de la Concorde N-S,2021-07-01,64783.0
+2740,Pont de la Concorde N-S,2021-08-01,51426.0
+2741,Pont de la Concorde N-S,2021-09-01,6763.0
+2742,Pont de la Concorde N-S,2021-10-01,72754.0
+2743,Pont de la Concorde N-S,2021-11-01,28424.0
+2744,Pont de la Concorde N-S,2021-12-01,49395.0
+2745,Pont de la Concorde S-N,2019-11-01,18347.0
+2746,Pont de la Concorde S-N,2019-12-01,61371.0
+2747,Pont de la Concorde S-N,2020-01-01,62804.0
+2748,Pont de la Concorde S-N,2020-02-01,32326.0
+2749,Pont de la Concorde S-N,2020-03-01,21338.0
+2750,Pont de la Concorde S-N,2020-04-01,6901.0
+2751,Pont de la Concorde S-N,2020-05-01,39880.0
+2752,Pont de la Concorde S-N,2020-06-01,63041.0
+2753,Pont de la Concorde S-N,2020-07-01,65685.0
+2754,Pont de la Concorde S-N,2020-08-01,46127.0
+2755,Pont de la Concorde S-N,2020-09-01,78604.0
+2756,Pont de la Concorde S-N,2020-10-01,61157.0
+2757,Pont de la Concorde S-N,2020-11-01,37224.0
+2758,Pont de la Concorde S-N,2020-12-01,36854.0
+2759,Pont de la Concorde S-N,2021-01-01,39001.0
+2760,Pont de la Concorde S-N,2021-02-01,36681.0
+2761,Pont de la Concorde S-N,2021-03-01,52017.0
+2762,Pont de la Concorde S-N,2021-04-01,47119.0
+2763,Pont de la Concorde S-N,2021-05-01,50143.0
+2764,Pont de la Concorde S-N,2021-06-01,68887.0
+2765,Pont de la Concorde S-N,2021-07-01,57197.0
+2766,Pont de la Concorde S-N,2021-08-01,44936.0
+2767,Pont de la Concorde S-N,2021-09-01,78085.0
+2768,Pont de la Concorde S-N,2021-10-01,59708.0
+2769,Pont de la Concorde S-N,2021-11-01,41996.0
+2770,Pont de la Concorde S-N,2021-12-01,44902.0
+2771,Pont des Invalides,2021-12-01,27350.0
+2772,Pont des Invalides,2022-01-01,29094.0
+2773,Pont des Invalides,2022-02-01,33490.0
+2774,Pont des Invalides,2022-03-01,42721.0
+2775,Pont des Invalides,2022-04-01,39832.0
+2776,Pont des Invalides,2022-05-01,48658.0
+2777,Pont des Invalides,2022-06-01,54123.0
+2778,Pont des Invalides,2022-07-01,49834.0
+2779,Pont des Invalides,2022-08-01,35921.0
+2780,Pont des Invalides,2022-09-01,57899.0
+2781,Pont des Invalides,2022-10-01,47634.0
+2782,Pont des Invalides,2022-11-01,35631.0
+2783,Pont des Invalides,2022-12-01,37497.0
+2784,Pont des Invalides,2023-01-01,14921.0
+2785,Pont des Invalides N-S,2020-01-01,24585.0
+2786,Pont des Invalides N-S,2020-02-01,14068.0
+2787,Pont des Invalides N-S,2020-03-01,9928.0
+2788,Pont des Invalides N-S,2020-04-01,5682.0
+2789,Pont des Invalides N-S,2020-05-01,15847.0
+2790,Pont des Invalides N-S,2020-06-01,24285.0
+2791,Pont des Invalides N-S,2020-07-01,24150.0
+2792,Pont des Invalides N-S,2020-08-01,14357.0
+2793,Pont des Invalides N-S,2020-09-01,25502.0
+2794,Pont des Invalides N-S,2020-10-01,17278.0
+2795,Pont des Invalides N-S,2020-11-01,11799.0
+2796,Pont des Invalides N-S,2020-12-01,11053.0
+2797,Pont des Invalides N-S,2021-01-01,10952.0
+2798,Pont des Invalides N-S,2021-02-01,10678.0
+2799,Pont des Invalides N-S,2021-03-01,14565.0
+2800,Pont des Invalides N-S,2021-04-01,12484.0
+2801,Pont des Invalides N-S,2021-05-01,14306.0
+2802,Pont des Invalides N-S,2021-06-01,19932.0
+2803,Pont des Invalides N-S,2021-07-01,19134.0
+2804,Pont des Invalides N-S,2021-08-01,12544.0
+2805,Pont des Invalides N-S,2021-09-01,22578.0
+2806,Pont des Invalides N-S,2021-10-01,18999.0
+2807,Pont des Invalides N-S,2021-11-01,16940.0
+2808,Pont des Invalides N-S,2021-12-01,13847.0
+2809,Pont des Invalides S-N,2020-01-01,20132.0
+2810,Pont des Invalides S-N,2020-02-01,8408.0
+2811,Pont des Invalides S-N,2020-03-01,7974.0
+2812,Pont des Invalides S-N,2020-04-01,2955.0
+2813,Pont des Invalides S-N,2020-05-01,14598.0
+2814,Pont des Invalides S-N,2020-06-01,26420.0
+2815,Pont des Invalides S-N,2020-07-01,21828.0
+2816,Pont des Invalides S-N,2020-08-01,13927.0
+2817,Pont des Invalides S-N,2020-09-01,31849.0
+2818,Pont des Invalides S-N,2020-10-01,22007.0
+2819,Pont des Invalides S-N,2020-11-01,13853.0
+2820,Pont des Invalides S-N,2020-12-01,11409.0
+2821,Pont des Invalides S-N,2021-01-01,10779.0
+2822,Pont des Invalides S-N,2021-02-01,13252.0
+2823,Pont des Invalides S-N,2021-03-01,18461.0
+2824,Pont des Invalides S-N,2021-04-01,16585.0
+2825,Pont des Invalides S-N,2021-05-01,18651.0
+2826,Pont des Invalides S-N,2021-06-01,24765.0
+2827,Pont des Invalides S-N,2021-07-01,22239.0
+2828,Pont des Invalides S-N,2021-08-01,14929.0
+2829,Pont des Invalides S-N,2021-09-01,30309.0
+2830,Pont des Invalides S-N,2021-10-01,26348.0
+2831,Pont des Invalides S-N,2021-11-01,22158.0
+2832,Pont des Invalides S-N,2021-12-01,13533.0
+2833,Pont du Garigliano,2020-01-01,34523.0
+2834,Pont du Garigliano,2020-02-01,21449.0
+2835,Pont du Garigliano,2020-03-01,16219.0
+2836,Pont du Garigliano,2020-04-01,7340.0
+2837,Pont du Garigliano,2020-05-01,26779.0
+2838,Pont du Garigliano,2020-06-01,36730.0
+2839,Pont du Garigliano,2020-07-01,36762.0
+2840,Pont du Garigliano,2020-08-01,24641.0
+2841,Pont du Garigliano,2020-09-01,45992.0
+2842,Pont du Garigliano,2020-10-01,32409.0
+2843,Pont du Garigliano,2020-11-01,22219.0
+2844,Pont du Garigliano,2020-12-01,19431.0
+2845,Pont du Garigliano,2021-01-01,22076.0
+2846,Pont du Garigliano,2021-02-01,20404.0
+2847,Pont du Garigliano,2021-03-01,30866.0
+2848,Pont du Garigliano,2021-04-01,30013.0
+2849,Pont du Garigliano,2021-05-01,30006.0
+2850,Pont du Garigliano,2021-06-01,38639.0
+2851,Pont du Garigliano,2021-07-01,31328.0
+2852,Pont du Garigliano,2021-08-01,23584.0
+2853,Pont du Garigliano,2021-09-01,43746.0
+2854,Pont du Garigliano,2021-10-01,39807.0
+2855,Pont du Garigliano,2021-11-01,32848.0
+2856,Pont du Garigliano,2021-12-01,24897.0
+2857,Pont du Garigliano,2021-12-01,58854.0
+2858,Pont du Garigliano,2022-01-01,64320.0
+2859,Pont du Garigliano,2022-02-01,69889.0
+2860,Pont du Garigliano,2022-03-01,87575.0
+2861,Pont du Garigliano,2022-04-01,82014.0
+2862,Pont du Garigliano,2022-05-01,100339.0
+2863,Pont du Garigliano,2022-06-01,102148.0
+2864,Pont du Garigliano,2022-07-01,85547.0
+2865,Pont du Garigliano,2022-08-01,67614.0
+2866,Pont du Garigliano,2022-09-01,107282.0
+2867,Pont du Garigliano,2022-10-01,105450.0
+2868,Pont du Garigliano,2022-11-01,88182.0
+2869,Pont du Garigliano,2022-12-01,60202.0
+2870,Pont du Garigliano,2023-01-01,25179.0
+2871,Pont du Garigliano NO-SE,2018-11-01,2741.0
+2872,Pont du Garigliano NO-SE,2018-12-01,18341.0
+2873,Pont du Garigliano NO-SE,2019-01-01,21644.0
+2874,Pont du Garigliano NO-SE,2019-02-01,23931.0
+2875,Pont du Garigliano NO-SE,2019-03-01,25729.0
+2876,Pont du Garigliano NO-SE,2019-04-01,28045.0
+2877,Pont du Garigliano NO-SE,2019-05-01,29928.0
+2878,Pont du Garigliano NO-SE,2019-06-01,33545.0
+2879,Pont du Garigliano NO-SE,2019-07-01,35131.0
+2880,Pont du Garigliano NO-SE,2019-08-01,26382.0
+2881,Pont du Garigliano NO-SE,2019-09-01,41209.0
+2882,Pont du Garigliano NO-SE,2019-10-01,32953.0
+2883,Pont du Garigliano NO-SE,2019-11-01,28785.0
+2884,Pont du Garigliano NO-SE,2019-12-01,48570.0
+2885,Pont du Garigliano NO-SE,2020-01-01,48311.0
+2886,Pont du Garigliano NO-SE,2020-02-01,29390.0
+2887,Pont du Garigliano NO-SE,2020-03-01,21963.0
+2888,Pont du Garigliano NO-SE,2020-04-01,10418.0
+2889,Pont du Garigliano NO-SE,2020-05-01,39713.0
+2890,Pont du Garigliano NO-SE,2020-06-01,51617.0
+2891,Pont du Garigliano NO-SE,2020-07-01,50195.0
+2892,Pont du Garigliano NO-SE,2020-08-01,33057.0
+2893,Pont du Garigliano NO-SE,2020-09-01,59921.0
+2894,Pont du Garigliano NO-SE,2020-10-01,42775.0
+2895,Pont du Garigliano NO-SE,2020-11-01,29704.0
+2896,Pont du Garigliano NO-SE,2020-12-01,26999.0
+2897,Pont du Garigliano NO-SE,2021-01-01,30230.0
+2898,Pont du Garigliano NO-SE,2021-02-01,28569.0
+2899,Pont du Garigliano NO-SE,2021-03-01,41617.0
+2900,Pont du Garigliano NO-SE,2021-04-01,42031.0
+2901,Pont du Garigliano NO-SE,2021-05-01,41870.0
+2902,Pont du Garigliano NO-SE,2021-06-01,52701.0
+2903,Pont du Garigliano NO-SE,2021-07-01,43164.0
+2904,Pont du Garigliano NO-SE,2021-08-01,32987.0
+2905,Pont du Garigliano NO-SE,2021-09-01,59211.0
+2906,Pont du Garigliano NO-SE,2021-10-01,53616.0
+2907,Pont du Garigliano NO-SE,2021-11-01,43707.0
+2908,Pont du Garigliano NO-SE,2021-12-01,33987.0
+2909,Pont du Garigliano SE-NO,2018-12-01,10772.0
+2910,Pont du Garigliano SE-NO,2019-01-01,15633.0
+2911,Pont du Garigliano SE-NO,2019-02-01,17848.0
+2912,Pont du Garigliano SE-NO,2019-03-01,19132.0
+2913,Pont du Garigliano SE-NO,2019-04-01,21495.0
+2914,Pont du Garigliano SE-NO,2019-05-01,22340.0
+2915,Pont du Garigliano SE-NO,2019-06-01,23955.0
+2916,Pont du Garigliano SE-NO,2019-07-01,26122.0
+2917,Pont du Garigliano SE-NO,2019-08-01,19052.0
+2918,Pont du Garigliano SE-NO,2019-09-01,31209.0
+2919,Pont du Garigliano SE-NO,2019-10-01,24008.0
+2920,Pont du Garigliano SE-NO,2019-11-01,20869.0
+2921,Pont du Garigliano SE-NO,2019-12-01,33982.0
+2922,Quai d'Orsay,2019-11-01,33526.0
+2923,Quai d'Orsay,2019-12-01,118980.0
+2924,Quai d'Orsay,2020-01-01,132004.0
+2925,Quai d'Orsay,2020-02-01,58215.0
+2926,Quai d'Orsay,2020-03-01,55381.0
+2927,Quai d'Orsay,2020-04-01,26172.0
+2928,Quai d'Orsay,2020-05-01,138021.0
+2929,Quai d'Orsay,2020-06-01,194566.0
+2930,Quai d'Orsay,2020-07-01,203240.0
+2931,Quai d'Orsay,2020-08-01,133226.0
+2932,Quai d'Orsay,2020-09-01,226642.0
+2933,Quai d'Orsay,2020-10-01,141595.0
+2934,Quai d'Orsay,2020-11-01,91054.0
+2935,Quai d'Orsay,2020-12-01,73193.0
+2936,Quai d'Orsay,2021-01-01,67169.0
+2937,Quai d'Orsay,2021-02-01,96772.0
+2938,Quai d'Orsay,2021-03-01,114404.0
+2939,Quai d'Orsay,2021-04-01,118349.0
+2940,Quai d'Orsay,2021-05-01,123086.0
+2941,Quai d'Orsay,2021-06-01,170860.0
+2942,Quai d'Orsay,2021-07-01,153348.0
+2943,Quai d'Orsay,2021-08-01,123734.0
+2944,Quai d'Orsay,2021-09-01,213985.0
+2945,Quai d'Orsay,2021-10-01,167288.0
+2946,Quai d'Orsay,2021-11-01,126530.0
+2947,Quai d'Orsay,2021-12-01,75654.0
+2948,Quai d'Orsay,2021-12-01,75736.0
+2949,Quai d'Orsay,2022-01-01,76954.0
+2950,Quai d'Orsay,2022-02-01,100418.0
+2951,Quai d'Orsay,2022-03-01,135611.0
+2952,Quai d'Orsay,2022-04-01,139991.0
+2953,Quai d'Orsay,2022-05-01,179920.0
+2954,Quai d'Orsay,2022-06-01,193471.0
+2955,Quai d'Orsay,2022-07-01,194788.0
+2956,Quai d'Orsay,2022-08-01,147894.0
+2957,Quai d'Orsay,2022-09-01,196235.0
+2958,Quai d'Orsay,2022-10-01,195566.0
+2959,Quai d'Orsay,2022-11-01,163136.0
+2960,Quai d'Orsay,2022-12-01,100419.0
+2961,Quai d'Orsay,2023-01-01,37533.0
+2962,Quai des Tuileries,2021-01-01,0.0
+2963,Quai des Tuileries,2021-02-01,0.0
+2964,Quai des Tuileries,2021-03-01,0.0
+2965,Quai des Tuileries,2021-04-01,0.0
+2966,Quai des Tuileries,2021-05-01,44757.0
+2967,Quai des Tuileries,2021-06-01,116474.0
+2968,Quai des Tuileries,2021-07-01,88680.0
+2969,Quai des Tuileries,2021-08-01,71604.0
+2970,Quai des Tuileries,2021-09-01,143778.0
+2971,Quai des Tuileries,2021-10-01,119245.0
+2972,Quai des Tuileries,2021-11-01,97921.0
+2973,Quai des Tuileries,2021-12-01,71825.0
+2974,Quai des Tuileries,2021-12-01,71838.0
+2975,Quai des Tuileries,2022-01-01,79173.0
+2976,Quai des Tuileries,2022-02-01,89173.0
+2977,Quai des Tuileries,2022-03-01,117153.0
+2978,Quai des Tuileries,2022-04-01,107312.0
+2979,Quai des Tuileries,2022-05-01,125887.0
+2980,Quai des Tuileries,2022-06-01,127074.0
+2981,Quai des Tuileries,2022-07-01,71875.0
+2982,Quai des Tuileries,2022-08-01,77014.0
+2983,Quai des Tuileries,2022-09-01,133055.0
+2984,Quai des Tuileries,2022-10-01,130611.0
+2985,Quai des Tuileries,2022-11-01,113216.0
+2986,Quai des Tuileries,2022-12-01,71228.0
+2987,Quai des Tuileries,2023-01-01,32735.0
+2988,Totem 64 Rue de Rivoli,2019-09-01,140730.0
+2989,Totem 64 Rue de Rivoli,2019-10-01,141168.0
+2990,Totem 64 Rue de Rivoli,2019-11-01,117035.0
+2991,Totem 64 Rue de Rivoli,2019-12-01,195420.0
+2992,Totem 64 Rue de Rivoli,2020-01-01,202368.0
+2993,Totem 64 Rue de Rivoli,2020-02-01,138878.0
+2994,Totem 64 Rue de Rivoli,2020-03-01,102253.0
+2995,Totem 64 Rue de Rivoli,2020-04-01,38293.0
+2996,Totem 64 Rue de Rivoli,2020-05-01,200467.0
+2997,Totem 64 Rue de Rivoli,2020-06-01,285902.0
+2998,Totem 64 Rue de Rivoli,2020-07-01,286694.0
+2999,Totem 64 Rue de Rivoli,2020-08-01,186549.0
+3000,Totem 64 Rue de Rivoli,2020-09-01,297318.0
+3001,Totem 64 Rue de Rivoli,2020-10-01,236104.0
+3002,Totem 64 Rue de Rivoli,2020-11-01,131128.0
+3003,Totem 64 Rue de Rivoli,2020-12-01,155094.0
+3004,Totem 64 Rue de Rivoli,2021-01-01,146196.0
+3005,Totem 64 Rue de Rivoli,2021-02-01,164569.0
+3006,Totem 64 Rue de Rivoli,2021-03-01,206543.0
+3007,Totem 64 Rue de Rivoli,2021-04-01,183126.0
+3008,Totem 64 Rue de Rivoli,2021-05-01,206284.0
+3009,Totem 64 Rue de Rivoli,2021-06-01,291943.0
+3010,Totem 64 Rue de Rivoli,2021-07-01,251555.0
+3011,Totem 64 Rue de Rivoli,2021-08-01,200631.0
+3012,Totem 64 Rue de Rivoli,2021-09-01,317580.0
+3013,Totem 64 Rue de Rivoli,2021-10-01,288525.0
+3014,Totem 64 Rue de Rivoli,2021-11-01,232669.0
+3015,Totem 64 Rue de Rivoli,2021-12-01,200553.0
+3016,Totem 64 Rue de Rivoli,2021-12-01,200740.0
+3017,Totem 64 Rue de Rivoli,2022-01-01,202603.0
+3018,Totem 64 Rue de Rivoli,2022-02-01,213048.0
+3019,Totem 64 Rue de Rivoli,2022-03-01,253903.0
+3020,Totem 64 Rue de Rivoli,2022-04-01,251300.0
+3021,Totem 64 Rue de Rivoli,2022-05-01,293904.0
+3022,Totem 64 Rue de Rivoli,2022-06-01,302842.0
+3023,Totem 64 Rue de Rivoli,2022-07-01,297966.0
+3024,Totem 64 Rue de Rivoli,2022-08-01,228636.0
+3025,Totem 64 Rue de Rivoli,2022-09-01,297350.0
+3026,Totem 64 Rue de Rivoli,2022-10-01,304879.0
+3027,Totem 64 Rue de Rivoli,2022-11-01,261734.0
+3028,Totem 64 Rue de Rivoli,2022-12-01,184762.0
+3029,Totem 64 Rue de Rivoli,2023-01-01,66106.0
+3030,Totem 73 boulevard de Sébastopol,2020-02-01,123602.0
+3031,Totem 73 boulevard de Sébastopol,2020-03-01,127046.0
+3032,Totem 73 boulevard de Sébastopol,2020-04-01,47467.0
+3033,Totem 73 boulevard de Sébastopol,2020-05-01,214915.0
+3034,Totem 73 boulevard de Sébastopol,2020-06-01,372134.0
+3035,Totem 73 boulevard de Sébastopol,2020-07-01,381476.0
+3036,Totem 73 boulevard de Sébastopol,2020-08-01,257917.0
+3037,Totem 73 boulevard de Sébastopol,2020-09-01,431414.0
+3038,Totem 73 boulevard de Sébastopol,2020-10-01,327193.0
+3039,Totem 73 boulevard de Sébastopol,2020-11-01,190494.0
+3040,Totem 73 boulevard de Sébastopol,2020-12-01,197690.0
+3041,Totem 73 boulevard de Sébastopol,2021-01-01,209350.0
+3042,Totem 73 boulevard de Sébastopol,2021-02-01,197448.0
+3043,Totem 73 boulevard de Sébastopol,2021-03-01,274190.0
+3044,Totem 73 boulevard de Sébastopol,2021-04-01,255723.0
+3045,Totem 73 boulevard de Sébastopol,2021-05-01,284672.0
+3046,Totem 73 boulevard de Sébastopol,2021-06-01,393929.0
+3047,Totem 73 boulevard de Sébastopol,2021-07-01,339215.0
+3048,Totem 73 boulevard de Sébastopol,2021-08-01,258352.0
+3049,Totem 73 boulevard de Sébastopol,2021-09-01,409004.0
+3050,Totem 73 boulevard de Sébastopol,2021-10-01,372404.0
+3051,Totem 73 boulevard de Sébastopol,2021-11-01,316335.0
+3052,Totem 73 boulevard de Sébastopol,2021-12-01,254970.0
+3053,Totem 73 boulevard de Sébastopol,2021-12-01,255313.0
+3054,Totem 73 boulevard de Sébastopol,2022-01-01,267818.0
+3055,Totem 73 boulevard de Sébastopol,2022-02-01,292905.0
+3056,Totem 73 boulevard de Sébastopol,2022-03-01,354871.0
+3057,Totem 73 boulevard de Sébastopol,2022-04-01,341056.0
+3058,Totem 73 boulevard de Sébastopol,2022-05-01,404156.0
+3059,Totem 73 boulevard de Sébastopol,2022-06-01,412434.0
+3060,Totem 73 boulevard de Sébastopol,2022-07-01,387475.0
+3061,Totem 73 boulevard de Sébastopol,2022-08-01,309970.0
+3062,Totem 73 boulevard de Sébastopol,2022-09-01,466063.0
+3063,Totem 73 boulevard de Sébastopol,2022-10-01,466336.0
+3064,Totem 73 boulevard de Sébastopol,2022-11-01,406347.0
+3065,Totem 73 boulevard de Sébastopol,2022-12-01,274791.0
+3066,Totem 73 boulevard de Sébastopol,2023-01-01,101095.0
+3067,Totem 85 quai d'Austerlitz,2020-02-01,31610.0
+3068,Totem 85 quai d'Austerlitz,2020-03-01,52084.0
+3069,Totem 85 quai d'Austerlitz,2020-04-01,19254.0
+3070,Totem 85 quai d'Austerlitz,2020-05-01,94630.0
+3071,Totem 85 quai d'Austerlitz,2020-06-01,147567.0
+3072,Totem 85 quai d'Austerlitz,2020-07-01,154056.0
+3073,Totem 85 quai d'Austerlitz,2020-08-01,106953.0
+3074,Totem 85 quai d'Austerlitz,2020-09-01,175496.0
+3075,Totem 85 quai d'Austerlitz,2020-10-01,125190.0
+3076,Totem 85 quai d'Austerlitz,2020-11-01,72480.0
+3077,Totem 85 quai d'Austerlitz,2020-12-01,69991.0
+3078,Totem 85 quai d'Austerlitz,2021-01-01,76540.0
+3079,Totem 85 quai d'Austerlitz,2021-02-01,78303.0
+3080,Totem 85 quai d'Austerlitz,2021-03-01,106178.0
+3081,Totem 85 quai d'Austerlitz,2021-04-01,102637.0
+3082,Totem 85 quai d'Austerlitz,2021-05-01,108126.0
+3083,Totem 85 quai d'Austerlitz,2021-06-01,148385.0
+3084,Totem 85 quai d'Austerlitz,2021-07-01,128099.0
+3085,Totem 85 quai d'Austerlitz,2021-08-01,104225.0
+3086,Totem 85 quai d'Austerlitz,2021-09-01,172485.0
+3087,Totem 85 quai d'Austerlitz,2021-10-01,150489.0
+3088,Totem 85 quai d'Austerlitz,2021-11-01,122647.0
+3089,Totem 85 quai d'Austerlitz,2021-12-01,92713.0
+3090,Totem 85 quai d'Austerlitz,2021-12-01,92621.0
+3091,Totem 85 quai d'Austerlitz,2022-01-01,95281.0
+3092,Totem 85 quai d'Austerlitz,2022-02-01,107935.0
+3093,Totem 85 quai d'Austerlitz,2022-03-01,137215.0
+3094,Totem 85 quai d'Austerlitz,2022-04-01,127820.0
+3095,Totem 85 quai d'Austerlitz,2022-05-01,151634.0
+3096,Totem 85 quai d'Austerlitz,2022-06-01,156330.0
+3097,Totem 85 quai d'Austerlitz,2022-07-01,144488.0
+3098,Totem 85 quai d'Austerlitz,2022-08-01,124378.0
+3099,Totem 85 quai d'Austerlitz,2022-09-01,169284.0
+3100,Totem 85 quai d'Austerlitz,2022-10-01,167546.0
+3101,Totem 85 quai d'Austerlitz,2022-11-01,145585.0
+3102,Totem 85 quai d'Austerlitz,2022-12-01,94859.0
+3103,Totem 85 quai d'Austerlitz,2023-01-01,38117.0
+3104,Totem Cours la Reine,2020-02-01,50407.0
+3105,Totem Cours la Reine,2020-03-01,52083.0
+3106,Totem Cours la Reine,2020-04-01,17456.0
+3107,Totem Cours la Reine,2020-05-01,109619.0
+3108,Totem Cours la Reine,2020-06-01,159061.0
+3109,Totem Cours la Reine,2020-07-01,153946.0
+3110,Totem Cours la Reine,2020-08-01,94808.0
+3111,Totem Cours la Reine,2020-09-01,160926.0
+3112,Totem Cours la Reine,2020-10-01,116216.0
+3113,Totem Cours la Reine,2020-11-01,74905.0
+3114,Totem Cours la Reine,2020-12-01,68117.0
+3115,Totem Cours la Reine,2021-01-01,74939.0
+3116,Totem Cours la Reine,2021-02-01,70331.0
+3117,Totem Cours la Reine,2021-03-01,106796.0
+3118,Totem Cours la Reine,2021-04-01,100311.0
+3119,Totem Cours la Reine,2021-05-01,110675.0
+3120,Totem Cours la Reine,2021-06-01,150800.0
+3121,Totem Cours la Reine,2021-07-01,126914.0
+3122,Totem Cours la Reine,2021-08-01,98454.0
+3123,Totem Cours la Reine,2021-09-01,161647.0
+3124,Totem Cours la Reine,2021-10-01,135377.0
+3125,Totem Cours la Reine,2021-11-01,118245.0
+3126,Totem Cours la Reine,2021-12-01,85787.0
+3127,Totem Cours la Reine,2021-12-01,85845.0
+3128,Totem Cours la Reine,2022-01-01,93581.0
+3129,Totem Cours la Reine,2022-02-01,102318.0
+3130,Totem Cours la Reine,2022-03-01,132023.0
+3131,Totem Cours la Reine,2022-04-01,131308.0
+3132,Totem Cours la Reine,2022-05-01,161461.0
+3133,Totem Cours la Reine,2022-06-01,166222.0
+3134,Totem Cours la Reine,2022-07-01,151202.0
+3135,Totem Cours la Reine,2022-08-01,119242.0
+3136,Totem Cours la Reine,2022-09-01,168760.0
+3137,Totem Cours la Reine,2022-10-01,163786.0
+3138,Totem Cours la Reine,2022-11-01,127032.0
+3139,Totem Cours la Reine,2022-12-01,79897.0
+3140,Totem Cours la Reine,2023-01-01,32600.0
+3141,Voie Georges Pompidou,2018-01-01,6075.0
+3142,Voie Georges Pompidou,2018-02-01,2275.0
+3143,Voie Georges Pompidou,2018-03-01,17421.0
+3144,Voie Georges Pompidou,2018-04-01,29823.0
+3145,Voie Georges Pompidou,2018-05-01,35926.0
+3146,Voie Georges Pompidou,2018-06-01,38182.0
+3147,Voie Georges Pompidou,2018-07-01,40025.0
+3148,Voie Georges Pompidou,2018-08-01,27805.0
+3149,Voie Georges Pompidou,2018-09-01,52874.0
+3150,Voie Georges Pompidou,2018-10-01,47932.0
+3151,Voie Georges Pompidou,2018-11-01,32934.0
+3152,Voie Georges Pompidou,2018-12-01,24322.0
+3153,Voie Georges Pompidou,2019-01-01,27070.0
+3154,Voie Georges Pompidou,2019-02-01,34596.0
+3155,Voie Georges Pompidou,2019-03-01,37690.0
+3156,Voie Georges Pompidou,2019-04-01,45205.0
+3157,Voie Georges Pompidou,2019-05-01,49055.0
+3158,Voie Georges Pompidou,2019-06-01,54539.0
+3159,Voie Georges Pompidou,2019-07-01,64212.0
+3160,Voie Georges Pompidou,2019-08-01,47101.0
+3161,Voie Georges Pompidou,2019-09-01,76327.0
+3162,Voie Georges Pompidou,2019-10-01,55064.0
+3163,Voie Georges Pompidou,2019-11-01,43820.0
+3164,Voie Georges Pompidou,2019-12-01,106333.0
+3165,Voie Georges Pompidou,2020-01-01,95131.0
+3166,Voie Georges Pompidou,2020-02-01,48632.0
+3167,Voie Georges Pompidou,2020-03-01,29175.0
+3168,Voie Georges Pompidou,2020-04-01,15507.0
+3169,Voie Georges Pompidou,2020-05-01,83319.0
+3170,Voie Georges Pompidou,2020-06-01,117069.0
+3171,Voie Georges Pompidou,2020-07-01,116403.0
+3172,Voie Georges Pompidou,2020-08-01,70371.0
+3173,Voie Georges Pompidou,2020-09-01,126806.0
+3174,Voie Georges Pompidou,2020-10-01,85491.0
+3175,Voie Georges Pompidou,2020-11-01,61751.0
+3176,Voie Georges Pompidou,2020-12-01,51042.0
+3177,Voie Georges Pompidou,2021-01-01,55642.0
+3178,Voie Georges Pompidou,2021-02-01,34601.0
+3179,Voie Georges Pompidou,2021-03-01,31823.0
+3180,Voie Georges Pompidou,2021-04-01,71717.0
+3181,Voie Georges Pompidou,2021-05-01,70934.0
+3182,Voie Georges Pompidou,2021-06-01,96856.0
+3183,Voie Georges Pompidou,2021-07-01,79833.0
+3184,Voie Georges Pompidou,2021-08-01,58728.0
+3185,Voie Georges Pompidou,2021-09-01,111075.0
+3186,Voie Georges Pompidou,2021-10-01,94710.0
+3187,Voie Georges Pompidou,2021-11-01,74473.0
+3188,Voie Georges Pompidou,2021-12-01,52547.0
+3189,Voie Georges Pompidou,2021-12-01,52565.0
+3190,Voie Georges Pompidou,2022-01-01,57843.0
+3191,Voie Georges Pompidou,2022-02-01,65252.0
+3192,Voie Georges Pompidou,2022-03-01,86102.0
+3193,Voie Georges Pompidou,2022-04-01,80793.0
+3194,Voie Georges Pompidou,2022-05-01,99036.0
+3195,Voie Georges Pompidou,2022-06-01,101642.0
+3196,Voie Georges Pompidou,2022-07-01,89881.0
+3197,Voie Georges Pompidou,2022-08-01,68338.0
+3198,Voie Georges Pompidou,2022-09-01,108777.0
+3199,Voie Georges Pompidou,2022-10-01,104891.0
+3200,Voie Georges Pompidou,2022-11-01,88354.0
+3201,Voie Georges Pompidou,2022-12-01,53005.0
+3202,Voie Georges Pompidou,2023-01-01,23440.0
+3203,face au 4 avenue de la porte de Bagnolet,2019-11-01,24506.0
+3204,face au 4 avenue de la porte de Bagnolet,2019-12-01,47880.0
+3205,face au 40 Quai D'Issy,2019-11-01,6552.0
+3206,face au 40 Quai D'Issy,2019-12-01,11046.0
+3207,face au 70 Quai de Bercy,2018-11-01,1168.0
+3208,face au 70 Quai de Bercy,2018-12-01,19744.0
+3209,face au 70 Quai de Bercy,2019-01-01,22609.0
+3210,face au 70 Quai de Bercy,2019-02-01,28324.0
+3211,face au 70 Quai de Bercy,2019-03-01,30260.0
+3212,face au 70 Quai de Bercy,2019-04-01,36441.0
+3213,face au 70 Quai de Bercy,2019-05-01,37284.0
+3214,face au 70 Quai de Bercy,2019-06-01,40783.0
+3215,face au 70 Quai de Bercy,2019-07-01,48330.0
+3216,face au 70 Quai de Bercy,2019-08-01,37706.0
+3217,face au 70 Quai de Bercy,2019-09-01,53993.0
+3218,face au 70 Quai de Bercy,2019-10-01,39083.0
+3219,face au 70 Quai de Bercy,2019-11-01,30931.0
+3220,face au 70 Quai de Bercy,2019-12-01,70799.0
+3221,face au 8 avenue de la porte de Charenton,2019-11-01,18330.0
+3222,face au 8 avenue de la porte de Charenton,2019-12-01,48849.0
+3223,pont des Invalides N-S,2019-11-01,9942.0
+3224,pont des Invalides N-S,2019-12-01,23628.0
+3225,pont des Invalides S-N,2019-11-01,10932.0
+3226,pont des Invalides S-N,2019-12-01,25497.0
